@@ -1,0 +1,87 @@
+name: Monitor Census contract awards
+
+on:
+  schedule:
+    # 09:00 UTC every Monday.
+    #
+    # USASpending updates continuously (nightly loads from FPDS), unlike the
+    # inventory PDF's monthly republication, so there is no publication date
+    # to aim at. Weekly keeps the changelog granular enough to see when an
+    # award first appears without generating noise from daily churn.
+    - cron: "0 9 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: census-contracts-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run test suite
+        run: pytest -q
+
+      - name: Run monitor
+        id: monitor
+        run: |
+          set +e
+          python monitor.py run
+          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+          set -e
+
+      - name: Check what changed
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+          if git status --porcelain | grep -q "CHANGELOG.md"; then
+            echo "changelog_changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changelog_changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Automated check: $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Open an issue summarizing the change
+        if: steps.changes.outputs.changelog_changed == 'true' && steps.monitor.outputs.exit_code == '0'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -c "from contracts_monitor.changelog import latest_entry; print(latest_entry())" > /tmp/entry.md
+          gh issue create --title "Census contracts changed: $(date -u +%Y-%m-%d)" --body-file /tmp/entry.md
+
+      - name: Open an issue and fail if the monitor needs attention
+        if: steps.monitor.outputs.exit_code != '0'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "Census contracts monitor needs attention: $(date -u +%Y-%m-%d)" \
+            --body "The monitor exited ${{ steps.monitor.outputs.exit_code }}. Most likely causes, in order: (1) SCOPE FAILURE -- USASpending silently ignored our tas_codes filter, meaning results were not scoped to the Census accounts; (2) an implausibly small result set; (3) the churn guard tripped. Check CHECK_LOG.md and any extracted/*.suspect.csv before trusting the next diff."
+          exit 1
