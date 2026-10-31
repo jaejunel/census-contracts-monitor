@@ -17,3 +17,5 @@ Every run of the monitor, whether or not awards changed.
 - 2026-10-30 FY2024: initial snapshot (443 awards)
 - 2026-10-30 FY2025: initial snapshot (322 awards)
 - 2026-10-30 FY2026: initial snapshot (215 awards)
+- 2026-10-31 FY2027: EMPTY RESULT — FY2027: only 5 awards returned, below the plausibility floor of 10. Either the API changed, the TAS codes are wrong, or there is an outage. Refusing to record this as a mass disappearance.
+- 2026-10-31 FY2026: unchanged (215 awards)
