@@ -1,0 +1,147 @@
+{
+ "award_count": 5,
+ "awards": [
+  {
+   "Award Amount": 104028980.33,
+   "Award ID": "1333LB21F00000320",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ENTERPRISE CYBERSECURITY SUPPORT SERVICES",
+   "End Date": "2027-03-27",
+   "Last Modified Date": "2026-10-22 11:40:10",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "IRON VINE SECURITY LLC",
+   "Start Date": "2021-09-28",
+   "Total Outlays": 90501156.26,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB21F00000320_1323_47QTCA19D00HF_4732",
+   "internal_id": 277632877
+  },
+  {
+   "Award Amount": 11749435.6,
+   "Award ID": "13ADRM26F0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ONPREM AND CLOUD INFRASTRUCTURE SUPPORT SERVICES CALL ORDER 0006 RESEARCH AND METHODOLOGY DIRECTORATE 03/04/2026 - 03/03/2027",
+   "End Date": "2027-03-04",
+   "Last Modified Date": "2026-10-21 16:14:13",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2026-03-05",
+   "Total Outlays": 2540195.98,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADRM26F0002_1323_1333LB25A00000002_1323",
+   "internal_id": 355809324
+  },
+  {
+   "Award Amount": 5780102.13,
+   "Award ID": "1333LB22F00000130",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "CES COLLABORATION PROJECT",
+   "End Date": "2026-01-30",
+   "Last Modified Date": "2026-10-22 16:46:21",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "NEW LIGHT TECHNOLOGIES INC",
+   "Start Date": "2022-07-01",
+   "Total Outlays": 6041237.71,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22F00000130_1323_47QRAA20D001E_4732",
+   "internal_id": 277632962
+  },
+  {
+   "Award Amount": 3323112.4,
+   "Award ID": "13ADDC26F0004",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "THIS BPA ESTABLISHES A MARKETPLACE FOR THE USCB TO OBTAIN ON-DEMAND ACCESS TO CLOUD NATIVE TECHNOLOGIES AND SERVICES.",
+   "End Date": "2027-05-21",
+   "Last Modified Date": "2026-10-22 05:58:16",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+   "Start Date": "2026-05-22",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0004_1323_1333LB24A00000001_1323",
+   "internal_id": 358615517
+  },
+  {
+   "Award Amount": 2803.6,
+   "Award ID": "1333LB23P00000085",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "GENERALIZED INSTRUMENT DESIGN SYSTEM (GIDS) MAINTENANCE SUPPORT",
+   "End Date": "2025-09-27",
+   "Last Modified Date": "2026-10-21 12:24:49",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "WESTAT, INC.",
+   "Start Date": "2023-09-28",
+   "Total Outlays": 2803.6,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23P00000085_1323_-NONE-_-NONE-",
+   "internal_id": 277633170
+  }
+ ],
+ "content_hash": "5eeb1205c4f30bbb57f48de48adbd23c50aeebff497c82850d3a86fe8e969d81",
+ "fetched": "2026-10-30",
+ "fiscal_year": 2027,
+ "tas_codes": [
+  {
+   "aid": "013",
+   "main": "0450"
+  },
+  {
+   "aid": "013",
+   "main": "0401"
+  }
+ ],
+ "window": [
+  "2026-10-01",
+  "2027-09-30"
+ ]
+}

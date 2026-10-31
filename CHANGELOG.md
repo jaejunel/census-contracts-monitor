@@ -8,6 +8,10 @@ not mean.
 
 ## 2026-10-30
 
+Fiscal year 2027: initial snapshot, 5 awards (0 flagged as data acquisitions). Nothing to diff against yet.
+
+## 2026-10-30
+
 Fiscal year 2026: initial snapshot, 215 awards (8 flagged as data acquisitions). Nothing to diff against yet.
 
 ## 2026-10-30

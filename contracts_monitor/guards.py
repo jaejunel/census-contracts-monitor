@@ -39,13 +39,43 @@ def check_filters_applied(payload: dict) -> None:
             )
 
 
-def check_result_count(n: int, context: str) -> None:
+def check_result_count(n: int, context: str, prior_count: int | None = None,
+                       fy_days_elapsed: int | None = None) -> None:
+    """Abort on an implausibly small result set.
+
+    "Implausible" depends on context, which the first version of this guard
+    got wrong and a live run caught: a fiscal year that began three weeks ago
+    legitimately has only a handful of awards, and failing on that is a false
+    alarm, not a detection.
+
+    The rules, in order:
+
+    * If we have a prior snapshot for this fiscal year, a large *drop* is the
+      signal -- awards do not vanish from USASpending en masse. More than
+      half disappearing is alarming regardless of absolute count.
+    * With no prior snapshot, the absolute floor only applies once the fiscal
+      year is actually underway (90+ days). Before that, low counts are
+      expected and we record them quietly.
+    """
+    if prior_count is not None and prior_count >= config.MIN_EXPECTED_AWARDS:
+        if n < prior_count * 0.5:
+            raise EmptyResultError(
+                f"{context}: {n} awards returned, down from {prior_count} in "
+                f"the previous snapshot -- more than half have disappeared. "
+                f"Awards do not vanish from USASpending like this. Refusing "
+                f"to record it."
+            )
+        return
+
+    if fy_days_elapsed is not None and fy_days_elapsed < 90:
+        return  # young fiscal year: a small count is expected
+
     if n < config.MIN_EXPECTED_AWARDS:
         raise EmptyResultError(
-            f"{context}: only {n} awards returned, below the plausibility "
-            f"floor of {config.MIN_EXPECTED_AWARDS}. Either the API changed, "
-            f"the TAS codes are wrong, or there is an outage. Refusing to "
-            f"record this as a mass disappearance."
+            f"{context}: only {n} awards returned for a fiscal year that is "
+            f"well underway, below the plausibility floor of "
+            f"{config.MIN_EXPECTED_AWARDS}. Either the API changed, the TAS "
+            f"codes are wrong, or there is an outage."
         )
 
 

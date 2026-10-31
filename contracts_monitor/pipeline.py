@@ -77,7 +77,11 @@ def process_fy(fy: int, today: str | None = None) -> Outcome:
 
     start, end = fy_window(fy)
     awards = fetch_awards(start, end)          # raises FilterIgnoredError if scoped wrong
-    guards.check_result_count(len(awards), f"FY{fy}")
+
+    prev_ext_for_guard = latest_extracted(fy)
+    prior = len(csvio.read_csv(prev_ext_for_guard[1])) if prev_ext_for_guard else None
+    elapsed = (date.fromisoformat(d) - date.fromisoformat(start)).days
+    guards.check_result_count(len(awards), f"FY{fy}", prior_count=prior, fy_days_elapsed=elapsed)
 
     new_hash = canonical_hash(awards)
     prev_snap = latest_snapshot(fy)
