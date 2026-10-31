@@ -1,0 +1,3672 @@
+{
+ "award_count": 146,
+ "awards": [
+  {
+   "Award Amount": 257647257.08,
+   "Award ID": "DOCYA132314NC0058",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IT INFRASTRUCTURE SUPPORT SERVICES-DATA CENTER  IGF::OT::IGF",
+   "End Date": "2024-03-31",
+   "Last Modified Date": "2026-09-23 14:43:36",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "GUIDEHOUSE DIGITAL LLC",
+   "Start Date": "2014-03-19",
+   "Total Outlays": 220664773.35,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0058_1323_HHSN316201200111W_7529",
+   "internal_id": 296896055
+  },
+  {
+   "Award Amount": 77243560.37,
+   "Award ID": "DOCYA132313NC0088",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF GEOGRAPHY SUPPORT SERVICES AWARD",
+   "End Date": "2022-02-23",
+   "Last Modified Date": "2022-07-21 19:12:19",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D302",
+    "description": "IT AND TELECOM- SYSTEMS DEVELOPMENT"
+   },
+   "Recipient Name": "SBD ALLIANT, LLC",
+   "Start Date": "2013-02-05",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0088_1323_GS06F0656Z_4730",
+   "internal_id": 296895660
+  },
+  {
+   "Award Amount": 52562784.95,
+   "Award ID": "DOCYA132316NC0027",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "COTS PRODUCT",
+   "End Date": "2017-05-31",
+   "Last Modified Date": "2019-03-08 14:26:37",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7030",
+    "description": "INFORMATION TECHNOLOGY SOFTWARE"
+   },
+   "Recipient Name": "IMMIXGROUP, INC",
+   "Start Date": "2015-09-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132316NC0027_1323_GS35F0901N_4730",
+   "internal_id": 296896882
+  },
+  {
+   "Award Amount": 51128587.39,
+   "Award ID": "DOCYA132315NC0238",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SAS ELA SOFTWARE LICENSES  ''IGF::OT::IGF''",
+   "End Date": "2021-11-30",
+   "Last Modified Date": "2021-12-21 08:20:36",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "EXECUTIVE INFORMATION SYSTEMS, L.L.C.",
+   "Start Date": "2015-08-31",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0238_1323_GS35F0170K_4730",
+   "internal_id": 296896619
+  },
+  {
+   "Award Amount": 38695630.66,
+   "Award ID": "DOCYA132314NC0112",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF TECHNOLOGIES MANAGEMENT OFFICE (TMO) UNIFIED TRACKING SYSTEM SUPPORT",
+   "End Date": "2019-09-30",
+   "Last Modified Date": "2020-05-08 11:39:48",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R425",
+    "description": "SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL"
+   },
+   "Recipient Name": "ACCENTURE FEDERAL SERVICES LLC",
+   "Start Date": "2014-05-13",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0112_1323_HHSN316201200113W_7529",
+   "internal_id": 296896095
+  },
+  {
+   "Award Amount": 26452741.9,
+   "Award ID": "DOCYA132314NC0128",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF",
+   "End Date": "2019-08-15",
+   "Last Modified Date": "2021-01-23 21:58:29",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BOOZ ALLEN HAMILTON INC",
+   "Start Date": "2014-06-11",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0128_1323_GS35F0306J_4730",
+   "internal_id": 296896107
+  },
+  {
+   "Award Amount": 24794356.61,
+   "Award ID": "DOCYA132314NC0038",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "THE PURPOSE OF THIS AWARD IS ACQUIRE 2020 SYSTEMS ENGINEERING AND INTEGRATION MANAGEMENT SUPPORT SERVICES FOR THE 2020 RESEARCH AND PLANNING OFFICE (2020RPO) IN THE FUNCTIONAL AREAS OF TECHNICAL INTEGRATION, DECENNIAL ARCHITECTURE, REQUIREMENTS ENGINEERING, AND OTHER REVIEW AND ASSESSMENT TYPE SUPPORT.  ::IGF::OT::IGF::",
+   "End Date": "2019-01-15",
+   "Last Modified Date": "2020-05-21 09:24:20",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "SYSTEMS ENGINEERING SOLUTIONS CORPORATION",
+   "Start Date": "2014-01-16",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0038_1323_GS35F455AA_4732",
+   "internal_id": 296896040
+  },
+  {
+   "Award Amount": 24705228.65,
+   "Award ID": "DOCYA132314NC0214",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SERVICE ORIENTED ARCHITECTURE IGF::OT::IGF",
+   "End Date": "2022-09-10",
+   "Last Modified Date": "2025-02-28 09:24:54",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "PARADYME SOLUTIONS, LLC",
+   "Start Date": "2014-09-10",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0214_1323_GS35F0594X_4732",
+   "internal_id": 296896170
+  },
+  {
+   "Award Amount": 23730415.02,
+   "Award ID": "DOCYA132315NC0003",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DECENNIAL PROGRAM SUPPORT SERVICES  IGF::OT::IGF",
+   "End Date": "2018-06-30",
+   "Last Modified Date": "2019-08-14 08:09:44",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "D321",
+    "description": "IT AND TELECOM- HELP DESK"
+   },
+   "Recipient Name": "AMDEX CORPORATION",
+   "Start Date": "2014-11-05",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0003_1323_GS10F0420M_4730",
+   "internal_id": 296896446
+  },
+  {
+   "Award Amount": 23461688.36,
+   "Award ID": "DOCYA132314NC0196",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF TMO SDLC MAINTENANCE",
+   "End Date": "2020-05-31",
+   "Last Modified Date": "2021-09-28 10:16:25",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R425",
+    "description": "SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL"
+   },
+   "Recipient Name": "CUSTOMER VALUE PARTNERS, LLC",
+   "Start Date": "2014-09-03",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0196_1323_HHSN316201200125W_7529",
+   "internal_id": 296896156
+  },
+  {
+   "Award Amount": 21747451.01,
+   "Award ID": "DOCYA132313NC0010",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF  AWARD FOR ADMINSTRATIVE TECHNICAL SYSTEMS SUPPORT",
+   "End Date": "2017-10-24",
+   "Last Modified Date": "2018-03-02 08:39:22",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D307",
+    "description": "IT AND TELECOM- IT STRATEGY AND ARCHITECTURE"
+   },
+   "Recipient Name": "PRIME SOURCE TECHNOLOGIES, LLC",
+   "Start Date": "2012-10-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0010_1323_GS35F0480T_4730",
+   "internal_id": 296895613
+  },
+  {
+   "Award Amount": 20051321.15,
+   "Award ID": "DOCYA132314NC0028",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TCO NETWORK AND INFRASTRUCTURE SUPPORT  IGF::OT::IGF",
+   "End Date": "2017-06-30",
+   "Last Modified Date": "2020-07-28 22:30:46",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "CAMBRIDGE INTERNATIONAL SYSTEMS, INC.",
+   "Start Date": "2013-12-20",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0028_1323_HHSN316201200059W_7529",
+   "internal_id": 296896030
+  },
+  {
+   "Award Amount": 18439772.66,
+   "Award ID": "DOCYA132312NC0414",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF OTHER FUNCTIONS ADAPTIVE SURVEY DESIGN INITIATIVE (ASDI)",
+   "End Date": "2018-09-30",
+   "Last Modified Date": "2019-10-30 07:19:41",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D307",
+    "description": "IT AND TELECOM- IT STRATEGY AND ARCHITECTURE"
+   },
+   "Recipient Name": "DELOITTE CONSULTING LLP",
+   "Start Date": "2012-09-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132312NC0414_1323_GS35F0617Y_4732",
+   "internal_id": 296895319
+  },
+  {
+   "Award Amount": 16385239.89,
+   "Award ID": "DOCCO004",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "E-CORRESPONDENCE AWARD. IGF::OT::IGF",
+   "End Date": "2019-02-28",
+   "Last Modified Date": "2022-04-02 14:48:34",
+   "NAICS": {
+    "code": "541613",
+    "description": "MARKETING CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R699",
+    "description": "SUPPORT- ADMINISTRATIVE: OTHER"
+   },
+   "Recipient Name": "ACCENTURE FEDERAL SERVICES LLC",
+   "Start Date": "2015-08-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCCO004_1323_DOCYA132314BU0036_1323",
+   "internal_id": 296756420
+  },
+  {
+   "Award Amount": 15856008.08,
+   "Award ID": "DOCYA132312NC0356",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF DECENNIAL TESTING AND PROCESSING SUPPORT SERVICES  OTHER FUNCTIONS",
+   "End Date": "2017-02-28",
+   "Last Modified Date": "2018-07-30 11:30:03",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "ALLIANT ENTERPRISE JV LLC",
+   "Start Date": "2012-08-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132312NC0356_1323_GS06F0599Z_4730",
+   "internal_id": 296895292
+  },
+  {
+   "Award Amount": 14203689.07,
+   "Award ID": "DOCYA132313NC0216",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF TECHNOLOGIES MANAGEMENT DIVISION (TMO) OPERATIONAL SUPPORT SERVICES",
+   "End Date": "2019-05-31",
+   "Last Modified Date": "2020-07-28 22:45:40",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D399",
+    "description": "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+   },
+   "Recipient Name": "CYBERDATA TECHNOLOGIES, INC.",
+   "Start Date": "2013-09-11",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0216_1323_HHSN316201200126W_7529",
+   "internal_id": 296895755
+  },
+  {
+   "Award Amount": 12660770.14,
+   "Award ID": "DOCYA132314NC0205",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TMO BUDGET, FINANCIAL MANAGEMENT, AND CONTRACTING SUPPORT SERVICES  IGF::OT::IGF",
+   "End Date": "2020-03-27",
+   "Last Modified Date": "2021-09-22 09:37:18",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R425",
+    "description": "SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL"
+   },
+   "Recipient Name": "AVANTUS FEDERAL LLC",
+   "Start Date": "2014-09-03",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0205_1323_GS10F0256V_4730",
+   "internal_id": 296896163
+  },
+  {
+   "Award Amount": 12617377.19,
+   "Award ID": "DOCYA132313NC0217",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF DAPPS SYSTEM UPGRADE AND TECHNICAL SUPPORT SERVICES",
+   "End Date": "2017-08-31",
+   "Last Modified Date": "2021-03-02 11:26:07",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "TRUSTED MISSION SOLUTIONS INC.",
+   "Start Date": "2013-09-16",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0217_1323_HHSN316201200102W_7529",
+   "internal_id": 296895756
+  },
+  {
+   "Award Amount": 10468013.0,
+   "Award ID": "DOCYA132314NC0031",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ARCGIS ENTERPRISE LICENSE AGREEMENT SOFTWARE  ''IGF::OT::IGF''",
+   "End Date": "2019-04-30",
+   "Last Modified Date": "2021-11-25 12:29:44",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D319",
+    "description": "IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE, INC.",
+   "Start Date": "2013-12-23",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0031_1323_GS35F5086H_4730",
+   "internal_id": 296896033
+  },
+  {
+   "Award Amount": 10427834.22,
+   "Award ID": "DOCYA132315NC0264",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "AWARD- COMMUNICATION CONSULTANTS SUPPORT SERVICES. IGF::OT::IGF",
+   "End Date": "2021-03-31",
+   "Last Modified Date": "2022-03-22 14:52:39",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ERIMAX INC",
+   "Start Date": "2015-09-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0264_1323_GS10F0099S_4730",
+   "internal_id": 296896640
+  },
+  {
+   "Award Amount": 10065891.13,
+   "Award ID": "DOCCO001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "IGF::OT::IGF AWARD OF CALL ORDER #1 UNDER BPA YA1323-14-BU-0036",
+   "End Date": "2017-02-18",
+   "Last Modified Date": "2023-04-05 15:44:32",
+   "NAICS": {
+    "code": "541613",
+    "description": "MARKETING CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "ACCENTURE FEDERAL SERVICES LLC",
+   "Start Date": "2014-09-26",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCCO001_1323_DOCYA132314BU0036_1323",
+   "internal_id": 296756399
+  },
+  {
+   "Award Amount": 9840529.07,
+   "Award ID": "DOCYA132314NC0228",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SAMPLING, MATCHING, REVIEW, AND CODING SYSTEM APPLICATION (SMARCS) SUPPORT SERVICES  IGF::OT::IGF",
+   "End Date": "2021-03-15",
+   "Last Modified Date": "2025-01-31 09:32:03",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R425",
+    "description": "SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL"
+   },
+   "Recipient Name": "GUNNISON CONSULTING GROUP, INC.",
+   "Start Date": "2014-09-22",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0228_1323_HHSN316201200146W_7529",
+   "internal_id": 296896178
+  },
+  {
+   "Award Amount": 9807008.38,
+   "Award ID": "DOCYA132316NC0044",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "EXADATA HARDWARE   ''IGF::OT::IGF''",
+   "End Date": "2020-09-28",
+   "Last Modified Date": "2020-09-10 09:25:05",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D320",
+    "description": "IT AND TELECOM- ANNUAL HARDWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "EMERGENT, LLC",
+   "Start Date": "2015-09-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132316NC0044_1323_NNG15SC33B_8000",
+   "internal_id": 296896891
+  },
+  {
+   "Award Amount": 9652507.63,
+   "Award ID": "DOCYA132311NC0535",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "FIELD MOBILE ARCHITECTURE/INFRASTRUCTURE IMPLEMENTATION SUPPORT SERVICES",
+   "End Date": "2013-08-31",
+   "Last Modified Date": "2017-06-29 10:58:40",
+   "NAICS": {
+    "code": "334220",
+    "description": "RADIO AND TELEVISION BROADCASTING AND WIRELESS COMMUNICATIONS EQUIPMENT MANUFACTURING"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "L3HARRIS TECHNOLOGIES, INC.",
+   "Start Date": "2011-09-22",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132311NC0535_1323_GS35F0283J_4730",
+   "internal_id": 296894810
+  },
+  {
+   "Award Amount": 9198613.89,
+   "Award ID": "DOCYA132314CN0013",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "STAFFING AND RECRUITMENT SUPPORT SERVICES  IGF::OT::IGF",
+   "End Date": "2018-10-31",
+   "Last Modified Date": "2019-03-14 12:37:21",
+   "NAICS": {
+    "code": "541612",
+    "description": "HUMAN RESOURCES CONSULTING SERVICES (2007), HUMAN RESOURCES AND EXECUTIVE SEARCH CONSULTING SERVICES (2002)"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "CNI ADVANTAGE, LLC",
+   "Start Date": "2014-04-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314CN0013_1323_-NONE-_-NONE-",
+   "internal_id": 296896007
+  },
+  {
+   "Award Amount": 9040176.29,
+   "Award ID": "DOCYA132310NC0727",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "THE CONTRACTOR SHALL PROVIDE ENTERPRISE ENGINEERING, MANAGEMENT AND ARCHITECTURE SUPPORT SERVICES.",
+   "End Date": "2013-03-28",
+   "Last Modified Date": "2018-06-01 09:12:55",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2010-09-28",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132310NC0727_1323_TIRNO99D0005_2050",
+   "internal_id": 296894382
+  },
+  {
+   "Award Amount": 8413348.12,
+   "Award ID": "DOCYA132313NC0210",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::CL::IGF FOR CLOSELY ASSOCIATED",
+   "End Date": "2017-09-15",
+   "Last Modified Date": "2019-03-29 09:34:07",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R425",
+    "description": "SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL"
+   },
+   "Recipient Name": "INUTEQ, LLC",
+   "Start Date": "2013-09-16",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0210_1323_GS06F0846Z_4732",
+   "internal_id": 296895750
+  },
+  {
+   "Award Amount": 8192412.44,
+   "Award ID": "DOC0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "IGF::OT::IGF   ENTERPRISE SOLUTIONS FRAMEWORK(ESF) FOR MULTI-TIERED ACQUISITION FRAMEWORK FOR SYSTEMS ENGINEERING AND INTEGRATION - ENTERPRISE TIER WO # 0001 OSESS",
+   "End Date": "2019-03-20",
+   "Last Modified Date": "2019-12-18 11:14:19",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "DELOITTE CONSULTING LLP",
+   "Start Date": "2015-09-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0001_1323_DOCYA132315BU0023_1323",
+   "internal_id": 296717730
+  },
+  {
+   "Award Amount": 8189562.6,
+   "Award ID": "DOCYA132314NC0201",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DATAWEB SUPPORT SERVICES IGF::OT::IGF",
+   "End Date": "2019-06-15",
+   "Last Modified Date": "2020-07-28 22:12:01",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "ACTIONET INC",
+   "Start Date": "2014-08-28",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0201_1323_HHSN316201200201W_7529",
+   "internal_id": 296896159
+  },
+  {
+   "Award Amount": 8002496.58,
+   "Award ID": "DOCYA132314NC0217",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "GEOGRAPHIC UPDATE PARTNERSHIP SYSTEM (GUPS) IGF::OT::IGF",
+   "End Date": "2016-09-20",
+   "Last Modified Date": "2021-04-19 12:01:24",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "C219",
+    "description": "ARCHITECT AND ENGINEERING- GENERAL: OTHER"
+   },
+   "Recipient Name": "GUNNISON CONSULTING GROUP, INC.",
+   "Start Date": "2014-09-19",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0217_1323_HHSN316201200146W_7529",
+   "internal_id": 296896172
+  },
+  {
+   "Award Amount": 7731607.3,
+   "Award ID": "DOCYA132312NC0396",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF OTHER FUNCTIONS - SAS CONTRACTOR SUPPORT AND GRID LICENSES",
+   "End Date": "2017-03-31",
+   "Last Modified Date": "2018-07-06 08:09:55",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "EXECUTIVE INFORMATION SYSTEMS, L.L.C.",
+   "Start Date": "2012-09-19",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132312NC0396_1323_GS35F0170K_4730",
+   "internal_id": 296895314
+  },
+  {
+   "Award Amount": 7463635.27,
+   "Award ID": "DOC001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ESF WORK PACKAGE FOR CEDCAP PMO.  ::IGF::OT::IGF::",
+   "End Date": "2021-08-24",
+   "Last Modified Date": "2022-03-17 11:12:25",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ASRC FEDERAL DATA NETWORK TECHNOLOGIES, LLC",
+   "Start Date": "2015-08-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC001_1323_DOCYA132315BU0013_1323",
+   "internal_id": 296718003
+  },
+  {
+   "Award Amount": 7456699.4,
+   "Award ID": "DOCYA132312NC0423",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF OTHER FUNCTIONS.  INTEGRATED COMMUNICATIONS",
+   "End Date": "2017-09-27",
+   "Last Modified Date": "2018-07-24 08:35:45",
+   "NAICS": {
+    "code": "541820",
+    "description": "PUBLIC RELATIONS AGENCIES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "J.R. REINGOLD & ASSOCIATES, INC.",
+   "Start Date": "2012-09-28",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132312NC0423_1323_GS23F0168L_4730",
+   "internal_id": 296895322
+  },
+  {
+   "Award Amount": 7156219.73,
+   "Award ID": "DOCYA132311CN0034",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "AWARD OF ORACLE SUPPORT SERVICES FOR THE GEOGRAPHY DIVISION. YA1323-11-CN-0034",
+   "End Date": "2016-03-14",
+   "Last Modified Date": "2017-06-14 15:18:17",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "ORACLE AMERICA, INC.",
+   "Start Date": "2011-09-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132311CN0034_1323_-NONE-_-NONE-",
+   "internal_id": 296894796
+  },
+  {
+   "Award Amount": 6956987.87,
+   "Award ID": "DOCCO2",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "IGF::CL::IGF FOR CLOSELY ASSOCIATED",
+   "End Date": "2020-08-31",
+   "Last Modified Date": "2024-09-10 15:25:01",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ERIMAX INC",
+   "Start Date": "2015-09-16",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCCO2_1323_DOCYA132315BU0006_1323",
+   "internal_id": 296756484
+  },
+  {
+   "Award Amount": 6942642.42,
+   "Award ID": "DOCYA132313NC0085",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ARC GIS CONTRACTOR SUPPORT SERVICES  \"IGF::OT::IGF\"",
+   "End Date": "2017-12-30",
+   "Last Modified Date": "2021-11-25 12:29:44",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE, INC.",
+   "Start Date": "2013-02-04",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0085_1323_GS35F5086H_4730",
+   "internal_id": 296895659
+  },
+  {
+   "Award Amount": 6679108.59,
+   "Award ID": "DOCYA132315NC0126",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF",
+   "End Date": "2020-09-30",
+   "Last Modified Date": "2021-11-25 05:38:41",
+   "NAICS": {
+    "code": "443120",
+    "description": "COMPUTER AND SOFTWARE STORES"
+   },
+   "PSC": {
+    "code": "R425",
+    "description": "SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL"
+   },
+   "Recipient Name": "INTEGRATION TECHNOLOGIES GROUP, INC.",
+   "Start Date": "2015-05-04",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0126_1323_GS35F5395H_4730",
+   "internal_id": 296896536
+  },
+  {
+   "Award Amount": 6614058.83,
+   "Award ID": "DOC0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "IGF::OT::IGF  ENTERPRISE SOLUTIONS FRAMEWORK (ESF) FOR MULTI-TIERED ACQUISITION FRAMEWORK FOR SYSTEMS ENGINEERING AND INTEGRATION -- PROJECT TIER -- WORK ORDER 0001 -- AMERICAN COMMUNITY SURVEY (ACS)",
+   "End Date": "2019-03-20",
+   "Last Modified Date": "2019-08-20 14:55:27",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "GUNNISON CONSULTING GROUP, INC.",
+   "Start Date": "2015-09-23",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0001_1323_DOCYA132315BU0035_1323",
+   "internal_id": 296717732
+  },
+  {
+   "Award Amount": 6050032.37,
+   "Award ID": "DOC002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ESF WORK PACKAGE FOR IT BA-AGILE-ESDLC.  ::IGF::OT::IGF::",
+   "End Date": "2018-08-17",
+   "Last Modified Date": "2022-06-23 09:24:31",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "LONGVIEW INTERNATIONAL TECHNOLOGY SOLUTIONS, INC.",
+   "Start Date": "2015-08-17",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC002_1323_DOCYA132315BU0014_1323",
+   "internal_id": 296718072
+  },
+  {
+   "Award Amount": 5766711.83,
+   "Award ID": "DOC0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "M&R SUPPORT  IGF::OT::IGF",
+   "End Date": "2017-06-30",
+   "Last Modified Date": "2020-06-07 19:26:19",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "D319",
+    "description": "IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "HARMONIA HOLDINGS GROUP, LLC",
+   "Start Date": "2014-07-11",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0002_1323_DOCYA132313BU0006_1323",
+   "internal_id": 296717764
+  },
+  {
+   "Award Amount": 5632956.98,
+   "Award ID": "DOCYA132312NC0394",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF RADIUS STUDIO SOFTWARE SUPPORT SERVICES CONTRACT. OTHER FUNCTIONS",
+   "End Date": "2017-09-18",
+   "Last Modified Date": "2018-09-14 14:28:48",
+   "NAICS": {
+    "code": "541620",
+    "description": "ENVIRONMENTAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "J070",
+    "description": "MAINT/REPAIR/REBUILD OF EQUIPMENT- ADP EQUIPMENT/SOFTWARE/SUPPLIES/SUPPORT EQUIPMENT"
+   },
+   "Recipient Name": "1SPATIAL INC",
+   "Start Date": "2012-09-19",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132312NC0394_1323_GS10F0291U_4730",
+   "internal_id": 296895312
+  },
+  {
+   "Award Amount": 5572241.49,
+   "Award ID": "DOC001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CALL ORDER AGAINST BPA FOR CONTACT CENTER CONSULTATION SUPPORT FOR DECENNIAL CENTER. IGF::OT::IGF",
+   "End Date": "2017-10-31",
+   "Last Modified Date": "2018-03-14 09:37:37",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "NOBLIS, INC.",
+   "Start Date": "2014-08-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC001_1323_DOCYA132314BU0015_1323",
+   "internal_id": 296717998
+  },
+  {
+   "Award Amount": 5571971.08,
+   "Award ID": "DOCYA132315NC0174",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "STEPS II SAS SOFTWARE SERVICE IGF::OT::IGF",
+   "End Date": "2019-10-05",
+   "Last Modified Date": "2021-02-25 12:34:10",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "EXECUTIVE INFORMATION SYSTEMS, L.L.C.",
+   "Start Date": "2015-07-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0174_1323_GS35F0170K_4730",
+   "internal_id": 296896575
+  },
+  {
+   "Award Amount": 5232391.62,
+   "Award ID": "DOCCO002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CEDSCI SUPPORT SERVICES. IGF::OT::IGF",
+   "End Date": "2017-05-01",
+   "Last Modified Date": "2020-03-27 08:20:13",
+   "NAICS": {
+    "code": "541613",
+    "description": "MARKETING CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "ACCENTURE FEDERAL SERVICES LLC",
+   "Start Date": "2015-04-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCCO002_1323_DOCYA132314BU0036_1323",
+   "internal_id": 296756408
+  },
+  {
+   "Award Amount": 5228663.59,
+   "Award ID": "DOCYA132315NC0265",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "LBD SUPPORT SERVICES IGF::OT::IGF",
+   "End Date": "2020-09-25",
+   "Last Modified Date": "2021-06-11 13:53:20",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "ECONOMETRICA, INC.",
+   "Start Date": "2015-09-23",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0265_1323_GS10F0269K_4730",
+   "internal_id": 296896641
+  },
+  {
+   "Award Amount": 5131622.18,
+   "Award ID": "DOC002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CALL ORDER AGAINST BPA FOR CLOUD ACQUISITION SUPPORT.  IGF::OT::IGF",
+   "End Date": "2018-02-16",
+   "Last Modified Date": "2018-07-27 10:44:09",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "NOBLIS, INC.",
+   "Start Date": "2014-09-05",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC002_1323_DOCYA132314BU0015_1323",
+   "internal_id": 296718067
+  },
+  {
+   "Award Amount": 5098364.67,
+   "Award ID": "DOCYA132311NC0511",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DO",
+   "Description": "2020 DECENNIAL PLANNING.",
+   "End Date": "2013-05-18",
+   "Last Modified Date": "2017-06-21 00:00:00",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2011-09-19",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132311NC0511_1323_TIRNO99D005_2026",
+   "internal_id": 296894807
+  },
+  {
+   "Award Amount": 4423952.62,
+   "Award ID": "DOCYB132313NC0279",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF  INTEGRATED LOGISTICS MANAGEMENT SOFTWARE (ILMS), SOFTWARE AS A SERVICE (SAAS), US CENSUS BUREAU, NATIONAL PROCESSING CENTER, JEFFERSONVILLE IN 47132",
+   "End Date": "2017-09-30",
+   "Last Modified Date": "2025-02-28 09:24:54",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D305",
+    "description": "IT AND TELECOM \u2013 TELEPROCESSING, TIMESHARE, CLOUD COMPUTING, AND HIGH PERFORMANCE COMPUTING"
+   },
+   "Recipient Name": "THE ARCANUM GROUP, INC.",
+   "Start Date": "2013-09-20",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYB132313NC0279_1323_GS35F0029Y_4732",
+   "internal_id": 296901201
+  },
+  {
+   "Award Amount": 4264283.97,
+   "Award ID": "DOC001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "TASK 1 TO ECON SERVICES  ''IGF::OT::IGF''",
+   "End Date": "2015-08-16",
+   "Last Modified Date": "2018-05-15 14:56:12",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D319",
+    "description": "IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "OCTO CONSULTING GROUP LLC",
+   "Start Date": "2014-08-15",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC001_1323_DOCYA132314BU0016_1323",
+   "internal_id": 296717999
+  },
+  {
+   "Award Amount": 4164690.43,
+   "Award ID": "DOCYA132315NC0055",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "LENEL SECURITY MAINTENANCE SUPPORT IGF::OT::IGF",
+   "End Date": "2020-07-25",
+   "Last Modified Date": "2021-07-20 10:51:30",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "Z1JZ",
+    "description": "MAINTENANCE OF MISCELLANEOUS BUILDINGS"
+   },
+   "Recipient Name": "STARS II PARTNERSHIP JOINT VENTURE LLC",
+   "Start Date": "2015-01-23",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0055_1323_GS06F1238Z_4732",
+   "internal_id": 296896483
+  },
+  {
+   "Award Amount": 4022667.83,
+   "Award ID": "DOC002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "MIDDLETIER SERVICES  ''IGF::OT::IGF''",
+   "End Date": "2015-12-30",
+   "Last Modified Date": "2018-04-12 11:14:51",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "OCTO CONSULTING GROUP LLC",
+   "Start Date": "2014-12-23",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC002_1323_DOCYA132314BU0016_1323",
+   "internal_id": 296718068
+  },
+  {
+   "Award Amount": 3986964.93,
+   "Award ID": "DOCYA132315NC0027",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TRAINING CONSULTING SERVICES - IGF::OT::IGF",
+   "End Date": "2019-12-21",
+   "Last Modified Date": "2021-03-02 11:24:04",
+   "NAICS": {
+    "code": "541613",
+    "description": "MARKETING CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "U099",
+    "description": "EDUCATION/TRAINING- OTHER"
+   },
+   "Recipient Name": "MIND & MEDIA, INC.",
+   "Start Date": "2014-12-22",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0027_1323_GS00F0035M_4730",
+   "internal_id": 296896467
+  },
+  {
+   "Award Amount": 3960882.3,
+   "Award ID": "DOCYA132313NC0012",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ITSM REMEDY SUPPORT IGF::OT::IGF",
+   "End Date": "2013-11-12",
+   "Last Modified Date": "2018-12-10 20:23:18",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D399",
+    "description": "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+   },
+   "Recipient Name": "ATTIVASOFT, LLC",
+   "Start Date": "2012-11-13",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0012_1323_GS06F0777Z_4732",
+   "internal_id": 296895615
+  },
+  {
+   "Award Amount": 3482588.68,
+   "Award ID": "DOCYA132314NC0221",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "LEHD SUPPORT SERVICES  IGF::OT::IGF",
+   "End Date": "2015-09-14",
+   "Last Modified Date": "2018-12-10 20:32:30",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "NEW LIGHT TECHNOLOGIES INC",
+   "Start Date": "2014-09-16",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0221_1323_GS06F0968Z_4732",
+   "internal_id": 296896175
+  },
+  {
+   "Award Amount": 3421805.04,
+   "Award ID": "DOCYA132314NC0138",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DEMOGRAPHIC SURVEY DATA. IGF::OT::IGF",
+   "End Date": "2017-06-30",
+   "Last Modified Date": "2018-12-10 20:37:11",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THE COLEMAN GROUP INC",
+   "Start Date": "2014-06-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0138_1323_GS06F1078Z_4732",
+   "internal_id": 296896116
+  },
+  {
+   "Award Amount": 3306566.14,
+   "Award ID": "DOCYA132314NC0204",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DATA COLLECTION SOFTWARE TESTING, TECHNICAL WRITING AND TRAINING SUPPORT. IGF::OT::IGF",
+   "End Date": "2016-07-31",
+   "Last Modified Date": "2018-12-10 20:41:40",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R701",
+    "description": "SUPPORT- MANAGEMENT: ADVERTISING"
+   },
+   "Recipient Name": "INTECORP-SSSI JV",
+   "Start Date": "2014-09-03",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0204_1323_GS06F1231Z_4732",
+   "internal_id": 296896162
+  },
+  {
+   "Award Amount": 3283573.92,
+   "Award ID": "DOCYA132309CN0039",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "SERVICES TO REVIEW THE 2010 CENSUS",
+   "End Date": "2014-09-30",
+   "Last Modified Date": "2017-08-23 07:18:13",
+   "NAICS": {
+    "code": "541690",
+    "description": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "AD26",
+    "description": "R&D- DEFENSE OTHER: SERVICES (MANAGEMENT/SUPPORT)"
+   },
+   "Recipient Name": "NATIONAL ACADEMY OF SCIENCES",
+   "Start Date": "2009-05-27",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132309CN0039_1323_-NONE-_-NONE-",
+   "internal_id": 296893747
+  },
+  {
+   "Award Amount": 3237129.86,
+   "Award ID": "DOCYA132314CN0033",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::OT::IGF OBTAIN ADVISORY AND ASSISTANCE SERVICES TO CONVENE A STANDING COMMITTEE OF EXPERTS TO ASSIST THE CENSUS IN REENGINEERING THE 2020 DECENNIAL CENSUS",
+   "End Date": "2019-05-31",
+   "Last Modified Date": "2025-01-31 09:32:03",
+   "NAICS": {
+    "code": "541990",
+    "description": "ALL OTHER PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "NATIONAL ACADEMY OF SCIENCES",
+   "Start Date": "2014-09-26",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314CN0033_1323_-NONE-_-NONE-",
+   "internal_id": 296896014
+  },
+  {
+   "Award Amount": 3105999.96,
+   "Award ID": "DOCYA132313CN0011",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::OT::IGF  THE CONTRACTOR SHALL PROVIDE A COMMERCIAL OFF-THE-SHELF (COTS) PRODUCT THAT PROVIDES ACCESS TO A COMPREHENSIVE DATABASE OF UPDATED PERSONAL IDENTIFIABLE INFORMATION THAT WILL BE USED FOR LOCATING AND/OR CONTACTING RESPONDENTS IN ASSOCIAION WITH OFFICIAL CENSUS BUREAU SURVEYS AND CENSUSES AS DESCRIBED IN THE SOW.",
+   "End Date": "2017-03-31",
+   "Last Modified Date": "2019-01-04 14:14:36",
+   "NAICS": {
+    "code": "519190",
+    "description": "ALL OTHER INFORMATION SERVICES"
+   },
+   "PSC": {
+    "code": "U099",
+    "description": "EDUCATION/TRAINING- OTHER"
+   },
+   "Recipient Name": "RELX INC.",
+   "Start Date": "2013-05-06",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313CN0011_1323_-NONE-_-NONE-",
+   "internal_id": 296895580
+  },
+  {
+   "Award Amount": 2991800.46,
+   "Award ID": "DOCYA132312NC0389",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF OTHER FUNCTIONS.  ACS PMO TMO FFDRC SUPPORT.",
+   "End Date": "2014-03-25",
+   "Last Modified Date": "2018-06-01 09:12:55",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2012-09-27",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132312NC0389_1323_TIRNO99D0005_2050",
+   "internal_id": 296895308
+  },
+  {
+   "Award Amount": 2913452.04,
+   "Award ID": "DOC0064",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "BLADE SERVERS AND MAINTENANCE  ''IGF::OT::IGF''",
+   "End Date": "2015-08-31",
+   "Last Modified Date": "2019-07-02 11:41:19",
+   "NAICS": {
+    "code": "423430",
+    "description": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "PRESIDIO NETWORKED SOLUTIONS, LLC",
+   "Start Date": "2014-12-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0064_1323_DOCYA132311BU0003_1323",
+   "internal_id": 296718159
+  },
+  {
+   "Award Amount": 2889316.38,
+   "Award ID": "DOCYA132311CN0027",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "PURCHASE OF PEOPLESOFT ENTERPRISE HUMAN RESOURSES LICENSES AND SUPPORT.",
+   "End Date": "2022-09-29",
+   "Last Modified Date": "2025-08-26 15:17:05",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "J070",
+    "description": "MAINT/REPAIR/REBUILD OF EQUIPMENT- ADP EQUIPMENT/SOFTWARE/SUPPLIES/SUPPORT EQUIPMENT"
+   },
+   "Recipient Name": "ORACLE AMERICA, INC.",
+   "Start Date": "2011-12-07",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132311CN0027_1323_-NONE-_-NONE-",
+   "internal_id": 296894789
+  },
+  {
+   "Award Amount": 2855787.94,
+   "Award ID": "DOCYA132311CN0020",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "CONSTRUCTION DATA ANALYSIS SUPPORT SERVICES.",
+   "End Date": "2017-10-31",
+   "Last Modified Date": "2018-03-22 17:38:13",
+   "NAICS": {
+    "code": "511120",
+    "description": "PERIODICAL PUBLISHERS"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "DODGE CONSTRUCTION NETWORK, LLC",
+   "Start Date": "2011-10-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132311CN0020_1323_-NONE-_-NONE-",
+   "internal_id": 296894786
+  },
+  {
+   "Award Amount": 2831008.71,
+   "Award ID": "DOCYA132313CN0017",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "ACQUIS CONNECT SUPPORT IGF::OT::IGF",
+   "End Date": "2019-01-31",
+   "Last Modified Date": "2019-08-16 12:20:02",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "ACQUIS INC.",
+   "Start Date": "2013-07-31",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313CN0017_1323_-NONE-_-NONE-",
+   "internal_id": 296895583
+  },
+  {
+   "Award Amount": 2820244.08,
+   "Award ID": "DOCYA132310SE0620",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "VIDEO AND WEB DESIGN POST PRODUCTION SUPPORT",
+   "End Date": "2015-08-31",
+   "Last Modified Date": "2017-12-07 11:14:01",
+   "NAICS": {
+    "code": "512110",
+    "description": "MOTION PICTURE AND VIDEO PRODUCTION"
+   },
+   "PSC": {
+    "code": "T006",
+    "description": "PHOTO/MAP/PRINT/PUBLICATION- FILM/VIDEO TAPE PRODUCTION"
+   },
+   "Recipient Name": "VENTANA PRODUCTIONS, INC",
+   "Start Date": "2010-09-22",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132310SE0620_1323_-NONE-_-NONE-",
+   "internal_id": 296894656
+  },
+  {
+   "Award Amount": 2679920.47,
+   "Award ID": "DOCCO001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CO001 TO BPA # YA323-15-BU-0047 FOR ACS DATA USERS GROUP. IGF::OT::IGF",
+   "End Date": "2020-09-29",
+   "Last Modified Date": "2024-09-11 10:07:41",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "POPULATION REFERENCE BUREAU, INC.",
+   "Start Date": "2015-09-23",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCCO001_1323_DOCYA132315BU0047_1323",
+   "internal_id": 296756401
+  },
+  {
+   "Award Amount": 2639097.14,
+   "Award ID": "DOCYA132315NC0195",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF",
+   "End Date": "2016-08-31",
+   "Last Modified Date": "2017-04-05 07:30:10",
+   "NAICS": {
+    "code": "334220",
+    "description": "RADIO AND TELEVISION BROADCASTING AND WIRELESS COMMUNICATIONS EQUIPMENT MANUFACTURING"
+   },
+   "PSC": {
+    "code": "R425",
+    "description": "SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL"
+   },
+   "Recipient Name": "L3HARRIS TECHNOLOGIES, INC.",
+   "Start Date": "2015-07-20",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0195_1323_GS35F0283J_4730",
+   "internal_id": 296896589
+  },
+  {
+   "Award Amount": 2602987.58,
+   "Award ID": "DOC0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CALL ORDER FOR CARDS TESTING SUPPORT  IGF::OT::IGF",
+   "End Date": "2018-03-25",
+   "Last Modified Date": "2020-06-07 19:26:19",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "D302",
+    "description": "IT AND TELECOM- SYSTEMS DEVELOPMENT"
+   },
+   "Recipient Name": "HARMONIA HOLDINGS GROUP, LLC",
+   "Start Date": "2013-09-20",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0001_1323_DOCYA132313BU0006_1323",
+   "internal_id": 296717727
+  },
+  {
+   "Award Amount": 2534933.39,
+   "Award ID": "DOCYA132314CN0034",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "SURVEYOR AND GIDS SOFTWARE SUPPORT.  IGF::OT::IGF",
+   "End Date": "2017-09-27",
+   "Last Modified Date": "2019-09-30 09:16:58",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "D308",
+    "description": "IT AND TELECOM- PROGRAMMING"
+   },
+   "Recipient Name": "FENESTRA TECHNOLOGIES CORPORATION",
+   "Start Date": "2014-09-26",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314CN0034_1323_-NONE-_-NONE-",
+   "internal_id": 296896015
+  },
+  {
+   "Award Amount": 2450500.0,
+   "Award ID": "DOCYA132315NC0275",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "CONTRACTOR SUPPORT SERVICES FOR 2016 ELEARNING DEVELOP - IGF::OT::IGF",
+   "End Date": "2020-09-24",
+   "Last Modified Date": "2021-12-14 08:38:10",
+   "NAICS": {
+    "code": "611710",
+    "description": "EDUCATIONAL SUPPORT SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ALLEN INTERACTIONS INC",
+   "Start Date": "2015-09-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0275_1323_GS02F0110U_4730",
+   "internal_id": 296896649
+  },
+  {
+   "Award Amount": 2398034.76,
+   "Award ID": "DOCYA132315NC0262",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "QUESTIONNAIRE TESTING. IGF::OT::IGF",
+   "End Date": "2020-09-17",
+   "Last Modified Date": "2021-04-19 14:04:18",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R701",
+    "description": "SUPPORT- MANAGEMENT: ADVERTISING"
+   },
+   "Recipient Name": "RESEARCH TRIANGLE INSTITUTE",
+   "Start Date": "2015-09-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0262_1323_GS10F0097L_4730",
+   "internal_id": 296896638
+  },
+  {
+   "Award Amount": 2396054.0,
+   "Award ID": "DOCTO9",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF - AES DIRECT USER INTERFACE REDESIGN - OTHER FUNCTION",
+   "End Date": "2014-06-26",
+   "Last Modified Date": "2017-07-14 10:55:59",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "D302",
+    "description": "IT AND TELECOM- SYSTEMS DEVELOPMENT"
+   },
+   "Recipient Name": "FLAGSHIP CUSTOMS SERVICES, INC.",
+   "Start Date": "2012-09-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCTO9_1323_DOCYA132309CQ0010_1323",
+   "internal_id": 296870294
+  },
+  {
+   "Award Amount": 2329141.11,
+   "Award ID": "DOCYA132313NC0016",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SUN STORAGETEK TAPE LIBRARY HARDWARE MAINTENANCE",
+   "End Date": "2017-09-30",
+   "Last Modified Date": "2018-08-23 10:12:15",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "J070",
+    "description": "MAINT/REPAIR/REBUILD OF EQUIPMENT- ADP EQUIPMENT/SOFTWARE/SUPPLIES/SUPPORT EQUIPMENT"
+   },
+   "Recipient Name": "ALLIANCE TECHNOLOGY GROUP, LLC",
+   "Start Date": "2012-10-31",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0016_1323_NNG07DA10B_8000",
+   "internal_id": 296895619
+  },
+  {
+   "Award Amount": 2278004.97,
+   "Award ID": "DOCTO09",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "MULTILINGUAL RESEARCH FOR 2020 CENSUS QUESTIONNAIRE  IGF::OT::IGF",
+   "End Date": "2015-12-31",
+   "Last Modified Date": "2019-01-10 15:37:54",
+   "NAICS": {
+    "code": "541690",
+    "description": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "RESEARCH TRIANGLE INSTITUTE",
+   "Start Date": "2014-09-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCTO09_1323_DOCYA132309CQ0014_1323",
+   "internal_id": 296870284
+  },
+  {
+   "Award Amount": 2210252.5,
+   "Award ID": "DOCYA132315CN0022",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::OT::IGF FOR OTHER FUNCTIONS",
+   "End Date": "2020-08-31",
+   "Last Modified Date": "2021-11-02 08:46:52",
+   "NAICS": {
+    "code": "511140",
+    "description": "DIRECTORY AND MAILING LIST PUBLISHERS"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "VSGI LLC",
+   "Start Date": "2015-09-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315CN0022_1323_-NONE-_-NONE-",
+   "internal_id": 296896436
+  },
+  {
+   "Award Amount": 2157253.98,
+   "Award ID": "DOCYA132314CN0032",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "COMMERCIAL DATABASE BUY  IGF::OT::IGF",
+   "End Date": "2018-08-31",
+   "Last Modified Date": "2018-10-03 07:26:54",
+   "NAICS": {
+    "code": "518210",
+    "description": "DATA PROCESSING, HOSTING, AND RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "CORELOGIC SOLUTIONS, LLC",
+   "Start Date": "2014-09-19",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314CN0032_1323_-NONE-_-NONE-",
+   "internal_id": 296896013
+  },
+  {
+   "Award Amount": 2130895.49,
+   "Award ID": "DOCYA132314NC0181",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::CL::IGF FOR CLOSELY ASSOCIATED",
+   "End Date": "2018-07-31",
+   "Last Modified Date": "2018-11-26 11:23:04",
+   "NAICS": {
+    "code": "541613",
+    "description": "MARKETING CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R422",
+    "description": "SUPPORT- PROFESSIONAL: MARKET RESEARCH/PUBLIC OPINION"
+   },
+   "Recipient Name": "GALLUP, INC.",
+   "Start Date": "2014-08-08",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0181_1323_GS00F0078M_4730",
+   "internal_id": 296896147
+  },
+  {
+   "Award Amount": 1995966.4,
+   "Award ID": "DOCYA132315CN0034",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "SMART ERP CONTRACT. IGF::OT::IGF",
+   "End Date": "2016-08-31",
+   "Last Modified Date": "2017-08-11 13:56:44",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THIRD MILLENNIUM BUSINESS SYSTEMS, INC.",
+   "Start Date": "2015-09-21",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315CN0034_1323_-NONE-_-NONE-",
+   "internal_id": 296896444
+  },
+  {
+   "Award Amount": 1977620.43,
+   "Award ID": "DOCYA132314NC0211",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "2017 ECONOMIC CENSUS COMMUNICATION CAMPAIGN. IGF::OT::IGF",
+   "End Date": "2020-03-10",
+   "Last Modified Date": "2020-07-14 15:02:10",
+   "NAICS": {
+    "code": "541910",
+    "description": "MARKETING RESEARCH AND PUBLIC OPINION POLLING"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "GRAFIK MARKETING COMMUNICATIONS, LTD",
+   "Start Date": "2014-09-15",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0211_1323_GS23F0229N_4730",
+   "internal_id": 296896167
+  },
+  {
+   "Award Amount": 1898554.47,
+   "Award ID": "DOCC002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "IGF::OT::IGF ASD ORACLE ON-SITE TECHNICAL SUPPORT",
+   "End Date": "2014-03-31",
+   "Last Modified Date": "2017-06-16 08:35:04",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "DLT SOLUTIONS, LLC",
+   "Start Date": "2013-09-19",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCC002_1323_DOCYA132313BU0010_1323",
+   "internal_id": 296756221
+  },
+  {
+   "Award Amount": 1693025.07,
+   "Award ID": "DOCYA132310CN0015",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "2020 CENSUS RESEARCH PLANNING SUPPORT TO BE PERFORMANCE AT THE CENSUS BUREAU HEADQUARTERS, SUITLAND, MD.",
+   "End Date": "2016-06-30",
+   "Last Modified Date": "2017-09-22 17:22:29",
+   "NAICS": {
+    "code": "541990",
+    "description": "ALL OTHER PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "ERIMAX INC",
+   "Start Date": "2010-03-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132310CN0015_1323_-NONE-_-NONE-",
+   "internal_id": 296894329
+  },
+  {
+   "Award Amount": 1653445.01,
+   "Award ID": "DOC002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ITBSS ESF WORK PACKAGE FOR ECONOMIC DIRECTORATE'S BUSINESS PROCESS MODELING.  ::IGF::OT::IGF::",
+   "End Date": "2018-09-24",
+   "Last Modified Date": "2022-06-28 14:10:29",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "ASRC FEDERAL DATA NETWORK TECHNOLOGIES, LLC",
+   "Start Date": "2015-09-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC002_1323_DOCYA132315BU0013_1323",
+   "internal_id": 296718071
+  },
+  {
+   "Award Amount": 1605883.84,
+   "Award ID": "DOCYA132315NC0244",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SAS CONTRACTOR SUPPORT IN PURSUANT TO CENSUS ELA  ''IGF::OT::IGF''",
+   "End Date": "2017-08-31",
+   "Last Modified Date": "2019-01-04 08:56:04",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "EXECUTIVE INFORMATION SYSTEMS, L.L.C.",
+   "Start Date": "2015-09-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0244_1323_GS35F0170K_4730",
+   "internal_id": 296896625
+  },
+  {
+   "Award Amount": 1587491.7,
+   "Award ID": "DOCYA132314NC0090",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ACS WEBSITE MIGRATION AND TRANSFORMATION. IGF::OT::IGF",
+   "End Date": "2020-09-30",
+   "Last Modified Date": "2021-09-22 10:01:33",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ACHIEVA PARTNERS INC",
+   "Start Date": "2014-04-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0090_1323_GS35F183BA_4732",
+   "internal_id": 296896079
+  },
+  {
+   "Award Amount": 1544460.74,
+   "Award ID": "DOCYA132314NC0140",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ARCHITECTURAL FRAMEWORK DEVELOPEMENT. IGF::OT::IGF",
+   "End Date": "2016-09-30",
+   "Last Modified Date": "2017-08-08 09:31:35",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "EXECUTIVE INFORMATION SYSTEMS, L.L.C.",
+   "Start Date": "2014-06-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0140_1323_GS35F0170K_4730",
+   "internal_id": 296896118
+  },
+  {
+   "Award Amount": 1510306.06,
+   "Award ID": "DOC0005",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "F5 LOADBALANCERS AND ANNUAL MAINTENANCE. IGF::OT::IGF",
+   "End Date": "2015-09-07",
+   "Last Modified Date": "2018-04-25 12:43:13",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "D320",
+    "description": "IT AND TELECOM- ANNUAL HARDWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "SIRIUS FEDERAL LLC",
+   "Start Date": "2014-09-08",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0005_1323_DOCYA132314BU0005_1323",
+   "internal_id": 296717844
+  },
+  {
+   "Award Amount": 1386281.56,
+   "Award ID": "DOCCO001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "FIELD CONSULTANT AND OPERATIONS TECHNICAL SUPPORT (FCOTS) CALL ORDER #001. IGF::OT::IGF",
+   "End Date": "2015-09-30",
+   "Last Modified Date": "2022-09-02 12:43:38",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "U099",
+    "description": "EDUCATION/TRAINING- OTHER"
+   },
+   "Recipient Name": "ACCEL CORPORATION",
+   "Start Date": "2014-06-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCCO001_1323_DOCYA132314BU0014_1323",
+   "internal_id": 296756398
+  },
+  {
+   "Award Amount": 1383803.67,
+   "Award ID": "DOC0071",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "SERVERS",
+   "End Date": "2015-09-30",
+   "Last Modified Date": "2019-11-07 10:54:44",
+   "NAICS": {
+    "code": "423430",
+    "description": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS"
+   },
+   "PSC": {
+    "code": "7021",
+    "description": "INFORMATION TECHNOLOGY CENTRAL PROCESSING UNIT (CPU, COMPUTER), DIGITAL"
+   },
+   "Recipient Name": "PRESIDIO NETWORKED SOLUTIONS, LLC",
+   "Start Date": "2015-06-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0071_1323_DOCYA132311BU0003_1323",
+   "internal_id": 296718185
+  },
+  {
+   "Award Amount": 1304257.85,
+   "Award ID": "DOCYA132314NC0177",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "OPEN FOR BUSINESS SERVICES. IGF::OT::IGF",
+   "End Date": "2018-07-31",
+   "Last Modified Date": "2019-04-11 17:10:51",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "ERIMAX INC",
+   "Start Date": "2014-08-08",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0177_1323_GS35F028AA_4732",
+   "internal_id": 296896144
+  },
+  {
+   "Award Amount": 1273138.34,
+   "Award ID": "DOCYA132312NC0419",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF OTHER FUNCTIONS ACS USERS DATA GROUP",
+   "End Date": "2015-05-31",
+   "Last Modified Date": "2017-06-01 11:43:03",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R422",
+    "description": "SUPPORT- PROFESSIONAL: MARKET RESEARCH/PUBLIC OPINION"
+   },
+   "Recipient Name": "SABRE SYSTEMS, LLC",
+   "Start Date": "2012-09-26",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132312NC0419_1323_GS10F0272T_4730",
+   "internal_id": 296895320
+  },
+  {
+   "Award Amount": 1223996.0,
+   "Award ID": "DOCYA132315CN0028",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::OT::IGF FOR OTHER FUNCTIONS",
+   "End Date": "2020-08-31",
+   "Last Modified Date": "2021-09-22 10:17:35",
+   "NAICS": {
+    "code": "511140",
+    "description": "DIRECTORY AND MAILING LIST PUBLISHERS"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "DAR PARTNERS LLC",
+   "Start Date": "2015-09-15",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315CN0028_1323_-NONE-_-NONE-",
+   "internal_id": 296896440
+  },
+  {
+   "Award Amount": 1212828.67,
+   "Award ID": "DOCYA132312NC0279",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF OTHER FUNCTIONS - SAS PROGRAMMER FOR STEPS II",
+   "End Date": "2013-06-30",
+   "Last Modified Date": "2018-03-05 14:09:09",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "QUALEX CONSULTING SERVICES, INC.",
+   "Start Date": "2012-06-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132312NC0279_1323_GS35F0557J_4730",
+   "internal_id": 296895241
+  },
+  {
+   "Award Amount": 1210582.0,
+   "Award ID": "DOCYA132314CN0029",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "NPD DATABASE PURCHASE WITH OPTIONAL DATABASE CLINS. IGF::OT::IGF",
+   "End Date": "2019-09-10",
+   "Last Modified Date": "2021-05-18 10:31:39",
+   "NAICS": {
+    "code": "541910",
+    "description": "MARKETING RESEARCH AND PUBLIC OPINION POLLING"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "CIRCANA GROUP, L.P.",
+   "Start Date": "2014-09-11",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314CN0029_1323_-NONE-_-NONE-",
+   "internal_id": 296896011
+  },
+  {
+   "Award Amount": 1198396.02,
+   "Award ID": "DOC0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "TMO CONFIGURATION/DOCUMENT MANAGEMENT SUPPORT IGF::OT::IGF FOR \"OTHER FUNCTION\"",
+   "End Date": "2017-08-31",
+   "Last Modified Date": "2019-09-30 10:05:20",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "INTEGRATEIT LLC",
+   "Start Date": "2012-09-26",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0002_1323_DOCYA132312BR0001_1323",
+   "internal_id": 296717762
+  },
+  {
+   "Award Amount": 1177470.37,
+   "Award ID": "DOCTO07",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "COGNITIVE TESTING OF THE AMERICAN COMMUNITY SURVEY CONTENT ITEMS IGF::OT::IGF",
+   "End Date": "2015-06-30",
+   "Last Modified Date": "2018-02-28 09:03:01",
+   "NAICS": {
+    "code": "541690",
+    "description": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R701",
+    "description": "SUPPORT- MANAGEMENT: ADVERTISING"
+   },
+   "Recipient Name": "WESTAT, INC.",
+   "Start Date": "2014-04-28",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCTO07_1323_DOCYA132309CQ0012_1323",
+   "internal_id": 296870277
+  },
+  {
+   "Award Amount": 1130906.84,
+   "Award ID": "DOCYA132311CN0032",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "CONVENE AN EXPERT PANEL TO ADDRESS PRIORITY TECHNICAL ISSUES FOR THE AMERICAN COMMUNITY SURVEY (ACS).",
+   "End Date": "2015-02-28",
+   "Last Modified Date": "2017-06-14 14:19:36",
+   "NAICS": {
+    "code": "541690",
+    "description": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "NATIONAL ACADEMY OF SCIENCES",
+   "Start Date": "2011-09-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132311CN0032_1323_-NONE-_-NONE-",
+   "internal_id": 296894794
+  },
+  {
+   "Award Amount": 1079653.09,
+   "Award ID": "DOCYA132315NC0234",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "COMPUTER CABLING SUPPORT. IGF::OT::IGF",
+   "End Date": "2020-08-31",
+   "Last Modified Date": "2021-07-29 15:23:06",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "ICS NETT INC",
+   "Start Date": "2015-09-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0234_1323_GS35F0465T_4730",
+   "internal_id": 296896616
+  },
+  {
+   "Award Amount": 1059515.28,
+   "Award ID": "DOCYA132313NC0183",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SALESFORCE.COM LICENSES AND SERVICE IGF::OT::IGF",
+   "End Date": "2016-11-30",
+   "Last Modified Date": "2018-04-16 11:31:57",
+   "NAICS": {
+    "code": "511210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "7035",
+    "description": "INFORMATION TECHNOLOGY SUPPORT EQUIPMENT"
+   },
+   "Recipient Name": "CARAHSOFT TECHNOLOGY CORP",
+   "Start Date": "2013-06-28",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0183_1323_GS35F0119Y_4732",
+   "internal_id": 296895730
+  },
+  {
+   "Award Amount": 945435.91,
+   "Award ID": "DOC0066",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "BLADE HARDWARE  ''IGF::OT::IGF''",
+   "End Date": "2015-03-27",
+   "Last Modified Date": "2019-08-08 12:52:21",
+   "NAICS": {
+    "code": "423430",
+    "description": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "PRESIDIO NETWORKED SOLUTIONS, LLC",
+   "Start Date": "2015-03-27",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0066_1323_DOCYA132311BU0003_1323",
+   "internal_id": 296718165
+  },
+  {
+   "Award Amount": 908220.1,
+   "Award ID": "DOC001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "DELIVERY ORDER AGAINST EXISTING ESF FOR CLOUD COMPUTING SERVICES UNDER NASA SEWP V.  ::IGF::OT::IGF::",
+   "End Date": "2016-09-17",
+   "Last Modified Date": "2020-06-03 23:23:23",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "GOVERNMENT ACQUISITIONS LLC",
+   "Start Date": "2015-09-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC001_1323_DOCYA132315BU0029_1323",
+   "internal_id": 296718007
+  },
+  {
+   "Award Amount": 888519.21,
+   "Award ID": "DOCYA132315NC0240",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SEWP BPA AWARD",
+   "End Date": "2015-12-31",
+   "Last Modified Date": "2024-09-09 13:37:39",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "5340",
+    "description": "HARDWARE, COMMERCIAL"
+   },
+   "Recipient Name": "PRESIDIO GOVERNMENT SOLUTIONS LLC",
+   "Start Date": "2015-09-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0240_1323_NNG15SC45B_8000",
+   "internal_id": 296896621
+  },
+  {
+   "Award Amount": 887635.33,
+   "Award ID": "DOCYB132315CN0032",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::OT::IGF IT SUPPORT SERVICES FOE ENHANCEMENT OF ADAPTIVE DATA COLLECTION SYSTEMS AT JEFFERSONVILLE, INDIANA AND SUITLAND, MARYLAND.",
+   "End Date": "2017-06-30",
+   "Last Modified Date": "2018-08-23 10:25:31",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D307",
+    "description": "IT AND TELECOM- IT STRATEGY AND ARCHITECTURE"
+   },
+   "Recipient Name": "THE BRITE GROUP, INC",
+   "Start Date": "2015-09-14",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYB132315CN0032_1323_-NONE-_-NONE-",
+   "internal_id": 296901398
+  },
+  {
+   "Award Amount": 885618.89,
+   "Award ID": "DOC001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ITBSS ESF WORK PACKAGE FOR THE ECONOMIC DIRECTORATE'S BUDGETARY PLANNING.  ::IGF::OT::IGF::",
+   "End Date": "2018-06-30",
+   "Last Modified Date": "2019-10-16 07:13:32",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "OST INC",
+   "Start Date": "2015-09-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC001_1323_DOCYA132315BU0015_1323",
+   "internal_id": 296718005
+  },
+  {
+   "Award Amount": 786834.56,
+   "Award ID": "DOCYA132315CN0009",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::OT::IGF",
+   "End Date": "2017-01-15",
+   "Last Modified Date": "2020-07-14 12:25:04",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "KEY CONCEPTS KNOWLEDGEBASE L LC",
+   "Start Date": "2015-03-10",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315CN0009_1323_-NONE-_-NONE-",
+   "internal_id": 296896431
+  },
+  {
+   "Award Amount": 765380.89,
+   "Award ID": "DOCYA132313CN0022",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::OT::IGF  CNSTAT PANEL REVIEW",
+   "End Date": "2018-08-28",
+   "Last Modified Date": "2018-05-24 09:03:46",
+   "NAICS": {
+    "code": "541690",
+    "description": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "B506",
+    "description": "SPECIAL STUDIES/ANALYSIS- DATA (OTHER THAN SCIENTIFIC)"
+   },
+   "Recipient Name": "NATIONAL ACADEMY OF SCIENCES",
+   "Start Date": "2013-09-19",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313CN0022_1323_-NONE-_-NONE-",
+   "internal_id": 296895586
+  },
+  {
+   "Award Amount": 738942.06,
+   "Award ID": "DOC0077",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "SAN MAINTENANCE   ''IGF::OT::IGF''",
+   "End Date": "2015-09-30",
+   "Last Modified Date": "2019-07-02 11:44:56",
+   "NAICS": {
+    "code": "423430",
+    "description": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "PRESIDIO NETWORKED SOLUTIONS, LLC",
+   "Start Date": "2015-08-05",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0077_1323_DOCYA132311BU0003_1323",
+   "internal_id": 296718203
+  },
+  {
+   "Award Amount": 716515.46,
+   "Award ID": "DOCYA132314NC0119",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF TASK ORDER FOR IT SUPPORT SERVICES",
+   "End Date": "2016-06-30",
+   "Last Modified Date": "2017-08-25 14:37:44",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D310",
+    "description": "IT AND TELECOM- CYBER SECURITY AND DATA BACKUP"
+   },
+   "Recipient Name": "HUMANTOUCH LLC",
+   "Start Date": "2014-05-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0119_1323_GS06F0915Z_4732",
+   "internal_id": 296896099
+  },
+  {
+   "Award Amount": 699755.6,
+   "Award ID": "DOCYA132315NC0261",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SAS CONTRACTOR SUPPORT FOR ECON STEPS  ''IGF::OT::IGF''",
+   "End Date": "2016-08-31",
+   "Last Modified Date": "2018-04-16 14:36:04",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "EXECUTIVE INFORMATION SYSTEMS, L.L.C.",
+   "Start Date": "2015-09-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0261_1323_GS35F0170K_4730",
+   "internal_id": 296896637
+  },
+  {
+   "Award Amount": 672815.73,
+   "Award ID": "DOCYA132315NC0114",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "AIAN CONSULTATIONS IGF::OT::IGF",
+   "End Date": "2017-09-30",
+   "Last Modified Date": "2018-03-14 09:45:03",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "KAUFFMAN AND ASSOCIATES, INC",
+   "Start Date": "2015-04-21",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0114_1323_GS00F0012S_4730",
+   "internal_id": 296896525
+  },
+  {
+   "Award Amount": 633406.93,
+   "Award ID": "DOCYA132313NC0209",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF",
+   "End Date": "2014-08-31",
+   "Last Modified Date": "2019-03-14 12:42:26",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D306",
+    "description": "IT AND TELECOM- SYSTEMS ANALYSIS"
+   },
+   "Recipient Name": "NETSTAR SYSTEMS INTERNATIONAL, INC.",
+   "Start Date": "2013-08-27",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0209_1323_GS06F0749Z_4732",
+   "internal_id": 296895749
+  },
+  {
+   "Award Amount": 620905.96,
+   "Award ID": "DOC0065",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "BLADE HARDWARE",
+   "End Date": "2015-03-30",
+   "Last Modified Date": "2019-06-17 12:50:24",
+   "NAICS": {
+    "code": "423430",
+    "description": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS"
+   },
+   "PSC": {
+    "code": "5340",
+    "description": "HARDWARE, COMMERCIAL"
+   },
+   "Recipient Name": "PRESIDIO NETWORKED SOLUTIONS, LLC",
+   "Start Date": "2014-12-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0065_1323_DOCYA132311BU0003_1323",
+   "internal_id": 296718162
+  },
+  {
+   "Award Amount": 605000.0,
+   "Award ID": "DOCYA132313NC0204",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SOFTWARE LICENSE/MAINTENACE SUPPORT IGF::OT::IGF",
+   "End Date": "2018-08-31",
+   "Last Modified Date": "2020-01-29 15:58:11",
+   "NAICS": {
+    "code": "541513",
+    "description": "COMPUTER FACILITIES MANAGEMENT SERVICES"
+   },
+   "PSC": {
+    "code": "J070",
+    "description": "MAINT/REPAIR/REBUILD OF EQUIPMENT- ADP EQUIPMENT/SOFTWARE/SUPPLIES/SUPPORT EQUIPMENT"
+   },
+   "Recipient Name": "THIRD MILLENNIUM BUSINESS SYSTEMS, INC.",
+   "Start Date": "2013-08-22",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0204_1323_GS35F0015V_4730",
+   "internal_id": 296895745
+  },
+  {
+   "Award Amount": 523051.58,
+   "Award ID": "DOC0067",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "BLADE HARDWARE  ''IGF::OT::IGF''",
+   "End Date": "2015-06-30",
+   "Last Modified Date": "2019-11-26 09:19:15",
+   "NAICS": {
+    "code": "423430",
+    "description": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "PRESIDIO NETWORKED SOLUTIONS, LLC",
+   "Start Date": "2015-03-31",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOC0067_1323_DOCYA132311BU0003_1323",
+   "internal_id": 296718167
+  },
+  {
+   "Award Amount": 522175.55,
+   "Award ID": "DOCYA132315NC0251",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF FOR OTHER FUNCTIONS",
+   "End Date": "2020-08-31",
+   "Last Modified Date": "2021-06-23 15:47:06",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R422",
+    "description": "SUPPORT- PROFESSIONAL: MARKET RESEARCH/PUBLIC OPINION"
+   },
+   "Recipient Name": "WESTAT, INC.",
+   "Start Date": "2015-09-15",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0251_1323_GS23F8144H_4730",
+   "internal_id": 296896630
+  },
+  {
+   "Award Amount": 495821.1,
+   "Award ID": "DOCYA132316NC0042",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "CEDCAP SOFTWARE AND INTEGRATION ''IGF::OT::IGF''",
+   "End Date": "2015-12-30",
+   "Last Modified Date": "2017-08-11 09:02:26",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "APPIAN CORPORATION",
+   "Start Date": "2015-09-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132316NC0042_1323_GS35F0092M_4730",
+   "internal_id": 296896890
+  },
+  {
+   "Award Amount": 379181.56,
+   "Award ID": "DOCYA132315NC0137",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "PURCHASE OF PERPETUAL LICENSES - IGF::OT::IGF",
+   "End Date": "2016-05-26",
+   "Last Modified Date": "2017-11-23 12:55:33",
+   "NAICS": {
+    "code": "511210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "D319",
+    "description": "IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "CARAHSOFT TECHNOLOGY CORP",
+   "Start Date": "2015-05-27",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0137_1323_GS35F0119Y_4732",
+   "internal_id": 296896545
+  },
+  {
+   "Award Amount": 322397.13,
+   "Award ID": "DOCTO06",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TO OBTAIN SERVICES OF AN ECONOMIST.",
+   "End Date": "2013-09-27",
+   "Last Modified Date": "2017-09-14 08:18:06",
+   "NAICS": {
+    "code": "541690",
+    "description": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "WESTAT, INC.",
+   "Start Date": "2012-08-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCTO06_1323_DOCYA132309CQ0012_1323",
+   "internal_id": 296870274
+  },
+  {
+   "Award Amount": 284996.38,
+   "Award ID": "DOCYA132315NC0134",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "HAWKEYE SOFTWARE LICENSE AND PROFESSIONAL SUPPORT  IGF::OT::IGF",
+   "End Date": "2015-12-31",
+   "Last Modified Date": "2018-04-16 11:15:19",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D319",
+    "description": "IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "GOVERNMENT ACQUISITIONS LLC",
+   "Start Date": "2015-05-14",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0134_1323_NNG15SD23B_8000",
+   "internal_id": 296896543
+  },
+  {
+   "Award Amount": 273992.81,
+   "Award ID": "DOCYA132315CN0025",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::OT::IGF PROVIDE ADVISORY AND ASSISTANCE SERVICES TO CONVENE A STANDING COMMITTEE OF EXPERTS TO ASSIST IN IMPROVING THE AMERICAN COMMUNITY SURVEY (ACS)",
+   "End Date": "2016-11-30",
+   "Last Modified Date": "2018-07-15 13:23:19",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "NATIONAL ACADEMY OF SCIENCES",
+   "Start Date": "2015-09-14",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315CN0025_1323_-NONE-_-NONE-",
+   "internal_id": 296896438
+  },
+  {
+   "Award Amount": 272327.23,
+   "Award ID": "DOCYA132315CN0033",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "COMMERCIAL DATA BUY IGF::OT::IGF",
+   "End Date": "2017-09-25",
+   "Last Modified Date": "2020-01-22 16:17:46",
+   "NAICS": {
+    "code": "323111",
+    "description": "COMMERCIAL PRINTING (EXCEPT SCREEN AND BOOKS)"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "CAPITAL IQ, INC.",
+   "Start Date": "2015-09-21",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315CN0033_1323_-NONE-_-NONE-",
+   "internal_id": 296896443
+  },
+  {
+   "Award Amount": 210117.59,
+   "Award ID": "DOCYA132314NC0003",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "PERSPECTIVE SW AND MAINTENANCE. IGF::OT::IGF",
+   "End Date": "2014-09-30",
+   "Last Modified Date": "2018-02-12 11:04:20",
+   "NAICS": {
+    "code": "511210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "J070",
+    "description": "MAINT/REPAIR/REBUILD OF EQUIPMENT- ADP EQUIPMENT/SOFTWARE/SUPPLIES/SUPPORT EQUIPMENT"
+   },
+   "Recipient Name": "BEYOND 20/20 INC.",
+   "Start Date": "2013-10-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0003_1323_GS35F0706J_4730",
+   "internal_id": 296896017
+  },
+  {
+   "Award Amount": 155360.0,
+   "Award ID": "DOCTO8",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF AES DIRECT CODE CHANGES \"OTHER FUNCTIONS\"",
+   "End Date": "2014-04-30",
+   "Last Modified Date": "2017-06-29 14:20:29",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "D399",
+    "description": "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+   },
+   "Recipient Name": "FLAGSHIP CUSTOMS SERVICES, INC.",
+   "Start Date": "2012-06-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCTO8_1323_DOCYA132309CQ0010_1323",
+   "internal_id": 296870292
+  },
+  {
+   "Award Amount": 141961.37,
+   "Award ID": "DOCYA132315NC0129",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "IGF::OT::IGF CENSUS OPERATIONAL NEEDS FOR WIRELESS TELECOMMUNICATIONS: TABLETS",
+   "End Date": "2019-08-30",
+   "Last Modified Date": "2023-02-12 12:31:43",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "ATT MOBILITY LLC",
+   "Start Date": "2015-06-10",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0129_1323_DOCSA130114BU0005_1301",
+   "internal_id": 296896539
+  },
+  {
+   "Award Amount": 133544.87,
+   "Award ID": "DOCYB132314NC0225",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IGF::OT::IGF SHREDDING SERVICE AT SIX REGIONAL OFFICES, NATIONAL PROCESSING CENTER, JEFFERSONVILLE, IN  47132",
+   "End Date": "2019-09-30",
+   "Last Modified Date": "2021-11-29 16:55:07",
+   "NAICS": {
+    "code": "561990",
+    "description": "ALL OTHER SUPPORT SERVICES"
+   },
+   "PSC": {
+    "code": "S222",
+    "description": "HOUSEKEEPING- WASTE TREATMENT/STORAGE"
+   },
+   "Recipient Name": "STERICYCLE INC",
+   "Start Date": "2014-09-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYB132314NC0225_1323_GS03F0138V_4730",
+   "internal_id": 296901311
+  },
+  {
+   "Award Amount": 122175.43,
+   "Award ID": "DOCYA132316NC0025",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "COTS SOFTWARE FOR CEDCAP",
+   "End Date": "2016-03-31",
+   "Last Modified Date": "2018-02-28 10:58:35",
+   "NAICS": {
+    "code": "518210",
+    "description": "DATA PROCESSING, HOSTING, AND RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7030",
+    "description": "INFORMATION TECHNOLOGY SOFTWARE"
+   },
+   "Recipient Name": "FEDRESULTS, INC.",
+   "Start Date": "2015-09-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132316NC0025_1323_GS35F0256K_4730",
+   "internal_id": 296896881
+  },
+  {
+   "Award Amount": 97600.0,
+   "Award ID": "DOCYA132313NC0211",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "KAPOW KATALYST SOFTWARE, MAINTENANCE AND SUPPORT. IGF::OT::IGF",
+   "End Date": "2014-08-27",
+   "Last Modified Date": "2018-10-01 12:51:43",
+   "NAICS": {
+    "code": "511210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "J070",
+    "description": "MAINT/REPAIR/REBUILD OF EQUIPMENT- ADP EQUIPMENT/SOFTWARE/SUPPLIES/SUPPORT EQUIPMENT"
+   },
+   "Recipient Name": "CARAHSOFT TECHNOLOGY CORP",
+   "Start Date": "2013-08-27",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313NC0211_1323_GS35F0119Y_4732",
+   "internal_id": 296895751
+  },
+  {
+   "Award Amount": 96525.0,
+   "Award ID": "DOCYA132315SE0164",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "SPECIAL TAB BUPPORT IGF::OT::IGF",
+   "End Date": "2016-09-25",
+   "Last Modified Date": "2018-03-26 10:22:42",
+   "NAICS": {
+    "code": "811212",
+    "description": "COMPUTER AND OFFICE MACHINE REPAIR AND MAINTENANCE"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "HILMER, DOUGLAS",
+   "Start Date": "2015-09-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315SE0164_1323_-NONE-_-NONE-",
+   "internal_id": 296896762
+  },
+  {
+   "Award Amount": 86892.0,
+   "Award ID": "DOCYA132313SE0216",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "SCHEDULE B SEARCH ENGINE SERVICES IGF::OT::IGF",
+   "End Date": "2018-09-13",
+   "Last Modified Date": "2018-09-10 12:09:59",
+   "NAICS": {
+    "code": "541490",
+    "description": "OTHER SPECIALIZED DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "3CE TECHNOLOGIES INC",
+   "Start Date": "2013-08-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313SE0216_1323_-NONE-_-NONE-",
+   "internal_id": 296895929
+  },
+  {
+   "Award Amount": 74849.57,
+   "Award ID": "DOCYA132313SE0232",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "READY CAM UPGRADE AND MAINTENANCE SERVICES  IGF::OT::IGF",
+   "End Date": "2017-09-15",
+   "Last Modified Date": "2022-03-30 18:27:36",
+   "NAICS": {
+    "code": "512110",
+    "description": "MOTION PICTURE AND VIDEO PRODUCTION"
+   },
+   "PSC": {
+    "code": "T006",
+    "description": "PHOTO/MAP/PRINT/PUBLICATION- FILM/VIDEO TAPE PRODUCTION"
+   },
+   "Recipient Name": "VIDEOLINK INC",
+   "Start Date": "2013-09-13",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132313SE0232_1323_-NONE-_-NONE-",
+   "internal_id": 296895940
+  },
+  {
+   "Award Amount": 70678.59,
+   "Award ID": "DOCYA132315CN0015",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::CL::IGF FOR CLOSELY ASSOCIATED",
+   "End Date": "2016-04-30",
+   "Last Modified Date": "2017-05-24 15:34:11",
+   "NAICS": {
+    "code": "541690",
+    "description": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "HATCHER JR, WILLIAM W",
+   "Start Date": "2015-05-05",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315CN0015_1323_-NONE-_-NONE-",
+   "internal_id": 296896432
+  },
+  {
+   "Award Amount": 70051.8,
+   "Award ID": "DOCYA132315SE0163",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "ACS TAB SUPPORT IGF::OT::IGF",
+   "End Date": "2016-09-25",
+   "Last Modified Date": "2018-02-28 07:56:57",
+   "NAICS": {
+    "code": "811212",
+    "description": "COMPUTER AND OFFICE MACHINE REPAIR AND MAINTENANCE"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ACHIEVA PARTNERS INC",
+   "Start Date": "2015-09-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315SE0163_1323_-NONE-_-NONE-",
+   "internal_id": 296896761
+  },
+  {
+   "Award Amount": 51447.17,
+   "Award ID": "DOCT0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "MAINTENANCE FOR AVID EQUIPMENT  IGF::OT::IGF",
+   "End Date": "2019-06-17",
+   "Last Modified Date": "2024-09-09 13:37:39",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "R425",
+    "description": "SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL"
+   },
+   "Recipient Name": "AVID TECHNOLOGY, INC.",
+   "Start Date": "2014-07-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCT0002_1323_DOCYA132314BU0012_1323",
+   "internal_id": 296868580
+  },
+  {
+   "Award Amount": 44640.0,
+   "Award ID": "DOCYA132314SE0111",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "TANF ANALYSIS IGF::OT::IGF",
+   "End Date": "2016-05-31",
+   "Last Modified Date": "2017-09-12 15:35:25",
+   "NAICS": {
+    "code": "561990",
+    "description": "ALL OTHER SUPPORT SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ISENBERG, EMILY P.",
+   "Start Date": "2014-05-22",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314SE0111_1323_-NONE-_-NONE-",
+   "internal_id": 296896252
+  },
+  {
+   "Award Amount": 39900.0,
+   "Award ID": "DOCYA132315NC0191",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TRAINING VOUCHERS    ''IGF::OT::IGF''",
+   "End Date": "2016-07-19",
+   "Last Modified Date": "2018-02-12 12:31:52",
+   "NAICS": {
+    "code": "611430",
+    "description": "PROFESSIONAL AND MANAGEMENT DEVELOPMENT TRAINING"
+   },
+   "PSC": {
+    "code": "U099",
+    "description": "EDUCATION/TRAINING- OTHER"
+   },
+   "Recipient Name": "LEARNING TREE INTERNATIONAL USA INC",
+   "Start Date": "2015-07-17",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0191_1323_GS02F0182Y_4732",
+   "internal_id": 296896585
+  },
+  {
+   "Award Amount": 34570.0,
+   "Award ID": "DOCYA132315SE0151",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "WEBS ENROLLMENT LICENSE AND SUPPORT MAINTENANCE IGF::OT::IGF",
+   "End Date": "2016-08-23",
+   "Last Modified Date": "2017-05-11 11:44:41",
+   "NAICS": {
+    "code": "811212",
+    "description": "COMPUTER AND OFFICE MACHINE REPAIR AND MAINTENANCE"
+   },
+   "PSC": {
+    "code": "D319",
+    "description": "IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "CROSS MATCH TECHNOLOGIES, INC.",
+   "Start Date": "2015-08-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315SE0151_1323_-NONE-_-NONE-",
+   "internal_id": 296896755
+  },
+  {
+   "Award Amount": 24812.17,
+   "Award ID": "DOCYA132314SE0174",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "MAPPING SCIENCE COMMITTEE SUPPORT ''IGF::OT::IGF''",
+   "End Date": "2015-07-31",
+   "Last Modified Date": "2017-06-28 14:29:02",
+   "NAICS": {
+    "code": "541690",
+    "description": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R425",
+    "description": "SUPPORT- PROFESSIONAL: ENGINEERING/TECHNICAL"
+   },
+   "Recipient Name": "NATIONAL ACADEMY OF SCIENCES",
+   "Start Date": "2014-07-23",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314SE0174_1323_-NONE-_-NONE-",
+   "internal_id": 296896302
+  },
+  {
+   "Award Amount": 20700.0,
+   "Award ID": "DOCTO10",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TECHNICAL INFORMATION GATHERING AND KNOWLEDGE EXCHANGE. IGF::OT::IGF",
+   "End Date": "2016-04-30",
+   "Last Modified Date": "2019-01-07 12:11:05",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "D321",
+    "description": "IT AND TELECOM- HELP DESK"
+   },
+   "Recipient Name": "FLAGSHIP CUSTOMS SERVICES, INC.",
+   "Start Date": "2015-05-12",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCTO10_1323_DOCYA132309CQ0010_1323",
+   "internal_id": 296870286
+  },
+  {
+   "Award Amount": 14841.17,
+   "Award ID": "DOCYA132315NC0268",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TRANSLATION SERVICES - IGF::OT::IGF",
+   "End Date": "2020-09-23",
+   "Last Modified Date": "2018-04-23 10:47:00",
+   "NAICS": {
+    "code": "541930",
+    "description": "TRANSLATION AND INTERPRETATION SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ALS INTERNATIONAL INC",
+   "Start Date": "2015-09-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0268_1323_GS10F0208T_4730",
+   "internal_id": 296896643
+  },
+  {
+   "Award Amount": 3071.98,
+   "Award ID": "DOCYA132312NC0403",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "UNEMPLOYMENT COMPENSATION FOR DECENNIAL EMPLOYEES. IGF::OT::IGF",
+   "End Date": "2015-09-30",
+   "Last Modified Date": "2017-07-28 11:37:14",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "EQUIFAX WORKFORCE SOLUTIONS LLC",
+   "Start Date": "2012-10-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132312NC0403_1323_AG3143C110016_1205",
+   "internal_id": 296895316
+  },
+  {
+   "Award Amount": 1895.25,
+   "Award ID": "DOCYA132315NC0192",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TRAINING  ''IGF::OT::IGF''",
+   "End Date": "2016-07-19",
+   "Last Modified Date": "2018-03-26 15:30:53",
+   "NAICS": {
+    "code": "611430",
+    "description": "PROFESSIONAL AND MANAGEMENT DEVELOPMENT TRAINING"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "LEARNING TREE INTERNATIONAL USA INC",
+   "Start Date": "2015-07-17",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0192_1323_GS02F0182Y_4732",
+   "internal_id": 296896586
+  },
+  {
+   "Award Amount": 1040.89,
+   "Award ID": "DOCYA132315NC0090",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SED'S FOR BYOD 2015 CENSUS TESTING IGF::OT::IGF",
+   "End Date": "2016-03-31",
+   "Last Modified Date": "2018-02-28 18:01:53",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "5895",
+    "description": "MISCELLANEOUS COMMUNICATION EQUIPMENT"
+   },
+   "Recipient Name": "ATT MOBILITY LLC",
+   "Start Date": "2015-03-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0090_1323_GS35F0297K_4730",
+   "internal_id": 296896507
+  },
+  {
+   "Award Amount": 0.0,
+   "Award ID": "DOCYA132315SU0038",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "HEADSETS FOR DECENNIAL STAFF IGF::OT::IGF",
+   "End Date": "2015-06-18",
+   "Last Modified Date": "2019-03-28 15:38:44",
+   "NAICS": {
+    "code": "334220",
+    "description": "RADIO AND TELEVISION BROADCASTING AND WIRELESS COMMUNICATIONS EQUIPMENT MANUFACTURING"
+   },
+   "PSC": {
+    "code": "5805",
+    "description": "TELEPHONE AND TELEGRAPH EQUIPMENT"
+   },
+   "Recipient Name": "GRADKELL SYSTEMS INC",
+   "Start Date": "2015-05-18",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315SU0038_1323_-NONE-_-NONE-",
+   "internal_id": 296896780
+  },
+  {
+   "Award Amount": 0.0,
+   "Award ID": "DOCYA132315NC0182",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "(40) LAPTOPS IGF::OT::IGF",
+   "End Date": "2015-08-13",
+   "Last Modified Date": "2026-08-31 06:42:24",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "5340",
+    "description": "HARDWARE, COMMERCIAL"
+   },
+   "Recipient Name": "CACI IDT, LLC",
+   "Start Date": "2015-07-13",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132315NC0182_1323_NNG15SD48B_8000",
+   "internal_id": 296896580
+  },
+  {
+   "Award Amount": 0.0,
+   "Award ID": "DOCYA132314SE0197",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "SOURCEFIRE MAINTENANCE RENEWAL IGF::OT::IGF",
+   "End Date": "2014-09-30",
+   "Last Modified Date": "2017-07-03 09:19:37",
+   "NAICS": {
+    "code": "423430",
+    "description": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS"
+   },
+   "PSC": {
+    "code": "D320",
+    "description": "IT AND TELECOM- ANNUAL HARDWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "SOURCEFIRE, INC.",
+   "Start Date": "2014-08-12",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314SE0197_1323_-NONE-_-NONE-",
+   "internal_id": 296896322
+  },
+  {
+   "Award Amount": 0.0,
+   "Award ID": "DOCYA132314AE0026",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "EA SOFTWARE SUPPORT RENEWAL IGF::OT::IGF",
+   "End Date": "2015-08-25",
+   "Last Modified Date": "2018-11-15 08:30:41",
+   "NAICS": {
+    "code": "811212",
+    "description": "COMPUTER AND OFFICE MACHINE REPAIR AND MAINTENANCE"
+   },
+   "PSC": {
+    "code": "D319",
+    "description": "IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "SPARX SYSTEMS PTY LTD",
+   "Start Date": "2014-07-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314AE0026_1323_-NONE-_-NONE-",
+   "internal_id": 296895997
+  },
+  {
+   "Award Amount": 0.0,
+   "Award ID": "DOCCO002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "TRANSLATION SERVICES. IGF::OT::IGF",
+   "End Date": "2015-06-29",
+   "Last Modified Date": "2023-02-09 15:12:55",
+   "NAICS": {
+    "code": "541930",
+    "description": "TRANSLATION AND INTERPRETATION SERVICES"
+   },
+   "PSC": {
+    "code": "R701",
+    "description": "SUPPORT- MANAGEMENT: ADVERTISING"
+   },
+   "Recipient Name": "LANGUAGE BANK, INC.",
+   "Start Date": "2015-06-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCCO002_1323_DOCYA132311BA0002_1323",
+   "internal_id": 296756406
+  }
+ ],
+ "content_hash": "61567a336a63abcd9c1f5cce48271bb1a29471095690c26025f321733b8df324",
+ "fetched": "2026-10-30",
+ "fiscal_year": 2015,
+ "tas_codes": [
+  {
+   "aid": "013",
+   "main": "0450"
+  },
+  {
+   "aid": "013",
+   "main": "0401"
+  }
+ ],
+ "window": [
+  "2014-10-01",
+  "2015-09-30"
+ ]
+}
