@@ -6,6 +6,28 @@ and Programs), newest first. Awards flagged **[DATA]** matched the
 data-acquisition classifier -- see README for what that does and does
 not mean.
 
+## 2026-11-02
+
+Fiscal year FY2026: 215 → 215 awards.
+
+**0 added, 0 removed, 1 modified.**
+
+### Modified (1)
+
+- LITHE SOLUTIONS INC. — THE CONTRACTOR SHALL UTILIZE THE GOVERNMENT-IDENTIFIED MIGRATION TOOL,
+  - `total_outlays`:  → $0
+  - `end_date`: '2026-10-31' → '2027-01-15'
+
+## 2026-11-02
+
+Fiscal year FY2027: 5 → 6 awards.
+
+**1 added, 0 removed, 0 modified.**
+
+### Other awards added (1)
+
+- LITHE SOLUTIONS INC. — THE CONTRACTOR SHALL UTILIZE THE GOVERNMENT-IDENTIFIED MIGRATION TOOL, QMIGRATOR, TO SUPPORT THE MIGRATION OF LEGACY DATABASES, INCLUDING ORACLE, DB2, AND SQL SERVER, TO OPEN-SOURCE PLATFORMS SUCH AS POSTGRESQL AND MYSQL HOSTED IN AMAZON WEB SERVICES ($97,830)
+
 ## 2026-10-30
 
 Fiscal year 2027: initial snapshot, 5 awards (0 flagged as data acquisitions). Nothing to diff against yet.
