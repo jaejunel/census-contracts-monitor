@@ -1,0 +1,5422 @@
+{
+ "award_count": 216,
+ "awards": [
+  {
+   "Award Amount": 911041760.54,
+   "Award ID": "DOCYA132316CN0017",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IGF::OT::IGF   2020 CENSUS QUESTIONNAIRE ASSISTANCE (2020 CQA)",
+   "End Date": "2021-06-14",
+   "Last Modified Date": "2026-09-23 14:25:04",
+   "NAICS": {
+    "code": "519190",
+    "description": "ALL OTHER INFORMATION SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "MAXIMUS FEDERAL SERVICES, INC.",
+   "Start Date": "2016-07-11",
+   "Total Outlays": 363276144.4,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132316CN0017_1323_-NONE-_-NONE-",
+   "internal_id": 296896852
+  },
+  {
+   "Award Amount": 257647257.08,
+   "Award ID": "DOCYA132314NC0058",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IT INFRASTRUCTURE SUPPORT SERVICES-DATA CENTER  IGF::OT::IGF",
+   "End Date": "2024-03-31",
+   "Last Modified Date": "2026-09-23 14:43:36",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "GUIDEHOUSE DIGITAL LLC",
+   "Start Date": "2014-03-19",
+   "Total Outlays": 220664773.35,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_DOCYA132314NC0058_1323_HHSN316201200111W_7529",
+   "internal_id": 296896055
+  },
+  {
+   "Award Amount": 104028980.33,
+   "Award ID": "1333LB21F00000320",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ENTERPRISE CYBERSECURITY SUPPORT SERVICES",
+   "End Date": "2027-03-27",
+   "Last Modified Date": "2026-10-22 11:40:10",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "IRON VINE SECURITY LLC",
+   "Start Date": "2021-09-28",
+   "Total Outlays": 90501156.26,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB21F00000320_1323_47QTCA19D00HF_4732",
+   "internal_id": 277632877
+  },
+  {
+   "Award Amount": 65061466.96,
+   "Award ID": "1333LB22F00000194",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "GEOGRAPHY SUPPORT AND PROJECT MANAGEMENT SERVICES CALL ORDER 0006.",
+   "End Date": "2027-03-21",
+   "Last Modified Date": "2026-09-08 21:20:45",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "SPATIAL FRONT INC",
+   "Start Date": "2022-09-19",
+   "Total Outlays": 53431803.3,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22F00000194_1323_1333LB21A00000007_1323",
+   "internal_id": 277632996
+  },
+  {
+   "Award Amount": 63128195.5,
+   "Award ID": "1333LB24F00000016",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "AMAZON WEB SERVICES - CALL ORDER 0001.",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-08-12 10:35:52",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+   "Start Date": "2023-12-19",
+   "Total Outlays": 29918803.35,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000016_1323_1333LB24A00000001_1323",
+   "internal_id": 277633192
+  },
+  {
+   "Award Amount": 24122451.61,
+   "Award ID": "1333LB23F00000045",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "GEOGRAPHIC SPECIALIST SERVICES BASE PERIOD 03/16/2023 - 03/15/2024",
+   "End Date": "2028-09-15",
+   "Last Modified Date": "2026-03-13 07:51:11",
+   "NAICS": {
+    "code": "541330",
+    "description": "ENGINEERING SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "NETCENTRIC TECHNOLOGY, LLC",
+   "Start Date": "2023-03-16",
+   "Total Outlays": 18508675.3,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23F00000045_1323_47QRAD20D1129_4732",
+   "internal_id": 277633064
+  },
+  {
+   "Award Amount": 23797919.8,
+   "Award ID": "13TECH26F0004",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ONPREM AND CLOUD INFRASTRUCTURE SUPPORT SERVICES MODIFICATION P25002 TO ADD LABOR CATEGORIES.",
+   "End Date": "2030-03-11",
+   "Last Modified Date": "2026-09-16 06:36:07",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2026-06-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0004_1323_1333LB25A00000002_1323",
+   "internal_id": 357701764
+  },
+  {
+   "Award Amount": 20767772.2,
+   "Award ID": "1331L524F13230102",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "DELL MICROSOFT LICENSES",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-08-25 10:41:42",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "DELL FEDERAL SYSTEMS L.P",
+   "Start Date": "2024-06-01",
+   "Total Outlays": 22698816.59,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L524F13230102_1301_1331L524A13ES0005_1301",
+   "internal_id": 277625042
+  },
+  {
+   "Award Amount": 19543739.33,
+   "Award ID": "1333LB21F00000187",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "QEDS SOFTWARE DEVELOPMENT AND TECHNICAL SUPPORT",
+   "End Date": "2027-01-11",
+   "Last Modified Date": "2026-06-25 10:27:12",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "CATHEXIS, LLC",
+   "Start Date": "2021-07-15",
+   "Total Outlays": 18828750.46,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB21F00000187_1323_GS35F0594X_4732",
+   "internal_id": 277632822
+  },
+  {
+   "Award Amount": 18747152.14,
+   "Award ID": "13TECH25F00000069",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ON-PREMISE AND CLOUD INFRASTRUCTURE SUPPORT SERVICES CALL ORDER 0001 FOR DATA CENTER AND CLOUD MIGRATION SUPPORT DATE OF AWARD THROUGH 05/31/2026",
+   "End Date": "2026-05-31",
+   "Last Modified Date": "2026-09-16 06:36:07",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2025-05-30",
+   "Total Outlays": 18747152.14,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25F00000069_1323_1333LB25A00000002_1323",
+   "internal_id": 277718055
+  },
+  {
+   "Award Amount": 18253037.82,
+   "Award ID": "1333LC23C00000002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "FIELD APPLICATION SUPPORT CONTINUATION.",
+   "End Date": "2026-06-30",
+   "Last Modified Date": "2026-05-13 08:41:11",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "COHO TECHNOLOGY SOLUTIONS, LLC",
+   "Start Date": "2023-02-09",
+   "Total Outlays": 17591933.76,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LC23C00000002_1323_-NONE-_-NONE-",
+   "internal_id": 277634108
+  },
+  {
+   "Award Amount": 17831992.2,
+   "Award ID": "1331L526P0006",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "(DCO SSPO) ALL 2030 SYSTEMS/SOFTWARE NEED TO BE IN PLACE AND TESTED ON THE NEW HARDWARE & OPERATING SYSTEMS AS A PART OF THE 2028 DRESS REHEARSAL   IT PACT:  26-436  DBIT: 128095 / 128113 / 128133",
+   "End Date": "2027-04-30",
+   "Last Modified Date": "2026-05-01 13:17:16",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "7F20",
+    "description": "IT AND TELECOM - IT MANAGEMENT TOOLS/PRODUCTS (HARDWARE AND PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "IMPRES TECHNOLOGY SOLUTIONS, INC",
+   "Start Date": "2026-05-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526P0006_1301_-NONE-_-NONE-",
+   "internal_id": 357660935
+  },
+  {
+   "Award Amount": 17153147.17,
+   "Award ID": "1333LB19F00000127",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "IGF::OT::IGF OTHER FUNCTIONS. SE&I ENTERPRISE IT COST AND INVESTMENT SERVICES",
+   "End Date": "2022-09-20",
+   "Last Modified Date": "2026-09-22 13:28:52",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "DELOITTE CONSULTING LLP",
+   "Start Date": "2019-03-20",
+   "Total Outlays": 15104846.83,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB19F00000127_1323_DOCYA132315BU0023_1323",
+   "internal_id": 277632170
+  },
+  {
+   "Award Amount": 16259928.9,
+   "Award ID": "1331L525F13230187",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "2026 CENSUS TEST APPLICATION DEVELOPMENT",
+   "End Date": "2026-09-22",
+   "Last Modified Date": "2026-06-17 17:50:53",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA01",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SUPPORT SERVICES (LABOR)"
+   },
+   "Recipient Name": "SONA NETWORKS LLC",
+   "Start Date": "2025-09-23",
+   "Total Outlays": 5212068.98,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L525F13230187_1301_1331L523D13OS0037_1301",
+   "internal_id": 359148960
+  },
+  {
+   "Award Amount": 14731415.0,
+   "Award ID": "13ADEP26F0007",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "OCISS CALL ORDER 13 DICE",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-09-16 06:36:07",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2026-06-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0007_1323_1333LB25A00000002_1323",
+   "internal_id": 358804371
+  },
+  {
+   "Award Amount": 14123232.45,
+   "Award ID": "1333LB24F00000199",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "FFRDC RESEARCH AND METHODOLOGY TECHNICAL SERVICES",
+   "End Date": "2027-09-14",
+   "Last Modified Date": "2026-07-10 09:03:54",
+   "NAICS": {
+    "code": "541990",
+    "description": "ALL OTHER PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2024-09-15",
+   "Total Outlays": 7133030.31,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000199_1323_1331L523D13OS0003_1301",
+   "internal_id": 277633252
+  },
+  {
+   "Award Amount": 12568628.28,
+   "Award ID": "1333LB22F00000199",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ACQUISITION SUPPORT SERVICES",
+   "End Date": "2027-08-31",
+   "Last Modified Date": "2026-07-07 09:17:40",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "SEVENTH SENSE, LLC",
+   "Start Date": "2022-09-26",
+   "Total Outlays": 9578116.03,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22F00000199_1323_GS00F102GA_4732",
+   "internal_id": 277633000
+  },
+  {
+   "Award Amount": 11749435.6,
+   "Award ID": "13ADRM26F0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ONPREM AND CLOUD INFRASTRUCTURE SUPPORT SERVICES CALL ORDER 0006 RESEARCH AND METHODOLOGY DIRECTORATE 03/04/2026 - 03/03/2027",
+   "End Date": "2027-03-04",
+   "Last Modified Date": "2026-10-21 16:14:13",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2026-03-05",
+   "Total Outlays": 2540195.98,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADRM26F0002_1323_1333LB25A00000002_1323",
+   "internal_id": 355809324
+  },
+  {
+   "Award Amount": 11746847.72,
+   "Award ID": "13TECH26F0021",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ONPREM AND CLOUD INFRASTRUCTURE SUPPORT SERVICES MODIFICATION P25002 TO ADD LABOR CATEGORIES.",
+   "End Date": "2030-03-11",
+   "Last Modified Date": "2026-09-09 16:56:52",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2026-06-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0021_1323_1333LB25A00000002_1323",
+   "internal_id": 357885604
+  },
+  {
+   "Award Amount": 10396934.4,
+   "Award ID": "1333LB24F00000242",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "GEOGRAPHIC UPDATE PARTERNSHIP SOFTWARE 4 - GEOGRAPHIC PLATFORM",
+   "End Date": "2032-03-15",
+   "Last Modified Date": "2026-06-18 10:51:14",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "C219",
+    "description": "ARCHITECT AND ENGINEERING- GENERAL: OTHER"
+   },
+   "Recipient Name": "IMAGINE BELIEVE REALIZE LLC",
+   "Start Date": "2024-09-19",
+   "Total Outlays": 5863628.7,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000242_1323_47QTCA19D00BD_4732",
+   "internal_id": 277633273
+  },
+  {
+   "Award Amount": 10343470.65,
+   "Award ID": "1331L519F13230637",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "BROADBAND DATA SERVICES",
+   "End Date": "2026-02-28",
+   "Last Modified Date": "2026-09-25 15:50:48",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "ATT MOBILITY LLC",
+   "Start Date": "2019-09-27",
+   "Total Outlays": 9232747.74,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L519F13230637_1301_DOCSA130114BU0005_1301",
+   "internal_id": 277615932
+  },
+  {
+   "Award Amount": 9988387.31,
+   "Award ID": "1331L524F13230251",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "CONTRACTOR'S COMMERCE ACQUISITION FOR TRANSFORMATIONAL TECHNOLOGY SERVICES (CATTS) DECENNIAL, APPLICANT, PERSONNEL AND PAYROLL SYSTEM (DAPPS) SUPPORT SERVICES",
+   "End Date": "2032-09-12",
+   "Last Modified Date": "2026-09-16 11:55:10",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "METROIBR JV LLC",
+   "Start Date": "2024-09-13",
+   "Total Outlays": 5396571.53,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L524F13230251_1301_1331L523D13OS0032_1301",
+   "internal_id": 277625094
+  },
+  {
+   "Award Amount": 9919740.0,
+   "Award ID": "13ADEP26F0015",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IT SUPPORT SERVICES FOR ECON. AIES SPACE OPERATIONS AND MAINTENANCE SUPPORT, SPACE REENGINEERING, CLOUD SUPPORT, AND VALUE-DRIVEN PERFORMANCE IMPROVEMENTS, ECONS CLOUD ARCHITECTURE TEAM ECAT SUPPORT, FRAMES DEVELOPMENT AND OPERATIONS SUPPORT",
+   "End Date": "2027-09-13",
+   "Last Modified Date": "2026-08-28 12:05:18",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "QUALTRYX, LLC",
+   "Start Date": "2026-09-14",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0015_1323_47QTCA23D007E_4732",
+   "internal_id": 361858250
+  },
+  {
+   "Award Amount": 9767342.2,
+   "Award ID": "1333LB21F00000277",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "RESEARCH AND METHODOLOGY CAPABILITY MODERNIZATION SERVICES",
+   "End Date": "2022-09-15",
+   "Last Modified Date": "2026-09-23 10:23:01",
+   "NAICS": {
+    "code": "541618",
+    "description": "OTHER MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2021-09-16",
+   "Total Outlays": 9767342.2,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB21F00000277_1323_TIRNO99D00005_2050",
+   "internal_id": 277632848
+  },
+  {
+   "Award Amount": 9728868.3,
+   "Award ID": "1333LB24F00000035",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "FFRDC 2030 DECENNIAL RESEARCH AND DESIGN SERVICES",
+   "End Date": "2027-02-12",
+   "Last Modified Date": "2026-07-01 08:38:21",
+   "NAICS": {
+    "code": "541990",
+    "description": "ALL OTHER PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2024-02-13",
+   "Total Outlays": 6927815.29,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000035_1323_1331L523D13OS0003_1301",
+   "internal_id": 277633199
+  },
+  {
+   "Award Amount": 9639143.37,
+   "Award ID": "1333LB22C00000008",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "2030 DECENNIAL ARCHITECTURE FOR SCHEDULING",
+   "End Date": "2026-09-25",
+   "Last Modified Date": "2026-06-08 14:32:05",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ASRC FEDERAL TECHNOLOGY SOLUTIONS, LLC",
+   "Start Date": "2022-07-01",
+   "Total Outlays": 8980858.99,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22C00000008_1323_-NONE-_-NONE-",
+   "internal_id": 277632915
+  },
+  {
+   "Award Amount": 9589996.92,
+   "Award ID": "13PDRD25F00000074",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "QUALITY ASSURANCE IN NEAR REAL TIME SUPPORT SERVICES",
+   "End Date": "2027-12-23",
+   "Last Modified Date": "2026-06-23 13:32:52",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "FEDERAL RESOURCES CORPORATION",
+   "Start Date": "2025-06-24",
+   "Total Outlays": 4234172.52,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13PDRD25F00000074_1323_NNG15SC61B_8000",
+   "internal_id": 277712948
+  },
+  {
+   "Award Amount": 9576179.96,
+   "Award ID": "1333LB20F00000457",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "RESEARCH AND METHODOLOGY CAPABILITY MODERNIZATION SERVICES",
+   "End Date": "2021-09-15",
+   "Last Modified Date": "2026-09-22 13:56:55",
+   "NAICS": {
+    "code": "541618",
+    "description": "OTHER MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2020-09-16",
+   "Total Outlays": 9076180.57,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB20F00000457_1323_TIRNO99D00005_2050",
+   "internal_id": 277632672
+  },
+  {
+   "Award Amount": 9215004.62,
+   "Award ID": "1331L521F13230059",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "VPN SERVICES",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-09-25 16:45:28",
+   "NAICS": {
+    "code": "517110",
+    "description": "WIRED TELECOMMUNICATIONS CARRIERS"
+   },
+   "PSC": {
+    "code": "DG11",
+    "description": "IT and Telecom - Network: Satellite Communications and Telecom Access Services"
+   },
+   "Recipient Name": "VERIZON BUSINESS NETWORK SERVICES LLC",
+   "Start Date": "2021-02-18",
+   "Total Outlays": 9086583.56,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L521F13230059_1301_GS00Q17NSD3009_4732",
+   "internal_id": 277619181
+  },
+  {
+   "Award Amount": 9077171.75,
+   "Award ID": "1333LB21F00000278",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ENTERPRISE MODERNIZATION CAPABILITY SERVICES",
+   "End Date": "2022-09-14",
+   "Last Modified Date": "2026-09-23 08:17:19",
+   "NAICS": {
+    "code": "541618",
+    "description": "OTHER MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2021-09-15",
+   "Total Outlays": 9077171.75,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB21F00000278_1323_TIRNO99D00005_2050",
+   "internal_id": 277632849
+  },
+  {
+   "Award Amount": 8913755.22,
+   "Award ID": "1333LB24C00000017",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "CONTRACT AWARD FOR DECENNIAL 2026 R&A.",
+   "End Date": "2027-02-25",
+   "Last Modified Date": "2026-06-24 13:43:51",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "KATMAI QUANTUM LLC",
+   "Start Date": "2024-08-27",
+   "Total Outlays": 7794539.71,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24C00000017_1323_-NONE-_-NONE-",
+   "internal_id": 277633180
+  },
+  {
+   "Award Amount": 8856500.6,
+   "Award ID": "13TECH26F0006",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "OCISS CALL ORDER 14 TCO IT PACT 26-424 DBIT 125361 / 125279 / 125262 / 125107",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-09-16 06:36:07",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2026-06-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0006_1323_1333LB25A00000002_1323",
+   "internal_id": 357735701
+  },
+  {
+   "Award Amount": 8736582.0,
+   "Award ID": "1333LB23C00000022",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "AGGREGATED POINT OF SALE / SCANNER TRANSACTION DATA",
+   "End Date": "2028-09-18",
+   "Last Modified Date": "2026-09-14 10:02:50",
+   "NAICS": {
+    "code": "541910",
+    "description": "MARKETING RESEARCH AND PUBLIC OPINION POLLING"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "CIRCANA GROUP, L.P.",
+   "Start Date": "2023-09-19",
+   "Total Outlays": 5433223.44,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23C00000022_1323_-NONE-_-NONE-",
+   "internal_id": 277633040
+  },
+  {
+   "Award Amount": 8470025.89,
+   "Award ID": "1333LB24C00000035",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "2026 CT CONTRACT",
+   "End Date": "2026-09-25",
+   "Last Modified Date": "2026-09-03 09:12:21",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "COMMAND CYBER SOLUTIONS LLC",
+   "Start Date": "2024-09-26",
+   "Total Outlays": 5420204.79,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24C00000035_1323_-NONE-_-NONE-",
+   "internal_id": 277633184
+  },
+  {
+   "Award Amount": 8038929.76,
+   "Award ID": "1333LB24F00000221",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ORACLE EXADATA LICENSES",
+   "End Date": "2027-08-31",
+   "Last Modified Date": "2026-07-17 10:12:56",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "AFFIGENT, LLC",
+   "Start Date": "2024-09-01",
+   "Total Outlays": 4316614.03,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000221_1323_NNG15SC59B_8000",
+   "internal_id": 277633261
+  },
+  {
+   "Award Amount": 8011454.0,
+   "Award ID": "13ADDC25F00000083",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING CALL ORDER 0008 DECENNIAL DIRECTORATE OPERATIONS FOR POP: 06/25/2025 - 06/24/2026.",
+   "End Date": "2026-06-24",
+   "Last Modified Date": "2026-09-09 14:04:31",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2025-06-25",
+   "Total Outlays": 7655307.14,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC25F00000083_1323_1333LB22A00000002_1323",
+   "internal_id": 277696182
+  },
+  {
+   "Award Amount": 7978320.29,
+   "Award ID": "13ADDP25C00000022",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "DEMOGRAPHIC SYSTEMS DIVISION (DSD) IT SUPPORT SERVICES",
+   "End Date": "2027-09-07",
+   "Last Modified Date": "2026-05-28 16:00:44",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R408",
+    "description": "SUPPORT- PROFESSIONAL: PROGRAM MANAGEMENT/SUPPORT"
+   },
+   "Recipient Name": "LEISNOI PROFESSIONAL SERVICES LLC",
+   "Start Date": "2025-09-08",
+   "Total Outlays": 2680321.8,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDP25C00000022_1323_-NONE-_-NONE-",
+   "internal_id": 277696192
+  },
+  {
+   "Award Amount": 7611613.17,
+   "Award ID": "1333LB22F00000150",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "GEOGRAPHY CENTRALIZED DECENNIAL ADDRESS CONTROL (CDAC) SUPPORT CALL ORDER 0005",
+   "End Date": "2027-03-20",
+   "Last Modified Date": "2026-09-14 09:10:12",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "SPATIAL FRONT INC",
+   "Start Date": "2022-08-01",
+   "Total Outlays": 6322557.36,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22F00000150_1323_1333LB21A00000007_1323",
+   "internal_id": 277632973
+  },
+  {
+   "Award Amount": 7524849.59,
+   "Award ID": "1331L524F13230214",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "COMMERCE ACQUISITION FOR TRANSFORMATIONAL TECHNOLOGY SERVICES (CATTS) CENSUS HIRING EMPLOYMENT CHECK (CHEC) SUPPORT SERVICES",
+   "End Date": "2032-08-19",
+   "Last Modified Date": "2026-09-18 07:46:22",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "METROIBR JV LLC",
+   "Start Date": "2024-08-20",
+   "Total Outlays": 3911838.41,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L524F13230214_1301_1331L523D13OS0032_1301",
+   "internal_id": 277625084
+  },
+  {
+   "Award Amount": 7320000.0,
+   "Award ID": "13ADEP26F0006",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "THE PURPOSE OF THIS TASK ORDER IS TO OBTAIN CONTRACTOR SERVICES TO SUPPORT MODERNIZATION EFFORTS OF THE USCB CLOUD INFRASTRUCTURE AND CRITICAL ELEMENTS OF THE BUSINESS ECOSYSTEM, SPECIFICALLY THE EDL. IT PACT 26-443 DBIT 125931 / 125380",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-09-16 06:36:07",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2026-06-01",
+   "Total Outlays": 370975.81,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0006_1323_1333LB25A00000002_1323",
+   "internal_id": 357735700
+  },
+  {
+   "Award Amount": 7167326.19,
+   "Award ID": "1333LB21F00000272",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "CENSUS HUMAN RESOURCE INFORMATION SYSTEMS (CHRIS) SUPPORT",
+   "End Date": "2026-09-22",
+   "Last Modified Date": "2026-07-21 07:15:26",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "PRIME SOURCE TECHNOLOGIES, LLC",
+   "Start Date": "2021-09-15",
+   "Total Outlays": 7064851.53,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB21F00000272_1323_GS35F0480T_4730",
+   "internal_id": 277632846
+  },
+  {
+   "Award Amount": 7164899.72,
+   "Award ID": "13TECH25F00000066",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ON-PREMISE AND CLOUD INFRASTRUCTURE SUPPORT SERVICES CALL ORDER 0004 FOR TELECOMMUNICATIONS OFFICE DATE OF AWARD THROUGH 05/31/2026",
+   "End Date": "2026-05-31",
+   "Last Modified Date": "2026-09-16 06:36:07",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2025-05-30",
+   "Total Outlays": 7164899.72,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25F00000066_1323_1333LB25A00000002_1323",
+   "internal_id": 277718053
+  },
+  {
+   "Award Amount": 7064007.34,
+   "Award ID": "13ADDC26F0009",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DBIT 117368 - THIS CONTRACT SUPPORTS EXECUTION PLANNING FOR THE 2026 CENSUS TEST AND READINESS ACTIVITIES LEADING INTO THE 2028 DRESS REHEARSAL AND FULL 2030 CENSUS OPERATIONS, WHILE ALSO ESTABLISHING FOUNDATIONAL SCHEDULING CAPABILITY FOR EARLY 2040",
+   "End Date": "2032-03-25",
+   "Last Modified Date": "2026-09-02 07:39:31",
+   "NAICS": {
+    "code": "541715",
+    "description": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ASRC FEDERAL ADVANCED RESEARCH, LLC",
+   "Start Date": "2026-09-26",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0009_1323_47QRCA26DA020_4732",
+   "internal_id": 361161801
+  },
+  {
+   "Award Amount": 7042840.24,
+   "Award ID": "13TECH25F00000042",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "NEW CALL ORDER 0009 FOR BPA 1333LB21A00000002",
+   "End Date": "2026-06-10",
+   "Last Modified Date": "2026-08-21 08:21:25",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IMAGINE BELIEVE REALIZE LLC",
+   "Start Date": "2025-02-11",
+   "Total Outlays": 6613995.02,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25F00000042_1323_1333LB21A00000002_1323",
+   "internal_id": 277718049
+  },
+  {
+   "Award Amount": 6681183.2,
+   "Award ID": "13ADEP26F0012",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IT SUPPORT SERVICES FOR ECON. ECON IT INFRASTRUCTURE AND MIDDLEWARE OPERATIONS SERVICES AND SUPPORT (EIS MIDDLEWARE, DATABASE ADMINISTRATION, DEVOPS, OKTA-MFA",
+   "End Date": "2027-09-11",
+   "Last Modified Date": "2026-08-18 07:22:11",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "LIGHTFRONT LLC",
+   "Start Date": "2026-09-12",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0012_1323_47QTCA24D00BZ_4732",
+   "internal_id": 361462056
+  },
+  {
+   "Award Amount": 6676856.96,
+   "Award ID": "13TECH26F0030",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING SUPPORT SERVICES CALL ORDER 0012 2030 CENSUS MID-DECADE END TO END TESTING",
+   "End Date": "2027-06-28",
+   "Last Modified Date": "2026-06-26 11:19:27",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2026-06-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0030_1323_1333LB22A00000002_1323",
+   "internal_id": 359728539
+  },
+  {
+   "Award Amount": 6599999.96,
+   "Award ID": "1333LB24C00000030",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "AGGREGATED RETAIL POINT-OF-SALE/SCANNER TRANSACTION DATA.",
+   "End Date": "2027-09-29",
+   "Last Modified Date": "2026-07-07 11:01:44",
+   "NAICS": {
+    "code": "541910",
+    "description": "MARKETING RESEARCH AND PUBLIC OPINION POLLING"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "NIELSEN CONSUMER LLC",
+   "Start Date": "2024-09-30",
+   "Total Outlays": 3849999.93,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24C00000030_1323_-NONE-_-NONE-",
+   "internal_id": 277633182
+  },
+  {
+   "Award Amount": 6567200.0,
+   "Award ID": "13ADEP26F0014",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "IT SUPPORT SERVICES FOR ECON. ON-PREM OPERATIONS AND MAINTENANCE SUPPORT , CLOUD MIGRATION SUPPORT, CLOUD DEVELOPMENT, INTEGRATION, AND OPERATIONS SUPPORT, STEPS TO STEPSII INDICATOR MIGRATION",
+   "End Date": "2027-09-11",
+   "Last Modified Date": "2026-08-18 11:16:22",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "LIGHTFRONT LLC",
+   "Start Date": "2026-09-12",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0014_1323_47QTCA24D00BZ_4732",
+   "internal_id": 361462058
+  },
+  {
+   "Award Amount": 6531113.77,
+   "Award ID": "1333LB24F00000046",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DECENNIAL DIRECTORATE PROGRAM AND PROJECT MANAGEMENT SUPPORT",
+   "End Date": "2027-09-26",
+   "Last Modified Date": "2026-07-09 07:31:56",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R408",
+    "description": "SUPPORT- PROFESSIONAL: PROGRAM MANAGEMENT/SUPPORT"
+   },
+   "Recipient Name": "WINDSOR GROUP LLC",
+   "Start Date": "2024-02-27",
+   "Total Outlays": 4111886.91,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000046_1323_47QRAA21D006R_4732",
+   "internal_id": 277633203
+  },
+  {
+   "Award Amount": 6247289.0,
+   "Award ID": "13ADCM26F0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ORDER 0002 - DIGITAL WEB SERVICES BPA-STRATEGIC COMMUNICATIONS AND DIGITAL SERVICES (SCDS)",
+   "End Date": "2027-06-23",
+   "Last Modified Date": "2026-06-22 09:34:17",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "J.R. REINGOLD & ASSOCIATES, INC.",
+   "Start Date": "2026-06-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADCM26F0001_1323_1333LB24A00000002_1323",
+   "internal_id": 359626206
+  },
+  {
+   "Award Amount": 6186833.6,
+   "Award ID": "1331L524F13230245",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "CATTS DITD DRPS MIDDLEWARE SUPPORT SERVICES",
+   "End Date": "2027-03-15",
+   "Last Modified Date": "2026-09-16 10:25:11",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "PROGOV PARTNERS LLC",
+   "Start Date": "2024-09-16",
+   "Total Outlays": 4480140.72,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L524F13230245_1301_1331L523D13OS0034_1301",
+   "internal_id": 277625093
+  },
+  {
+   "Award Amount": 5808487.53,
+   "Award ID": "1333LB24C00000031",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "CENSUS TEST PARTNERSHIP CUSTOMER RELATIONSHIP MANAGEMENT (CRM)",
+   "End Date": "2027-03-25",
+   "Last Modified Date": "2026-09-14 09:10:01",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DF10",
+    "description": "IT AND TELECOM - IT MANAGEMENT AS A SERVICE"
+   },
+   "Recipient Name": "ASRC FEDERAL TECHNOLOGY SOLUTIONS, LLC",
+   "Start Date": "2024-09-26",
+   "Total Outlays": 4331375.53,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24C00000031_1323_-NONE-_-NONE-",
+   "internal_id": 277633183
+  },
+  {
+   "Award Amount": 5780102.13,
+   "Award ID": "1333LB22F00000130",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "CES COLLABORATION PROJECT",
+   "End Date": "2026-01-30",
+   "Last Modified Date": "2026-10-22 16:46:21",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "NEW LIGHT TECHNOLOGIES INC",
+   "Start Date": "2022-07-01",
+   "Total Outlays": 6041237.71,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22F00000130_1323_47QRAA20D001E_4732",
+   "internal_id": 277632962
+  },
+  {
+   "Award Amount": 5650444.0,
+   "Award ID": "13TECH26F0033",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING SUPPORT SERVICES BPA MOD P25008 CORRECT ORDER DATE IN CONTRACT SYSTEM",
+   "End Date": "2027-06-28",
+   "Last Modified Date": "2026-06-26 11:19:59",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2026-06-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0033_1323_1333LB22A00000002_1323",
+   "internal_id": 359728542
+  },
+  {
+   "Award Amount": 5458091.5,
+   "Award ID": "13TECH25F00000093",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "TOOLE APPLICATION/ADMINISTRATION SUPPORT SERVICES CALL ORDER 0004 BASE PERIOD: 07/14/2025 - 07/13/2026",
+   "End Date": "2027-07-15",
+   "Last Modified Date": "2026-09-16 11:41:46",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "CATHEXIS, LLC",
+   "Start Date": "2025-07-16",
+   "Total Outlays": 1344714.72,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25F00000093_1323_1333LB21A00000005_1323",
+   "internal_id": 277718059
+  },
+  {
+   "Award Amount": 5383803.93,
+   "Award ID": "13ADEP26C0005",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "THIS CONTRACT PROVIDES FOR THE DESIGN, DEVELOPMENT, AND DEPLOYMENT OF A SCALABLE, AUTOMATED, AND SECURE ENTERPRISE DATA LAKE (EDL) PLATFORM BUILT ENTIRELY ON AWS-NATIVE SERVICES. THE EDL WILL REPLACE SILOED, ON-PREMISE SYSTEMS AND SUPPORT DATA CONSOL",
+   "End Date": "2027-03-31",
+   "Last Modified Date": "2026-09-17 14:35:23",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "TECHNOLOGY & BUSINESS MANAGEMENT INC.",
+   "Start Date": "2026-01-15",
+   "Total Outlays": 2036958.66,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26C0005_1323_-NONE-_-NONE-",
+   "internal_id": 354336377
+  },
+  {
+   "Award Amount": 5381744.64,
+   "Award ID": "13TECH26F0031",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING SUPPORT SERVICES 0013 2030 CENSUS MID-DECADE OPERATIONAL DELIVERY",
+   "End Date": "2027-06-28",
+   "Last Modified Date": "2026-06-26 11:19:12",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2026-06-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0031_1323_1333LB22A00000002_1323",
+   "internal_id": 359728540
+  },
+  {
+   "Award Amount": 5165870.0,
+   "Award ID": "13TECH26F0025",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "INCORPORATE CHANGES DUE TO REGULATORY CHANGES FROM RECENT EXECUTIVE ORDERS AND THE REVOLUTIONARY FAR OVERHAUL.",
+   "End Date": "2027-06-10",
+   "Last Modified Date": "2026-08-25 11:24:56",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DH01",
+    "description": "IT AND TELECOM - PLATFORM SUPPORT SERVICES: DATABASE, MAINFRAME, MIDDLEWARE (LABOR)"
+   },
+   "Recipient Name": "IMAGINE BELIEVE REALIZE LLC",
+   "Start Date": "2026-06-11",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0025_1323_1333LB21A00000002_1323",
+   "internal_id": 359121195
+  },
+  {
+   "Award Amount": 5165404.93,
+   "Award ID": "1331L526F0186",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "NEW NPC FURNITURE CONTRACT",
+   "End Date": "2026-12-31",
+   "Last Modified Date": "2026-06-09 17:32:23",
+   "NAICS": {
+    "code": "337214",
+    "description": "OFFICE FURNITURE (EXCEPT WOOD) MANUFACTURING"
+   },
+   "PSC": {
+    "code": "7110",
+    "description": "OFFICE FURNITURE"
+   },
+   "Recipient Name": "FLATWATER SOLUTIONS COMPANY",
+   "Start Date": "2026-06-09",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0186_1301_1331L523D13ES0020_1301",
+   "internal_id": 359095307
+  },
+  {
+   "Award Amount": 5164945.45,
+   "Award ID": "13ADEP25C00000027",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "MEDOU CONTRACT",
+   "End Date": "2026-09-29",
+   "Last Modified Date": "2026-08-03 16:42:11",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R707",
+    "description": "SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT"
+   },
+   "Recipient Name": "QUALTRYX, LLC",
+   "Start Date": "2025-09-30",
+   "Total Outlays": 3151689.48,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP25C00000027_1323_-NONE-_-NONE-",
+   "internal_id": 277696198
+  },
+  {
+   "Award Amount": 5014148.0,
+   "Award ID": "13ADFL25C00000005",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "DEC AUTOMATED TRAINING SUPPORT",
+   "End Date": "2027-01-26",
+   "Last Modified Date": "2026-11-02 11:58:18",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "I TECH AG LLC",
+   "Start Date": "2025-01-27",
+   "Total Outlays": 4752871.86,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADFL25C00000005_1323_-NONE-_-NONE-",
+   "internal_id": 277696210
+  },
+  {
+   "Award Amount": 4943112.6,
+   "Award ID": "13ADDC25C00000037",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "IT BUDGET SUPPORT",
+   "End Date": "2027-09-24",
+   "Last Modified Date": "2026-09-08 11:46:50",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "SENECA STRATEGIC PARTNERS, LLC",
+   "Start Date": "2025-09-25",
+   "Total Outlays": 1436553.23,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC25C00000037_1323_-NONE-_-NONE-",
+   "internal_id": 277696178
+  },
+  {
+   "Award Amount": 4829999.0,
+   "Award ID": "13ADDC26F0005",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "AWARD CALL ORDER 13 EDATABASE",
+   "End Date": "2027-05-25",
+   "Last Modified Date": "2026-08-21 08:21:25",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DH01",
+    "description": "IT AND TELECOM - PLATFORM SUPPORT SERVICES: DATABASE, MAINFRAME, MIDDLEWARE (LABOR)"
+   },
+   "Recipient Name": "IMAGINE BELIEVE REALIZE LLC",
+   "Start Date": "2026-05-27",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0005_1323_1333LB21A00000002_1323",
+   "internal_id": 358697606
+  },
+  {
+   "Award Amount": 4687662.0,
+   "Award ID": "13ADCM25F00000073",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "DIGITAL WEB SERVICES CALL ORDER 0001 AGAINST THE SCDS BPA.",
+   "End Date": "2026-06-23",
+   "Last Modified Date": "2026-05-06 10:32:39",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "J.R. REINGOLD & ASSOCIATES, INC.",
+   "Start Date": "2025-06-06",
+   "Total Outlays": 3312887.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADCM25F00000073_1323_1333LB24A00000002_1323",
+   "internal_id": 277696175
+  },
+  {
+   "Award Amount": 4672206.0,
+   "Award ID": "13TECH26C0003",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "THE INTENT OF THIS PROCUREMENT IS FOR THE U.S. CENSUS BUREAU TO ACQUIRE CONTRACTOR SOFTWARE MAINTENANCE SUPPORT SERVICES FOR THE APPLICATION DEVELOPMENT AND SERVICES DIVISION (ADSD). THE ONGOING OPERATIONAL NEEDS OF ADSD INCLUDE: CONTROL SYSTEMS DEVE",
+   "End Date": "2027-04-05",
+   "Last Modified Date": "2026-07-02 10:33:05",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "COHO TECHNOLOGY SOLUTIONS, LLC",
+   "Start Date": "2026-07-06",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26C0003_1323_-NONE-_-NONE-",
+   "internal_id": 359959461
+  },
+  {
+   "Award Amount": 4652570.94,
+   "Award ID": "1333LB19F00000566",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DECENNIAL CAPABILITY DEVELOPMENT SERVICES.",
+   "End Date": "2020-09-20",
+   "Last Modified Date": "2026-09-23 09:46:57",
+   "NAICS": {
+    "code": "541618",
+    "description": "OTHER MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2019-09-21",
+   "Total Outlays": 3912570.94,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB19F00000566_1323_TIRNO99D00005_2050",
+   "internal_id": 277632341
+  },
+  {
+   "Award Amount": 4542217.9,
+   "Award ID": "1331L524F13230092",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CELLULAR SERVICE",
+   "End Date": "2026-11-30",
+   "Last Modified Date": "2026-09-23 16:27:30",
+   "NAICS": {
+    "code": "517312",
+    "description": "WIRELESS TELECOMMUNICATIONS CARRIERS (EXCEPT SATELLITE)"
+   },
+   "PSC": {
+    "code": "7E21",
+    "description": "IT AND TELECOM - MOBILE DEVICE PRODUCTS (HARDWARE AND PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "CELLCO PARTNERSHIP",
+   "Start Date": "2024-05-01",
+   "Total Outlays": 3720252.41,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L524F13230092_1301_1331L523A13ES0021_1301",
+   "internal_id": 354304225
+  },
+  {
+   "Award Amount": 4286441.0,
+   "Award ID": "1331L526F0071",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ESRI ARCGIS PROPRIETARY SOFTWARE",
+   "End Date": "2027-02-26",
+   "Last Modified Date": "2026-09-23 13:46:57",
+   "NAICS": {
+    "code": "511210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE, INC.",
+   "Start Date": "2026-04-01",
+   "Total Outlays": 4041086.88,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0071_1301_1331L524A13ES0037_1301",
+   "internal_id": 356734632
+  },
+  {
+   "Award Amount": 4271598.58,
+   "Award ID": "1333LB22F00000055",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ENTERPRISE EXADATA SUPPORT CALL ORDER 0003.",
+   "End Date": "2027-03-23",
+   "Last Modified Date": "2026-09-08 12:46:00",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "SPATIAL FRONT INC",
+   "Start Date": "2022-03-11",
+   "Total Outlays": 3693671.86,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22F00000055_1323_1333LB21A00000007_1323",
+   "internal_id": 277632944
+  },
+  {
+   "Award Amount": 4236397.75,
+   "Award ID": "1333LB23C00000033",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "PROVIDE DATA PROCESSING SUPPORT SERVICES",
+   "End Date": "2027-03-20",
+   "Last Modified Date": "2026-08-24 14:08:45",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "OPTIMO INFORMATION TECHNOLOGY LLC",
+   "Start Date": "2023-09-21",
+   "Total Outlays": 3152034.61,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23C00000033_1323_-NONE-_-NONE-",
+   "internal_id": 277633042
+  },
+  {
+   "Award Amount": 4201942.76,
+   "Award ID": "1333LB23C00000037",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "ARCHITECT SERVICES",
+   "End Date": "2026-09-26",
+   "Last Modified Date": "2026-03-10 11:35:15",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ARCTICOM, LLC",
+   "Start Date": "2023-09-27",
+   "Total Outlays": 2218003.75,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23C00000037_1323_-NONE-_-NONE-",
+   "internal_id": 277633043
+  },
+  {
+   "Award Amount": 4117343.5,
+   "Award ID": "1331L526F0228",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "IBM NETS SSI",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-06-30 17:25:25",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "FCN, INC.",
+   "Start Date": "2026-06-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0228_1301_1331L525A13OS0014_1301",
+   "internal_id": 359810124
+  },
+  {
+   "Award Amount": 4101081.6,
+   "Award ID": "1331L525F13230165",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "VMWARE RENEWAL FOR THE US CENSUS BUREAU",
+   "End Date": "2029-07-31",
+   "Last Modified Date": "2026-07-23 09:33:23",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "SWISH DATA CORPORATION",
+   "Start Date": "2025-09-18",
+   "Total Outlays": 2050540.8,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L525F13230165_1301_NNG15SC91B_8000",
+   "internal_id": 360777461
+  },
+  {
+   "Award Amount": 4056020.51,
+   "Award ID": "1333LB23C00000021",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "MAF/TIGER MODERNIZATION AND CLOUD MIGRATION RESEARCH SERVICES",
+   "End Date": "2025-06-30",
+   "Last Modified Date": "2026-01-12 19:54:54",
+   "NAICS": {
+    "code": "541618",
+    "description": "OTHER MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "DA01",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SUPPORT SERVICES (LABOR)"
+   },
+   "Recipient Name": "BLN LLC",
+   "Start Date": "2023-09-15",
+   "Total Outlays": 3497315.66,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23C00000021_1323_-NONE-_-NONE-",
+   "internal_id": 277633039
+  },
+  {
+   "Award Amount": 4000000.0,
+   "Award ID": "1333LC24C00000026",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "PROCESS RE-ENGINEERING, BUSINESS ANALYSIS, IMAGE RETRIEVAL, DATA SCIENCES, XD, AND MOJO SUPPORT SERVICES",
+   "End Date": "2026-03-31",
+   "Last Modified Date": "2026-01-16 15:57:28",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "WHIRLWIND TECHNOLOGIES LLC",
+   "Start Date": "2024-09-20",
+   "Total Outlays": 4000000.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LC24C00000026_1323_-NONE-_-NONE-",
+   "internal_id": 277634225
+  },
+  {
+   "Award Amount": 3982420.17,
+   "Award ID": "1333LB24F00000001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "TOOLS APPLICATION/ADMINISTRATION SUPPORT SERVICES CALL ORDER 0003.",
+   "End Date": "2025-04-30",
+   "Last Modified Date": "2026-11-04 13:30:30",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "CATHEXIS, LLC",
+   "Start Date": "2023-10-30",
+   "Total Outlays": 3982420.17,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000001_1323_1333LB21A00000005_1323",
+   "internal_id": 277633186
+  },
+  {
+   "Award Amount": 3964545.46,
+   "Award ID": "1333LB23F00000134",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "AWARD OF CENTER FOR OPTIMIZATION AND DATA SCIENCE (CODS) SUPPORT SERVICES",
+   "End Date": "2027-08-17",
+   "Last Modified Date": "2026-08-11 09:29:15",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THE BRITE GROUP, INC",
+   "Start Date": "2023-08-18",
+   "Total Outlays": 1862256.38,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23F00000134_1323_GS35F014BA_4732",
+   "internal_id": 277633094
+  },
+  {
+   "Award Amount": 3955881.49,
+   "Award ID": "1333LB24F00000138",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "QUALTRICS SOFTWARE LICENSES",
+   "End Date": "2027-07-23",
+   "Last Modified Date": "2026-07-10 11:12:06",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "NEW TECH SOLUTIONS, INC.",
+   "Start Date": "2024-06-27",
+   "Total Outlays": 3665527.64,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000138_1323_NNG15SC82B_8000",
+   "internal_id": 277633234
+  },
+  {
+   "Award Amount": 3907989.12,
+   "Award ID": "1333LB23C00000010",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "COST ESTIMATION AND KNOWLEDGE SHARING SERVICES",
+   "End Date": "2026-06-19",
+   "Last Modified Date": "2026-04-23 08:24:44",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "DF10",
+    "description": "IT AND TELECOM - IT MANAGEMENT AS A SERVICE"
+   },
+   "Recipient Name": "WESTERN DOOR FEDERAL, LLC",
+   "Start Date": "2023-06-01",
+   "Total Outlays": 3676329.33,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23C00000010_1323_-NONE-_-NONE-",
+   "internal_id": 277633031
+  },
+  {
+   "Award Amount": 3792752.2,
+   "Award ID": "13TECH25C00000021",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "INTERNET DATA COLLECTION",
+   "End Date": "2027-02-02",
+   "Last Modified Date": "2026-07-07 08:15:38",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BTC TECHNOLOGIES LLC",
+   "Start Date": "2025-09-03",
+   "Total Outlays": 1629342.32,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25C00000021_1323_-NONE-_-NONE-",
+   "internal_id": 277718040
+  },
+  {
+   "Award Amount": 3654747.44,
+   "Award ID": "13PDRD25C00000019",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "CONTRACT AWARD FOR 2026 CENSUS TEST - DECENNIAL OPERATIONS SUPPORT CENTER SERVICES.",
+   "End Date": "2026-10-31",
+   "Last Modified Date": "2026-07-21 10:45:34",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "AET FEDERAL INC.",
+   "Start Date": "2025-07-29",
+   "Total Outlays": 2021719.16,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13PDRD25C00000019_1323_-NONE-_-NONE-",
+   "internal_id": 277712935
+  },
+  {
+   "Award Amount": 3543791.19,
+   "Award ID": "1331L526F0237",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CISCO HARDWARE REFRESH",
+   "End Date": "2027-06-30",
+   "Last Modified Date": "2026-07-02 18:40:09",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7B21",
+    "description": "IT AND TELECOM - COMPUTE: MAINFRAME (HARDWARE AND PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "IMPRES TECHNOLOGY SOLUTIONS, INC",
+   "Start Date": "2026-07-02",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0237_1301_1331L525A13OS0016_1301",
+   "internal_id": 359959432
+  },
+  {
+   "Award Amount": 3543209.27,
+   "Award ID": "13ADDC25F00000084",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING CALL ORDER 0010 DECENNIAL INFORMATION TECHNOLOGY DIVISION SECURITY FOR POP: 06/25/2025 - 06/24/2026.",
+   "End Date": "2026-06-24",
+   "Last Modified Date": "2026-08-04 10:20:18",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2025-06-25",
+   "Total Outlays": 3120158.29,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC25F00000084_1323_1333LB22A00000002_1323",
+   "internal_id": 277696183
+  },
+  {
+   "Award Amount": 3462338.88,
+   "Award ID": "1331L525F13230016",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "FIELD MOBILE APPLICATION (FIMA) SUPPORT SERVICES",
+   "End Date": "2029-12-31",
+   "Last Modified Date": "2026-06-17 11:33:08",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "METROIBR JV LLC",
+   "Start Date": "2025-01-01",
+   "Total Outlays": 2599759.48,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L525F13230016_1301_1331L523D13OS0032_1301",
+   "internal_id": 277626532
+  },
+  {
+   "Award Amount": 3410622.89,
+   "Award ID": "1333LB22C00000020",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "CONTRACT AWARD FOR DATA INTEGRITY SUPPORT SERVICES",
+   "End Date": "2028-03-15",
+   "Last Modified Date": "2026-06-03 11:03:24",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DF10",
+    "description": "IT AND TELECOM - IT MANAGEMENT AS A SERVICE"
+   },
+   "Recipient Name": "THE BRITE GROUP, INC",
+   "Start Date": "2022-09-15",
+   "Total Outlays": 2335033.91,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22C00000020_1323_-NONE-_-NONE-",
+   "internal_id": 277632921
+  },
+  {
+   "Award Amount": 3323112.4,
+   "Award ID": "13ADDC26F0004",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "THIS BPA ESTABLISHES A MARKETPLACE FOR THE USCB TO OBTAIN ON-DEMAND ACCESS TO CLOUD NATIVE TECHNOLOGIES AND SERVICES.",
+   "End Date": "2027-05-21",
+   "Last Modified Date": "2026-10-22 05:58:16",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+   "Start Date": "2026-05-22",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0004_1323_1333LB24A00000001_1323",
+   "internal_id": 358615517
+  },
+  {
+   "Award Amount": 3248252.29,
+   "Award ID": "13TECH25F00000116",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING CALL ORDER 0006 APPLICATIONS DEVELOPMENT SERVICES DIVISION ENTERPRISE TESTING SUPPORT SERVICES FOR POP: 08/07/2025 - 08/06/2026.",
+   "End Date": "2026-08-06",
+   "Last Modified Date": "2026-06-23 13:40:50",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2025-08-07",
+   "Total Outlays": 2413460.02,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25F00000116_1323_1333LB22A00000002_1323",
+   "internal_id": 277718063
+  },
+  {
+   "Award Amount": 3222518.68,
+   "Award ID": "13TECH25F00000065",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ON-PREMISE AND CLOUD INFRASTRUCTURE SUPPORT SERVICES CALL ORDER 0002 FOR ENTERPRISE DATA LAKE DATE OF AWARD THROUGH 05/31/2026",
+   "End Date": "2026-05-31",
+   "Last Modified Date": "2026-09-16 06:36:07",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2025-05-30",
+   "Total Outlays": 3222518.68,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25F00000065_1323_1333LB25A00000002_1323",
+   "internal_id": 277718052
+  },
+  {
+   "Award Amount": 3196514.77,
+   "Award ID": "1333LB23C00000024",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "CONTRACT AWARD FOR ACS-DECENNIAL TABULATION SYSTEM SUPPORT",
+   "End Date": "2027-09-20",
+   "Last Modified Date": "2026-08-04 13:44:20",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "OPTIMO INFORMATION TECHNOLOGY LLC",
+   "Start Date": "2023-09-21",
+   "Total Outlays": 1992815.62,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23C00000024_1323_-NONE-_-NONE-",
+   "internal_id": 277633041
+  },
+  {
+   "Award Amount": 3147068.4,
+   "Award ID": "1331L526F0307",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "2030 DECENNIAL CENSUS PORTFOLIO ACQUISITION SUPPORT SERVICES",
+   "End Date": "2027-07-31",
+   "Last Modified Date": "2026-09-21 15:40:36",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R707",
+    "description": "SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT"
+   },
+   "Recipient Name": "GARTNER, INC.",
+   "Start Date": "2026-08-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0307_1301_1331L523A13ES0051_1301",
+   "internal_id": 360958821
+  },
+  {
+   "Award Amount": 3145080.5,
+   "Award ID": "1331L526F0390",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "GIS ESRI SUPPORT",
+   "End Date": "2027-08-31",
+   "Last Modified Date": "2026-09-23 13:46:57",
+   "NAICS": {
+    "code": "511210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "7B22",
+    "description": "IT AND TELECOM - COMPUTE: SERVERS (HARDWARE AND PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE, INC.",
+   "Start Date": "2026-09-01",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0390_1301_1331L524A13ES0037_1301",
+   "internal_id": 361858209
+  },
+  {
+   "Award Amount": 3069457.0,
+   "Award ID": "13TECH25F00000113",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING CALL ORDER 0007 DATA INGEST AND COLLECTION FOR THE ENTERPRISE FOR POP: 08/01/2025 - 07/31/2026.",
+   "End Date": "2026-07-31",
+   "Last Modified Date": "2026-05-19 09:02:45",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2025-08-01",
+   "Total Outlays": 2492259.3,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25F00000113_1323_1333LB22A00000002_1323",
+   "internal_id": 277718062
+  },
+  {
+   "Award Amount": 3035686.49,
+   "Award ID": "1331L521F13230124",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "STAFF SUPPORT",
+   "End Date": "2025-09-06",
+   "Last Modified Date": "2026-09-25 13:43:18",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "TRIDENT TECHNICAL SOLUTIONS, LLC",
+   "Start Date": "2021-04-26",
+   "Total Outlays": 2722030.83,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L521F13230124_1301_1331L520D13ES0002_1301",
+   "internal_id": 277619206
+  },
+  {
+   "Award Amount": 3014239.56,
+   "Award ID": "1333LB22C00000001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "SECURITY SYSTEM REPAIR AND MAINTENANCE CONTRACT.",
+   "End Date": "2027-05-16",
+   "Last Modified Date": "2026-03-19 08:44:09",
+   "NAICS": {
+    "code": "561621",
+    "description": "SECURITY SYSTEMS SERVICES (EXCEPT LOCKSMITHS)"
+   },
+   "PSC": {
+    "code": "Z1JZ",
+    "description": "MAINTENANCE OF MISCELLANEOUS BUILDINGS"
+   },
+   "Recipient Name": "COMMUNICATIONS RESOURCE INC",
+   "Start Date": "2021-11-16",
+   "Total Outlays": 2611901.07,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22C00000001_1323_-NONE-_-NONE-",
+   "internal_id": 277632910
+  },
+  {
+   "Award Amount": 2786095.84,
+   "Award ID": "13ADEP26C0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "ANNUAL INTEGRATED ECONOMIC SURVEY (AIES) AND PRINCIPAL FEDERAL ECONOMIC INDICATOR PROGRAM MODERNIZATION",
+   "End Date": "2026-09-30",
+   "Last Modified Date": "2026-01-02 14:06:31",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DF10",
+    "description": "IT AND TELECOM - IT MANAGEMENT AS A SERVICE"
+   },
+   "Recipient Name": "AGILE ASPECTS LLC",
+   "Start Date": "2026-01-02",
+   "Total Outlays": 1857397.2,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26C0002_1323_-NONE-_-NONE-",
+   "internal_id": 354127785
+  },
+  {
+   "Award Amount": 2574893.7,
+   "Award ID": "13ADEP26C0007",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "THIS ACQUISITION SEEKS TO PROVIDE EXPERT SUPPORT FOR ACTIVITIES INCLUDING PROCESS RE-ENGINEERING, BUSINESS ANALYSIS, DATA INGEST, DATA SCIENCE, ARTIFICIAL INTELLIGENCE (AI) AND LARGE LANGUAGE MODEL (LLM) DEVELOPMENT, MOJO AND DATA INGEST AND COLLECTI",
+   "End Date": "2026-09-30",
+   "Last Modified Date": "2026-01-22 09:54:17",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "WHIRLWIND TECHNOLOGIES LLC",
+   "Start Date": "2026-01-22",
+   "Total Outlays": 1725179.07,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26C0007_1323_-NONE-_-NONE-",
+   "internal_id": 354583456
+  },
+  {
+   "Award Amount": 2524487.0,
+   "Award ID": "1333LB24F00000185",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DIGITAL MEDIA AND MARKETING SUPPORT.",
+   "End Date": "2025-03-05",
+   "Last Modified Date": "2026-01-27 09:51:47",
+   "NAICS": {
+    "code": "541810",
+    "description": "ADVERTISING AGENCIES"
+   },
+   "PSC": {
+    "code": "R699",
+    "description": "SUPPORT- ADMINISTRATIVE: OTHER"
+   },
+   "Recipient Name": "SENSIS INC.",
+   "Start Date": "2024-07-29",
+   "Total Outlays": 1545046.19,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000185_1323_GS07F0615W_4730",
+   "internal_id": 277633248
+  },
+  {
+   "Award Amount": 2463850.0,
+   "Award ID": "13ADFL26F0003",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "FCOTS 0008 INSTRUCTIONAL DESIGN FOR DECENNIAL AUTOMATED TRAINING FOR 2028 END-TO-END TEST 03/09/2026 - 08/18/2026",
+   "End Date": "2026-08-18",
+   "Last Modified Date": "2026-03-06 11:22:33",
+   "NAICS": {
+    "code": "541513",
+    "description": "COMPUTER FACILITIES MANAGEMENT SERVICES"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "I TECH AG LLC",
+   "Start Date": "2026-03-09",
+   "Total Outlays": 651257.61,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADFL26F0003_1323_1333LB23A00000002_1323",
+   "internal_id": 355833088
+  },
+  {
+   "Award Amount": 2439866.0,
+   "Award ID": "1333LB24C00000011",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "DATA ARCHITECTURE SUPPORT SERVICES",
+   "End Date": "2027-07-31",
+   "Last Modified Date": "2026-07-17 11:43:00",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BRITEDGE JV LLC",
+   "Start Date": "2024-08-01",
+   "Total Outlays": 1442226.12,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24C00000011_1323_-NONE-_-NONE-",
+   "internal_id": 277633176
+  },
+  {
+   "Award Amount": 2377621.22,
+   "Award ID": "1333LB24C00000010",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "INTERNET DATE COLLECTION SYSTEM SUPPORT AWARD",
+   "End Date": "2025-09-02",
+   "Last Modified Date": "2026-04-15 15:15:28",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BTC TECHNOLOGIES LLC",
+   "Start Date": "2024-09-03",
+   "Total Outlays": 2377621.22,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24C00000010_1323_-NONE-_-NONE-",
+   "internal_id": 277633175
+  },
+  {
+   "Award Amount": 2371891.39,
+   "Award ID": "13TECH26F0011",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "RED HAT ENTERPRISE SOFTWARE MAINTENANCE RENEWAL DBIT: 125060 & 125472  IT PACT 26-164",
+   "End Date": "2027-02-04",
+   "Last Modified Date": "2026-02-05 15:02:08",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "I3 FEDERAL LLC",
+   "Start Date": "2026-02-05",
+   "Total Outlays": 2371891.39,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0011_1323_NNG15SD31B_8000",
+   "internal_id": 355119138
+  },
+  {
+   "Award Amount": 2273978.76,
+   "Award ID": "1331L525F13230092",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ACQUISITION AND CONTACT CENTER SUPPORT SERVICES",
+   "End Date": "2026-07-31",
+   "Last Modified Date": "2026-09-23 11:39:07",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R408",
+    "description": "SUPPORT- PROFESSIONAL: PROGRAM MANAGEMENT/SUPPORT"
+   },
+   "Recipient Name": "GARTNER, INC.",
+   "Start Date": "2025-08-01",
+   "Total Outlays": 1741863.34,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L525F13230092_1301_1331L523A13ES0051_1301",
+   "internal_id": 277626546
+  },
+  {
+   "Award Amount": 2161348.44,
+   "Award ID": "13PDRD25F00000068",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ON-PREMISE AND CLOUD INFRASTRUCTURE SUPPORT SERVICES CALL ORDER 0003 FOR DATA INGEST AND COLLECTION FOR THE ENTERPRISE(DICE) DATE OF AWARD THROUGH 05/31/2026",
+   "End Date": "2026-05-31",
+   "Last Modified Date": "2026-09-16 06:36:07",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2025-05-30",
+   "Total Outlays": 2161348.44,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13PDRD25F00000068_1323_1333LB25A00000002_1323",
+   "internal_id": 277712947
+  },
+  {
+   "Award Amount": 2098720.62,
+   "Award ID": "1331L526F0109",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "12 MONTH IBM STORAGE/SAN SOFTWARE LICENSE RENEWAL  DBIT #125062 / 125264 IT PACT #26-221",
+   "End Date": "2027-04-30",
+   "Last Modified Date": "2026-04-29 18:05:15",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7B22",
+    "description": "IT AND TELECOM - COMPUTE: SERVERS (HARDWARE AND PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "FCN, INC.",
+   "Start Date": "2026-05-01",
+   "Total Outlays": 2098720.62,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0109_1301_1331L525A13OS0014_1301",
+   "internal_id": 357609828
+  },
+  {
+   "Award Amount": 2082325.49,
+   "Award ID": "13TECH25F00000067",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ON-PREMISE AND CLOUD INFRASTRUCTURE SUPPORT SERVICES CALL ORDER 0005FOR INTEGRATION PLATFORM DEVELOPMENT AND SERVICES (CUMULUS) DATE OF AWARD THROUGH 05/31/2026",
+   "End Date": "2026-05-31",
+   "Last Modified Date": "2026-09-16 06:36:07",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IGNITEACTION LLC",
+   "Start Date": "2025-05-30",
+   "Total Outlays": 2250349.95,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25F00000067_1323_1333LB25A00000002_1323",
+   "internal_id": 277718054
+  },
+  {
+   "Award Amount": 2024827.0,
+   "Award ID": "13TECH26F0009",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "INCORPORATE CHANGES DUE TO REGULATORY CHANGES FROM RECENT EXECUTIVE ORDERS AND THE REVOLUTIONARY FAR OVERHAUL.",
+   "End Date": "2027-05-14",
+   "Last Modified Date": "2026-08-21 08:21:25",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DH01",
+    "description": "IT AND TELECOM - PLATFORM SUPPORT SERVICES: DATABASE, MAINFRAME, MIDDLEWARE (LABOR)"
+   },
+   "Recipient Name": "IMAGINE BELIEVE REALIZE LLC",
+   "Start Date": "2026-05-21",
+   "Total Outlays": 72484.87,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0009_1323_1333LB21A00000002_1323",
+   "internal_id": 358592254
+  },
+  {
+   "Award Amount": 2022786.89,
+   "Award ID": "1333LB19F00000586",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "AWARD OF IT SECURITY&RISK MANAGEMENT FRAMEWORK SUPPORT SERVICES WORK ORDER.",
+   "End Date": "2020-09-23",
+   "Last Modified Date": "2026-09-22 14:24:56",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "DELOITTE CONSULTING LLP",
+   "Start Date": "2019-09-24",
+   "Total Outlays": 2022786.89,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB19F00000586_1323_DOCYA132315BU0023_1323",
+   "internal_id": 277632346
+  },
+  {
+   "Award Amount": 2021873.0,
+   "Award ID": "13ADDC26F0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "FFRDC FRAMES",
+   "End Date": "2026-11-30",
+   "Last Modified Date": "2026-06-09 13:24:12",
+   "NAICS": {
+    "code": "541990",
+    "description": "ALL OTHER PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2025-12-03",
+   "Total Outlays": 768330.35,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0002_1323_1331L523D13OS0003_1301",
+   "internal_id": 353213575
+  },
+  {
+   "Award Amount": 1989260.84,
+   "Award ID": "13ADFL26F0004",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "FIELD CONSULTANT & OPERATIONS TECHNICAL SUPPORT (FCOTS) ORDER 0002 - DECENNIAL AUTOMATED TRAINING FOR 2028 CENSUS TEST",
+   "End Date": "2027-08-17",
+   "Last Modified Date": "2026-09-17 11:51:01",
+   "NAICS": {
+    "code": "541513",
+    "description": "COMPUTER FACILITIES MANAGEMENT SERVICES"
+   },
+   "PSC": {
+    "code": "U008",
+    "description": "EDUCATION/TRAINING- TRAINING/CURRICULUM DEVELOPMENT"
+   },
+   "Recipient Name": "I TECH AG LLC",
+   "Start Date": "2026-08-18",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADFL26F0004_1323_13ADFL26A0001_1323",
+   "internal_id": 361462059
+  },
+  {
+   "Award Amount": 1964300.84,
+   "Award ID": "13TECH26F0053",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING CALL ORDER 0020 PERSON IDENTIFICATION VALIDATION SYSTEM (PVS) MODERNIZATION",
+   "End Date": "2027-08-11",
+   "Last Modified Date": "2026-08-12 07:21:15",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2026-08-12",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0053_1323_1333LB22A00000002_1323",
+   "internal_id": 361285413
+  },
+  {
+   "Award Amount": 1942287.0,
+   "Award ID": "13ADEP26F0013",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ENHANCING PARTICIPATION IN THE ECONOMIC CENSUS AND RELATED SURVEYS",
+   "End Date": "2027-08-12",
+   "Last Modified Date": "2026-08-18 13:03:22",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "J.R. REINGOLD & ASSOCIATES, INC.",
+   "Start Date": "2026-08-18",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0013_1323_1333LB24A00000002_1323",
+   "internal_id": 361462057
+  },
+  {
+   "Award Amount": 1942061.31,
+   "Award ID": "1333LB24F00000226",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ELASTIC STACK SOFTWARE MAINTENANCE SUBSCRIPTION RENEWAL.",
+   "End Date": "2027-08-28",
+   "Last Modified Date": "2026-08-13 05:53:31",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "THUNDERCAT TECHNOLOGY, LLC",
+   "Start Date": "2024-08-29",
+   "Total Outlays": 1275480.96,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000226_1323_NNG15SD26B_8000",
+   "internal_id": 277633264
+  },
+  {
+   "Award Amount": 1867573.62,
+   "Award ID": "13ADFL26F0007",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "NEW BLUECREST INSERTERS ALONG WITH A 12-MONTH ON CALL SERVICE PERIOD. THE INSTALLATION AND TRAINING WILL CONSIST OF: FACTORY TRAINED BLUECREST TECHNICIANS WILL INSTALL AND TEST THE SYSTEMS ONCE DELIVERED TO THE NATIONAL PROCESSING CENTER (NPC). ONCE",
+   "End Date": "2027-07-26",
+   "Last Modified Date": "2026-07-29 13:55:26",
+   "NAICS": {
+    "code": "561499",
+    "description": "ALL OTHER BUSINESS SUPPORT SERVICES"
+   },
+   "PSC": {
+    "code": "7490",
+    "description": "MISCELLANEOUS OFFICE MACHINES"
+   },
+   "Recipient Name": "DMT SOLUTIONS GLOBAL CORPORATION",
+   "Start Date": "2026-07-27",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADFL26F0007_1323_47QSMA21D08P5_4732",
+   "internal_id": 360871984
+  },
+  {
+   "Award Amount": 1833537.0,
+   "Award ID": "13TECH26F0051",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING SUPPORT SERVICES ORDER 0016 ADSD",
+   "End Date": "2027-08-06",
+   "Last Modified Date": "2026-07-31 11:55:51",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2026-08-07",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0051_1323_1333LB22A00000002_1323",
+   "internal_id": 360984130
+  },
+  {
+   "Award Amount": 1787987.83,
+   "Award ID": "1333LB22F00000205",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DAPPS ORACLE PEOPLESOFT SOFTWARE MAINTENANCE.",
+   "End Date": "2027-09-29",
+   "Last Modified Date": "2026-06-17 20:33:12",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "V3GATE, LLC",
+   "Start Date": "2022-09-30",
+   "Total Outlays": 1676174.11,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22F00000205_1323_NNG15SD27B_8000",
+   "internal_id": 277633004
+  },
+  {
+   "Award Amount": 1738637.0,
+   "Award ID": "1331L520F13230143",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Department of Commerce",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ITMS TECHNICAL SUPPORT",
+   "End Date": "2021-06-30",
+   "Last Modified Date": "2026-09-25 11:35:52",
+   "NAICS": {
+    "code": "541618",
+    "description": "OTHER MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "D319",
+    "description": "IT AND TELECOM- ANNUAL SOFTWARE MAINTENANCE SERVICE PLANS"
+   },
+   "Recipient Name": "THE MITRE CORPORATION",
+   "Start Date": "2020-02-28",
+   "Total Outlays": 1725624.72,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L520F13230143_1301_TIRNO99D00005_2050",
+   "internal_id": 362776671
+  },
+  {
+   "Award Amount": 1691308.8,
+   "Award ID": "13ADDC25F00000191",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TASK ORDER FOR DCMD TESTING SERVICES.",
+   "End Date": "2027-04-15",
+   "Last Modified Date": "2026-09-01 10:28:04",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "TRIDENT TECHNICAL SOLUTIONS, LLC",
+   "Start Date": "2025-10-16",
+   "Total Outlays": 706754.6,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC25F00000191_1323_47QTCA22D0048_4732",
+   "internal_id": 277696190
+  },
+  {
+   "Award Amount": 1674000.0,
+   "Award ID": "13TECH26F0052",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING SUPPORT SERVICES ORDER 0017 ENTERPRISE DATA LAKE",
+   "End Date": "2027-08-06",
+   "Last Modified Date": "2026-07-29 13:55:34",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2026-08-07",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0052_1323_1333LB22A00000002_1323",
+   "internal_id": 360927826
+  },
+  {
+   "Award Amount": 1645145.14,
+   "Award ID": "13TECH26F0055",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "QUANTUM DX HARDWARE AND SUPPORT  DBIT: 128113 IT PACT 26-466",
+   "End Date": "2027-08-09",
+   "Last Modified Date": "2026-08-10 10:27:09",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7C20",
+    "description": "IT AND TELECOM - DATA CENTER PRODUCTS (HARDWARE AND PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "ALLIANCE TECHNOLOGY GROUP, LLC",
+   "Start Date": "2026-08-10",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0055_1323_NNG15SD62B_8000",
+   "internal_id": 361226989
+  },
+  {
+   "Award Amount": 1630060.24,
+   "Award ID": "1331L526F0083",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "DELL MICROSOFT SERVICES",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-08-12 13:25:46",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "DELL FEDERAL SYSTEMS L.P",
+   "Start Date": "2026-05-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0083_1301_1331L524A13ES0005_1301",
+   "internal_id": 356942326
+  },
+  {
+   "Award Amount": 1612894.04,
+   "Award ID": "1331L520F13230367",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "STAFF SUPPORT SERVICES",
+   "End Date": "2026-08-09",
+   "Last Modified Date": "2026-09-25 11:37:33",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "TRIDENT TECHNICAL SOLUTIONS, LLC",
+   "Start Date": "2020-07-20",
+   "Total Outlays": 1449289.75,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L520F13230367_1301_1331L520D13ES0002_1301",
+   "internal_id": 277617525
+  },
+  {
+   "Award Amount": 1599486.01,
+   "Award ID": "13ADRM25F00000119",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "CENTER FOR ECONOMIC STUDIES AWARD.",
+   "End Date": "2029-02-17",
+   "Last Modified Date": "2026-08-26 12:24:56",
+   "NAICS": {
+    "code": "512110",
+    "description": "MOTION PICTURE AND VIDEO PRODUCTION"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BLN LLC",
+   "Start Date": "2025-08-18",
+   "Total Outlays": 472079.69,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADRM25F00000119_1323_47QRAA20D0071_4732",
+   "internal_id": 277696243
+  },
+  {
+   "Award Amount": 1591235.52,
+   "Award ID": "13ADDC25C00000025",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "WEB DEVELOPMENT AND SECTION 508 SUPPORT",
+   "End Date": "2026-09-15",
+   "Last Modified Date": "2026-03-05 08:40:32",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "G2IT, LLC",
+   "Start Date": "2025-09-12",
+   "Total Outlays": 565660.09,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC25C00000025_1323_-NONE-_-NONE-",
+   "internal_id": 277696177
+  },
+  {
+   "Award Amount": 1589528.72,
+   "Award ID": "1331L525F13230163",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ADOBE LICENSES",
+   "End Date": "2027-06-29",
+   "Last Modified Date": "2026-05-28 16:15:13",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "EMERGENT, LLC",
+   "Start Date": "2025-09-30",
+   "Total Outlays": 502604.72,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L525F13230163_1301_1331L521A13ES0041_1301",
+   "internal_id": 277626560
+  },
+  {
+   "Award Amount": 1569356.84,
+   "Award ID": "1331L524F13230227",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DITD SHAREPOINT SUPPORT",
+   "End Date": "2026-08-29",
+   "Last Modified Date": "2026-09-17 15:11:21",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "ENTERPRISE SOLUTIONS & MANAGEMENT CORPORATION",
+   "Start Date": "2024-08-30",
+   "Total Outlays": 1436364.54,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L524F13230227_1301_1331L523D13OS0029_1301",
+   "internal_id": 277625089
+  },
+  {
+   "Award Amount": 1517799.47,
+   "Award ID": "1333LB24F00000211",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "BPA CALL 0004~ DAS AWS",
+   "End Date": "2026-07-24",
+   "Last Modified Date": "2026-07-24 10:00:57",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+   "Start Date": "2024-08-22",
+   "Total Outlays": 1517799.47,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000211_1323_1333LB24A00000001_1323",
+   "internal_id": 277633256
+  },
+  {
+   "Award Amount": 1500000.0,
+   "Award ID": "13TECH26F0032",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING SUPPORT SERVICES CALL ORDER 0018 DECENNIAL SYSTEMS DEVSECOPS ENGINEERING",
+   "End Date": "2027-06-28",
+   "Last Modified Date": "2026-06-26 11:49:13",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2026-06-29",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0032_1323_1333LB22A00000002_1323",
+   "internal_id": 359728541
+  },
+  {
+   "Award Amount": 1493918.9,
+   "Award ID": "13ADDC25F00000106",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "GITLAB ULTIMATE SOFTWARE: BASE PERIOD 07/26/2025 - 07/25/2026",
+   "End Date": "2027-07-25",
+   "Last Modified Date": "2026-06-10 08:43:11",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "THUNDERCAT TECHNOLOGY, LLC",
+   "Start Date": "2025-07-26",
+   "Total Outlays": 1463498.59,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC25F00000106_1323_NNG15SD26B_8000",
+   "internal_id": 277696186
+  },
+  {
+   "Award Amount": 1486573.52,
+   "Award ID": "1333LB24F00000037",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CO 004 FOR FIELD CONSULTANT AND OPERATIONS TECHNICAL SUPPORT (FCOTS) INFRASTRUCTURE PLANNING, TECHNICAL WRITING, & BUSINESS PROCESS SUPPORT",
+   "End Date": "2026-10-03",
+   "Last Modified Date": "2026-09-17 11:51:56",
+   "NAICS": {
+    "code": "541513",
+    "description": "COMPUTER FACILITIES MANAGEMENT SERVICES"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "I TECH AG LLC",
+   "Start Date": "2024-02-16",
+   "Total Outlays": 1209534.89,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000037_1323_1333LB23A00000002_1323",
+   "internal_id": 277633200
+  },
+  {
+   "Award Amount": 1413315.0,
+   "Award ID": "13ADEP26C0006",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "THIS PROJECT AIMS TO ADDRESS REDUNDANCIES, INCONSISTENCIES, AND INEFFICIENCIES IN METHODOLOGIES, BUSINESS PRACTICES, AND TECHNOLOGY USAGE WITHIN THE ECONOMIC DIRECTORATE'S PROGRAMS.  DATA INNOVATION THROUGH CUTTING EDGE STATISTICAL METHODS, SO",
+   "End Date": "2026-09-30",
+   "Last Modified Date": "2026-01-23 08:13:30",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DF01",
+    "description": "IT AND TELECOM - IT MANAGEMENT SUPPORT SERVICES (LABOR)"
+   },
+   "Recipient Name": "BRITEDGE JV LLC",
+   "Start Date": "2026-01-22",
+   "Total Outlays": 900399.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26C0006_1323_-NONE-_-NONE-",
+   "internal_id": 354620794
+  },
+  {
+   "Award Amount": 1384592.39,
+   "Award ID": "13PDRD26F0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SOFTWARE EVALUATION AND ESTIMATION OF  RESOURCES (SEER) COST ESTIMATION AND  KNOWLEDGE-SHARING SERVICES",
+   "End Date": "2031-06-19",
+   "Last Modified Date": "2026-06-17 10:25:23",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DF10",
+    "description": "IT AND TELECOM - IT MANAGEMENT AS A SERVICE"
+   },
+   "Recipient Name": "WESTERN DOOR FEDERAL, LLC",
+   "Start Date": "2026-06-20",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13PDRD26F0002_1323_47QTCA25D009L_4732",
+   "internal_id": 359223142
+  },
+  {
+   "Award Amount": 1282435.0,
+   "Award ID": "13TECH26F0049",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING CALL ORDER 0015 DICE",
+   "End Date": "2027-07-31",
+   "Last Modified Date": "2026-07-23 11:19:43",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2026-08-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0049_1323_1333LB22A00000002_1323",
+   "internal_id": 361643950
+  },
+  {
+   "Award Amount": 1254431.5,
+   "Award ID": "13ADRM26F0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "GUROBI SOFTWARE LICENSE",
+   "End Date": "2026-11-25",
+   "Last Modified Date": "2025-11-26 12:57:09",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "ACCESSAGILITY LLC",
+   "Start Date": "2025-11-26",
+   "Total Outlays": 1254431.5,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADRM26F0001_1323_NNG15SC23B_8000",
+   "internal_id": 352994818
+  },
+  {
+   "Award Amount": 1215913.66,
+   "Award ID": "13TECH25F00000041",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CALL ORDER 0010 FOR BPA 1333LB21A00000002",
+   "End Date": "2026-06-10",
+   "Last Modified Date": "2026-08-21 08:21:25",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IMAGINE BELIEVE REALIZE LLC",
+   "Start Date": "2025-02-11",
+   "Total Outlays": 1171487.74,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH25F00000041_1323_1333LB21A00000002_1323",
+   "internal_id": 277718048
+  },
+  {
+   "Award Amount": 1160551.26,
+   "Award ID": "1333LB23F00000168",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "JAGUAR MAINTENANCE FOR ACQUISCONNECT FRAMEWORK",
+   "End Date": "2028-07-31",
+   "Last Modified Date": "2026-06-09 12:54:10",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "HARMONIA HOLDINGS GROUP, LLC",
+   "Start Date": "2023-08-01",
+   "Total Outlays": 697304.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23F00000168_1323_GS35F0607W_4730",
+   "internal_id": 277633112
+  },
+  {
+   "Award Amount": 1141213.97,
+   "Award ID": "13PDRD25F00000034",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "2030 MULTILINGUAL LANGUAGE RESEARCH SERVICES",
+   "End Date": "2030-08-12",
+   "Last Modified Date": "2026-02-13 09:44:52",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R608",
+    "description": "SUPPORT- ADMINISTRATIVE: TRANSLATION AND INTERPRETING"
+   },
+   "Recipient Name": "RESEARCH TRIANGLE INSTITUTE",
+   "Start Date": "2025-02-13",
+   "Total Outlays": 281631.13,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13PDRD25F00000034_1323_GS00F354CA_4732",
+   "internal_id": 277712941
+  },
+  {
+   "Award Amount": 1070882.4,
+   "Award ID": "1333LB24F00000091",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "FCOTS CO0005",
+   "End Date": "2026-11-04",
+   "Last Modified Date": "2026-06-02 14:31:25",
+   "NAICS": {
+    "code": "541513",
+    "description": "COMPUTER FACILITIES MANAGEMENT SERVICES"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "I TECH AG LLC",
+   "Start Date": "2024-05-01",
+   "Total Outlays": 885822.93,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000091_1323_1333LB23A00000002_1323",
+   "internal_id": 277633219
+  },
+  {
+   "Award Amount": 1037302.92,
+   "Award ID": "1333LB21F00000111",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TASK ORDER 001 FOR NAS CNSTAT",
+   "End Date": "2026-06-22",
+   "Last Modified Date": "2026-09-23 09:43:08",
+   "NAICS": {
+    "code": "541690",
+    "description": "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "NATIONAL ACADEMY OF SCIENCES",
+   "Start Date": "2021-04-20",
+   "Total Outlays": 1037302.92,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB21F00000111_1323_1333LB21D00000003_1323",
+   "internal_id": 277632795
+  },
+  {
+   "Award Amount": 1024797.5,
+   "Award ID": "13ADDP26F0003",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "CURRENT POPULATION SURVEY (CPS) 2026 FIELD TEST - TO5",
+   "End Date": "2027-08-31",
+   "Last Modified Date": "2026-06-02 10:32:03",
+   "NAICS": {
+    "code": "541611",
+    "description": "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "ATTADALE PARTNERS, LLC",
+   "Start Date": "2026-06-02",
+   "Total Outlays": 1010500.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDP26F0003_1323_1333LB24D00000003_1323",
+   "internal_id": 358926230
+  },
+  {
+   "Award Amount": 1009201.0,
+   "Award ID": "13ADEP25C00000024",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "QUESTIONNAIRE DESIGN & METADATA (QDM) ENHANCEMENTS AND MAINTENANCE SERVICES (QEMS) SOFTWARE PLATFORM, MAINTENANCE, AND TECHNICAL SERVICES",
+   "End Date": "2027-03-15",
+   "Last Modified Date": "2026-03-13 14:42:49",
+   "NAICS": {
+    "code": "513210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "AMGRAF, INCORPORATED",
+   "Start Date": "2025-09-16",
+   "Total Outlays": 1343514.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP25C00000024_1323_-NONE-_-NONE-",
+   "internal_id": 277696196
+  },
+  {
+   "Award Amount": 996384.0,
+   "Award ID": "1331L526F0364",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "2026 DITD SHAREPOINT SUPPORT",
+   "End Date": "2027-08-29",
+   "Last Modified Date": "2026-08-21 14:04:16",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "PROGOV PARTNERS LLC",
+   "Start Date": "2026-08-30",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0364_1301_1331L523D13OS0034_1301",
+   "internal_id": 361669638
+  },
+  {
+   "Award Amount": 956235.49,
+   "Award ID": "13ADDC25F00000087",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ETESTING CALL ORDER 0009 DECENNIAL SYSTEMS ENGINEERING INITIATIVES FOR POP: 06/26/2025 - 06/25/2026.",
+   "End Date": "2026-06-25",
+   "Last Modified Date": "2026-08-06 12:36:53",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "VIDOORI, INC.",
+   "Start Date": "2025-06-26",
+   "Total Outlays": 1044498.52,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC25F00000087_1323_1333LB22A00000002_1323",
+   "internal_id": 277696184
+  },
+  {
+   "Award Amount": 925790.23,
+   "Award ID": "1331L526F0185",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "DBIT 117315 - THE CENSUS BUREAU CURRENTLY USES GOVDELIVERY COMMUNICATIONS CLOUD, AND ADVANCED PACKAGE TO SEND OUT MILLIONS OF MESSAGES PER YEAR TO SUBSCRIBERS, MEDIA, PARTNERS, AND STAKEHOLDERS. GOVDELIVERY WAS SUCCESSFULLY USED DURING THE 2020 CENSU",
+   "End Date": "2027-06-08",
+   "Last Modified Date": "2026-06-08 18:13:17",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7G21",
+    "description": "IT AND TELECOM - NETWORK: DIGITAL NETWORK PRODUCTS (HARDWARE AND PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "BLUE TECH INC.",
+   "Start Date": "2026-06-09",
+   "Total Outlays": 925790.23,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0185_1301_1331L523A13OS0060_1301",
+   "internal_id": 359070054
+  },
+  {
+   "Award Amount": 884351.0,
+   "Award ID": "1331L526F0207",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CISCO SECURITY ELA FOR NETWORK SECURITY HARDWARE APPLIANCES.  DBIT: 127793 125119",
+   "End Date": "2027-07-24",
+   "Last Modified Date": "2026-07-16 08:43:05",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "FCN, INC.",
+   "Start Date": "2026-07-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0207_1301_1331L525A13OS0014_1301",
+   "internal_id": 359424703
+  },
+  {
+   "Award Amount": 851015.76,
+   "Award ID": "13ADEP26F0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "THE PURPOSE OF THIS PROCUREMENT IS TO RENEW EXISTING CPLEX MAINTENANCE SUPPORT FOR ONE (1) YEAR.  THE ECONOMIC APPLICATIONS DIVISION (EAD) USES THE CPLEX SOFTWARE FOR DISCLOSURE AVOIDANCE ON DATA RESULTING FROM THE ECONOMIC CENSUS AND OTHER SURVEYS.",
+   "End Date": "2026-12-31",
+   "Last Modified Date": "2025-12-29 09:05:30",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DF10",
+    "description": "IT AND TELECOM - IT MANAGEMENT AS A SERVICE"
+   },
+   "Recipient Name": "GOVSMART, INC.",
+   "Start Date": "2026-01-01",
+   "Total Outlays": 851015.76,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0001_1323_NNG15SD11B_8000",
+   "internal_id": 353958652
+  },
+  {
+   "Award Amount": 823664.89,
+   "Award ID": "1333LB23C00000011",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "GOOGLE ANALYTICS TOOL/LICENSE FOR CNMP.",
+   "End Date": "2028-05-31",
+   "Last Modified Date": "2026-06-04 09:57:28",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "BLN LLC",
+   "Start Date": "2023-06-01",
+   "Total Outlays": 823664.89,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23C00000011_1323_-NONE-_-NONE-",
+   "internal_id": 277633032
+  },
+  {
+   "Award Amount": 796000.0,
+   "Award ID": "13ADDC26C0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "ACQUISITION OF VOTER REGISTRATION DATA.",
+   "End Date": "2027-08-31",
+   "Last Modified Date": "2026-08-10 15:33:14",
+   "NAICS": {
+    "code": "518210",
+    "description": "COMPUTING INFRASTRUCTURE PROVIDERS, DATA PROCESSING, WEB HOSTING, AND RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BRIDGETREE, LLC",
+   "Start Date": "2026-09-01",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26C0002_1323_-NONE-_-NONE-",
+   "internal_id": 361226987
+  },
+  {
+   "Award Amount": 775884.77,
+   "Award ID": "1333LB21F00000299",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ORACLE PRIMAVERA P6 ENTERPRISE, BUSINESS INTELLIGENCE, WEBLOGIC, AND SOA SUITE SOFTWARE MAINTENANCE AND SUPPORT SERVICES",
+   "End Date": "2027-09-29",
+   "Last Modified Date": "2026-08-31 14:32:59",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "DYNAMIC SYSTEMS INC",
+   "Start Date": "2021-09-23",
+   "Total Outlays": 493478.94,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB21F00000299_1323_NNG15SC69B_8000",
+   "internal_id": 277632861
+  },
+  {
+   "Award Amount": 699186.0,
+   "Award ID": "13TECH26F0024",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CALL ORDER 12 EDATABASE",
+   "End Date": "2027-06-10",
+   "Last Modified Date": "2026-08-21 08:21:25",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "DH01",
+    "description": "IT AND TELECOM - PLATFORM SUPPORT SERVICES: DATABASE, MAINFRAME, MIDDLEWARE (LABOR)"
+   },
+   "Recipient Name": "IMAGINE BELIEVE REALIZE LLC",
+   "Start Date": "2026-06-11",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0024_1323_1333LB21A00000002_1323",
+   "internal_id": 358869190
+  },
+  {
+   "Award Amount": 694573.0,
+   "Award ID": "13ADDC26C0003",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "ACQUISITION OF PERSONAL CONTACT INFORMATION (DATA).",
+   "End Date": "2027-08-31",
+   "Last Modified Date": "2026-08-25 11:58:49",
+   "NAICS": {
+    "code": "518210",
+    "description": "COMPUTING INFRASTRUCTURE PROVIDERS, DATA PROCESSING, WEB HOSTING, AND RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "INNOVATIVE MANAGEMENT CONSULTING, LLC",
+   "Start Date": "2026-09-01",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26C0003_1323_-NONE-_-NONE-",
+   "internal_id": 361770347
+  },
+  {
+   "Award Amount": 604711.52,
+   "Award ID": "1331L526F0163",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "MICROSOFT ANNUAL RENEWAL FOR CENSUS HQ QEDS - IT PACT 26-396",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-09-23 13:21:34",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "DELL FEDERAL SYSTEMS L.P",
+   "Start Date": "2026-06-01",
+   "Total Outlays": 604711.52,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0163_1301_1331L524A13ES0005_1301",
+   "internal_id": 358834699
+  },
+  {
+   "Award Amount": 579242.18,
+   "Award ID": "1333LB19F00000609",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "AWARD OF RECORDS MANAGEMENT SYSTEM - HHSN316201200115W/1333LB19F00000609",
+   "End Date": "2026-03-23",
+   "Last Modified Date": "2026-09-23 15:04:59",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "AMAR HEALTH IT, LLC",
+   "Start Date": "2019-09-25",
+   "Total Outlays": 567180.01,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB19F00000609_1323_HHSN316201200115W_7529",
+   "internal_id": 277632355
+  },
+  {
+   "Award Amount": 516067.99,
+   "Award ID": "1331L525F13230140",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ADOBE LICENSES RENEWAL",
+   "End Date": "2028-08-31",
+   "Last Modified Date": "2026-08-26 15:10:55",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "EMERGENT, LLC",
+   "Start Date": "2025-09-01",
+   "Total Outlays": 247506.28,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L525F13230140_1301_1331L521A13ES0041_1301",
+   "internal_id": 361794549
+  },
+  {
+   "Award Amount": 509566.8,
+   "Award ID": "13ADFL26F0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "1333LB23A00000002/13ADFL26F0002 CO0007 FIELD CONSULTANT AND OPERATIONS TECHNICAL SUPPORT (FCOTS) FIELD INFRASTRUCTURE BRANCH (FIB) ARCHITECTURAL DESIGN SUPPORT FOR POP: FEBRUARY 26, 2026 - FEBRUARY 25, 2027.",
+   "End Date": "2027-03-01",
+   "Last Modified Date": "2026-06-03 13:33:21",
+   "NAICS": {
+    "code": "541513",
+    "description": "COMPUTER FACILITIES MANAGEMENT SERVICES"
+   },
+   "PSC": {
+    "code": "R431",
+    "description": "SUPPORT- PROFESSIONAL: HUMAN RESOURCES"
+   },
+   "Recipient Name": "I TECH AG LLC",
+   "Start Date": "2026-03-02",
+   "Total Outlays": 159855.6,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADFL26F0002_1323_1333LB23A00000002_1323",
+   "internal_id": 355713897
+  },
+  {
+   "Award Amount": 492623.87,
+   "Award ID": "1333LC20P00000149",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "EVERGREEN PROMOTIONAL ITEMS HQ",
+   "End Date": "2025-08-16",
+   "Last Modified Date": "2026-09-23 08:17:09",
+   "NAICS": {
+    "code": "453210",
+    "description": "OFFICE SUPPLIES AND STATIONERY STORES"
+   },
+   "PSC": {
+    "code": "7510",
+    "description": "OFFICE SUPPLIES"
+   },
+   "Recipient Name": "INDUSTRIES FOR THE BLIND AND VISUALLY IMPAIRED, INC.",
+   "Start Date": "2020-08-11",
+   "Total Outlays": 492623.87,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LC20P00000149_1323_-NONE-_-NONE-",
+   "internal_id": 277633830
+  },
+  {
+   "Award Amount": 465000.0,
+   "Award ID": "13ADRM26C0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "ACQUISITION OF COMMERCIAL HOUSING DATA.",
+   "End Date": "2027-07-30",
+   "Last Modified Date": "2026-07-31 10:54:39",
+   "NAICS": {
+    "code": "518210",
+    "description": "COMPUTING INFRASTRUCTURE PROVIDERS, DATA PROCESSING, WEB HOSTING, AND RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "ICE DATA SERVICES, INC.",
+   "Start Date": "2026-07-31",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADRM26C0001_1323_-NONE-_-NONE-",
+   "internal_id": 360984127
+  },
+  {
+   "Award Amount": 464000.0,
+   "Award ID": "13TECH26F0047",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ENTERPRISE SERVICES - SERVER HARDWARE MAINTENANCE RENEWAL FOR CISCO HARDWARE. IT PACT 26-224 DBIT 125054 / 125263",
+   "End Date": "2027-06-10",
+   "Last Modified Date": "2026-07-24 10:26:53",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "IMPRES TECHNOLOGY SOLUTIONS, INC",
+   "Start Date": "2026-07-21",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0047_1323_NNG15SC86B_8000",
+   "internal_id": 360652664
+  },
+  {
+   "Award Amount": 442900.0,
+   "Award ID": "13ADEP26C0003",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "PLACES AND SPEND COMMERCIAL DATA.",
+   "End Date": "2026-12-31",
+   "Last Modified Date": "2026-01-02 15:44:14",
+   "NAICS": {
+    "code": "513210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "B529",
+    "description": "SPECIAL STUDIES/ANALYSIS- SCIENTIFIC DATA"
+   },
+   "Recipient Name": "SAFEGRAPH LLC",
+   "Start Date": "2026-01-02",
+   "Total Outlays": 221449.98,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26C0003_1323_-NONE-_-NONE-",
+   "internal_id": 354127786
+  },
+  {
+   "Award Amount": 435790.46,
+   "Award ID": "1333LB24F00000051",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "GOOGLE CLOUD PLATFORM CALL ORDER 0002",
+   "End Date": "2026-08-07",
+   "Last Modified Date": "2026-08-03 16:27:14",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+   "Start Date": "2024-03-15",
+   "Total Outlays": 436748.13,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000051_1323_1333LB24A00000001_1323",
+   "internal_id": 277633206
+  },
+  {
+   "Award Amount": 408087.4,
+   "Award ID": "1331L526F0067",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "IBM -NETS SSI",
+   "End Date": "2027-03-31",
+   "Last Modified Date": "2026-03-31 09:19:55",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "GOVERNMENT ACQUISITIONS LLC",
+   "Start Date": "2026-03-31",
+   "Total Outlays": 408087.4,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0067_1301_1331L525A13OS0015_1301",
+   "internal_id": 356734630
+  },
+  {
+   "Award Amount": 397077.68,
+   "Award ID": "1333LB22C00000022",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "UNEMPLOYMENT COMPENSATION SERVICES FOR DECENNIAL EMPLOYEES",
+   "End Date": "2027-09-25",
+   "Last Modified Date": "2026-09-10 16:04:18",
+   "NAICS": {
+    "code": "541612",
+    "description": "HUMAN RESOURCES CONSULTING SERVICES (2007), HUMAN RESOURCES AND EXECUTIVE SEARCH CONSULTING SERVICES (2002)"
+   },
+   "PSC": {
+    "code": "G099",
+    "description": "SOCIAL- OTHER"
+   },
+   "Recipient Name": "EQUIFAX WORKFORCE SOLUTIONS LLC",
+   "Start Date": "2022-09-26",
+   "Total Outlays": 40472.81,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB22C00000022_1323_-NONE-_-NONE-",
+   "internal_id": 277632923
+  },
+  {
+   "Award Amount": 394338.0,
+   "Award ID": "13TECH26F0040",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "JIRA ENTERPRISE (CORE) SOFTWARE LICENSE RENEWAL",
+   "End Date": "2027-09-23",
+   "Last Modified Date": "2026-07-01 13:51:05",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "DH TECHNOLOGIES, INC.",
+   "Start Date": "2026-09-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0040_1323_NNG15SC70B_8000",
+   "internal_id": 359935134
+  },
+  {
+   "Award Amount": 378632.86,
+   "Award ID": "13ADEP26F0010",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "NETIQ SOFTWARE RENEWAL",
+   "End Date": "2027-09-25",
+   "Last Modified Date": "2026-07-30 13:39:53",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "GOVSMART, INC.",
+   "Start Date": "2026-09-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0010_1323_NNG15SD11B_8000",
+   "internal_id": 360958855
+  },
+  {
+   "Award Amount": 369522.96,
+   "Award ID": "1331L523F13230136",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "ADOBE",
+   "End Date": "2027-08-29",
+   "Last Modified Date": "2026-08-27 16:37:00",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "EMERGENT, LLC",
+   "Start Date": "2023-08-30",
+   "Total Outlays": 367592.72,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L523F13230136_1301_1331L521A13ES0041_1301",
+   "internal_id": 361794534
+  },
+  {
+   "Award Amount": 360000.0,
+   "Award ID": "13PDRD25C00000017",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "BUILDING AND PARCEL DATA",
+   "End Date": "2028-06-11",
+   "Last Modified Date": "2026-06-10 14:09:17",
+   "NAICS": {
+    "code": "519290",
+    "description": "WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES"
+   },
+   "PSC": {
+    "code": "AJ12",
+    "description": "GENERAL SCIENCE AND TECHNOLOGY R&D SERVICES; GENERAL SCIENCE AND TECHNOLOGY; APPLIED RESEARCH"
+   },
+   "Recipient Name": "LOVELAND TECHNOLOGIES LLC",
+   "Start Date": "2025-06-12",
+   "Total Outlays": 360000.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13PDRD25C00000017_1323_-NONE-_-NONE-",
+   "internal_id": 277712934
+  },
+  {
+   "Award Amount": 335688.97,
+   "Award ID": "13TECH26F0014",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SOLARWINDS SUBSCRIPTION SERVICES AND SUPPORT FOR THE CENSUS EMS FOR POP: FEBRUARY 27, 2026 - FEBRUARY 26, 2027.",
+   "End Date": "2027-02-26",
+   "Last Modified Date": "2026-02-26 09:04:37",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BLUE TECH INC.",
+   "Start Date": "2026-02-27",
+   "Total Outlays": 335688.97,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0014_1323_NNG15SD00B_8000",
+   "internal_id": 355658911
+  },
+  {
+   "Award Amount": 320000.0,
+   "Award ID": "1333LB23F00000183",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SOFTWARE MAINTENANCE AND SUPPORT RENEWAL FOR SMART ERP",
+   "End Date": "2027-08-31",
+   "Last Modified Date": "2026-08-20 18:59:18",
+   "NAICS": {
+    "code": "541513",
+    "description": "COMPUTER FACILITIES MANAGEMENT SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "THIRD MILLENNIUM BUSINESS SYSTEMS, INC.",
+   "Start Date": "2023-09-01",
+   "Total Outlays": 320000.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23F00000183_1323_GS35F0015V_4730",
+   "internal_id": 277633118
+  },
+  {
+   "Award Amount": 301798.1,
+   "Award ID": "1331L520F13230087",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Department of Commerce",
+   "Contract Award Type": "BPA CALL",
+   "Description": "F5 BIG IQ APPLICATIONS IN SUPPORT OF THE DECENNIAL OPERATIONS FOR A PERIOD OF 6 MONTHS",
+   "End Date": "2021-01-31",
+   "Last Modified Date": "2026-09-25 12:11:45",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "D318",
+    "description": "IT AND TELECOM- INTEGRATED HARDWARE/SOFTWARE/SERVICES SOLUTIONS, PREDOMINANTLY SERVICES"
+   },
+   "Recipient Name": "RED RIVER TECHNOLOGY LLC",
+   "Start Date": "2020-02-04",
+   "Total Outlays": 286544.24,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L520F13230087_1301_1331L519A13ES0042_1301",
+   "internal_id": 362776670
+  },
+  {
+   "Award Amount": 268473.44,
+   "Award ID": "13TECH26F0044",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "JIRA CORE JIRA SERVICE MANAGER.",
+   "End Date": "2027-08-11",
+   "Last Modified Date": "2026-07-15 15:53:14",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BAHFED CORP",
+   "Start Date": "2026-08-12",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0044_1323_NNG15SD09B_8000",
+   "internal_id": 360247775
+  },
+  {
+   "Award Amount": 267500.0,
+   "Award ID": "13TECH26F0026",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "HOOTSUITE SOFTWARE LICENSE   IT PACT 26-374 DBIT: N/A",
+   "End Date": "2027-07-29",
+   "Last Modified Date": "2026-06-09 08:00:57",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "FCN, INC.",
+   "Start Date": "2026-07-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0026_1323_NNG15SC71B_8000",
+   "internal_id": 359095341
+  },
+  {
+   "Award Amount": 255003.11,
+   "Award ID": "13ADDC26P0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "REDWOOD RUNMYJOBS SOFTWARE AND MAINTENANCE SUBSCRIPTION RENEWAL BASE: DATE OF AWARD - MARCH 31, 2027 OP1: APRIL 01, 2027 - MARCH 31, 2028 OP2: APRIL 01, 2028 - MARCH 31, 2029",
+   "End Date": "2027-03-31",
+   "Last Modified Date": "2026-09-17 08:08:51",
+   "NAICS": {
+    "code": "513210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "REDWOOD SOFTWARE INTERNATIONAL INC",
+   "Start Date": "2026-08-26",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26P0002_1323_-NONE-_-NONE-",
+   "internal_id": 361858249
+  },
+  {
+   "Award Amount": 226829.03,
+   "Award ID": "13TECH26F0043",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "12-MONTHS DELIVERY TASK ORDER FOR SWAGGER HUB250 DESIGNER SOFTWARE LICENSES RENEWAL",
+   "End Date": "2027-09-07",
+   "Last Modified Date": "2026-07-10 15:44:18",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ENTERPRISE TECHNOLOGY SOLUTIONS, INC.",
+   "Start Date": "2026-09-08",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0043_1323_NNG15SD76B_8000",
+   "internal_id": 360162711
+  },
+  {
+   "Award Amount": 218198.01,
+   "Award ID": "13ADDC26F0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "THIS BPA ESTABLISHES A MARKETPLACE FOR THE USCB TO OBTAIN ON-DEMAND ACCESS TO CLOUD NATIVE TECHNOLOGIES AND SERVICES.",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-06-05 09:18:18",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "FOUR POINTS TECHNOLOGY, L.L.C.",
+   "Start Date": "2026-06-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0001_1323_1333LB24A00000001_1323",
+   "internal_id": 358592252
+  },
+  {
+   "Award Amount": 209925.16,
+   "Award ID": "1333LB21F00000302",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "CALL ORDER 1333LB21F00000302 (FORMERLY CO-0001) TOOLS CENTER OF EXCELLENCE",
+   "End Date": "2026-10-30",
+   "Last Modified Date": "2026-09-16 11:41:46",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "CATHEXIS, LLC",
+   "Start Date": "2021-09-23",
+   "Total Outlays": 198876.44,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB21F00000302_1323_1333LB21A00000005_1323",
+   "internal_id": 277632863
+  },
+  {
+   "Award Amount": 205499.71,
+   "Award ID": "13TECH26F0035",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "TIBCO MANAGED FILE TRANSFER SUBSCRIPTION  IT PACT 26-417 DBIT: 125889",
+   "End Date": "2027-06-30",
+   "Last Modified Date": "2026-06-23 13:37:01",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "ACCESSAGILITY LLC",
+   "Start Date": "2026-07-01",
+   "Total Outlays": 205499.71,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0035_1323_NNG15SC23B_8000",
+   "internal_id": 359651497
+  },
+  {
+   "Award Amount": 201772.0,
+   "Award ID": "13TECH26F0062",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "QMETRY TEST MANAGEMENT (QTM) SOFTWARE LICENSES. THE QMETRY SOFTWARE IS A TEST MANAGEMENT TOOL THAT ENABLES USERS TO INCREASE EFFICIENCY IN FACILITATING TEST CASE CREATION, EXECUTION, REPORTING, AND THE OVERALL MANAGEMENT OF THE TESTING PROCESS.   IT",
+   "End Date": "2027-09-22",
+   "Last Modified Date": "2026-08-17 13:32:06",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "BAHFED CORP",
+   "Start Date": "2026-09-23",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0062_1323_NNG15SD09B_8000",
+   "internal_id": 361439895
+  },
+  {
+   "Award Amount": 178307.84,
+   "Award ID": "13TECH26F0027",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "ORACLE WEBLOGIC LICENSES F",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-09-18 13:14:36",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "DYNAMIC SYSTEMS INC",
+   "Start Date": "2026-09-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0027_1323_NNG15SC69B_8000",
+   "internal_id": 359121196
+  },
+  {
+   "Award Amount": 162728.0,
+   "Award ID": "13ADFL26F0010",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "BPA CALL",
+   "Description": "FIELD CONSULTANT & OPERATIONS TECHNICAL SUPPORT (FCOTS) ACS TECHNICAL WRITER AND TRAINING SERVICES",
+   "End Date": "2027-01-31",
+   "Last Modified Date": "2026-09-17 11:50:07",
+   "NAICS": {
+    "code": "541513",
+    "description": "COMPUTER FACILITIES MANAGEMENT SERVICES"
+   },
+   "PSC": {
+    "code": "U008",
+    "description": "EDUCATION/TRAINING- TRAINING/CURRICULUM DEVELOPMENT"
+   },
+   "Recipient Name": "I TECH AG LLC",
+   "Start Date": "2026-08-27",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADFL26F0010_1323_13ADFL26A0001_1323",
+   "internal_id": 361825576
+  },
+  {
+   "Award Amount": 148566.99,
+   "Award ID": "1333LB24F00000139",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "PATHLOCK APPLICATION SECURITY PLATFORM",
+   "End Date": "2027-06-16",
+   "Last Modified Date": "2026-05-26 13:11:06",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "SOFTWARE INFORMATION RESOURCE CORP.",
+   "Start Date": "2024-06-17",
+   "Total Outlays": 148566.99,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24F00000139_1323_NNG15SD74B_8000",
+   "internal_id": 277633235
+  },
+  {
+   "Award Amount": 137960.17,
+   "Award ID": "1333LC25P00000018",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "IBML SCANNING STATION HW-SW MAINTENANCE SUPPORT SERVICES.",
+   "End Date": "2030-07-07",
+   "Last Modified Date": "2026-06-09 11:10:07",
+   "NAICS": {
+    "code": "811310",
+    "description": "COMMERCIAL AND INDUSTRIAL MACHINERY AND EQUIPMENT (EXCEPT AUTOMOTIVE AND ELECTRONIC) REPAIR AND MAINTENANCE"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "IMAGING BUSINESS MACHINES LLC",
+   "Start Date": "2025-07-08",
+   "Total Outlays": 84596.62,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LC25P00000018_1323_-NONE-_-NONE-",
+   "internal_id": 277634324
+  },
+  {
+   "Award Amount": 125512.5,
+   "Award ID": "13ADDC26F0008",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "GEO SAFE FME ANNUAL SOFTWARE SUPPORT RENEWAL",
+   "End Date": "2027-09-24",
+   "Last Modified Date": "2026-07-23 07:38:09",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ACCESSAGILITY LLC",
+   "Start Date": "2026-09-25",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0008_1323_NNG15SC23B_8000",
+   "internal_id": 361643944
+  },
+  {
+   "Award Amount": 120708.8,
+   "Award ID": "13TECH26F0017",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "12-MONTHS RENEWAL OF ORACLE MYSQL CLUSTER CARRIER GRADE EDITION SUBSCRIPTION LICENSE",
+   "End Date": "2027-04-11",
+   "Last Modified Date": "2026-04-07 13:41:29",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "AFFIGENT, LLC",
+   "Start Date": "2026-04-12",
+   "Total Outlays": 30177.2,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0017_1323_NNG15SC59B_8000",
+   "internal_id": 356666055
+  },
+  {
+   "Award Amount": 106846.0,
+   "Award ID": "13ADDC25F00000180",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SEER SOFTWARE.",
+   "End Date": "2026-09-18",
+   "Last Modified Date": "2026-03-10 11:44:54",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "ACCESSAGILITY LLC",
+   "Start Date": "2025-09-19",
+   "Total Outlays": 213692.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC25F00000180_1323_NNG15SC23B_8000",
+   "internal_id": 277696189
+  },
+  {
+   "Award Amount": 99795.65,
+   "Award ID": "1333LC25P00000019",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "IBML SCANNING STATION MAINTENANCE AND SUPPORT SERVICES.",
+   "End Date": "2027-07-07",
+   "Last Modified Date": "2026-06-08 10:14:29",
+   "NAICS": {
+    "code": "811310",
+    "description": "COMMERCIAL AND INDUSTRIAL MACHINERY AND EQUIPMENT (EXCEPT AUTOMOTIVE AND ELECTRONIC) REPAIR AND MAINTENANCE"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "IMAGING BUSINESS MACHINES LLC",
+   "Start Date": "2025-07-08",
+   "Total Outlays": 61194.28,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LC25P00000019_1323_-NONE-_-NONE-",
+   "internal_id": 277634325
+  },
+  {
+   "Award Amount": 97829.71,
+   "Award ID": "13ADEP26F0011",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "THE CONTRACTOR SHALL UTILIZE THE GOVERNMENT-IDENTIFIED MIGRATION TOOL, QMIGRATOR, TO SUPPORT THE MIGRATION OF LEGACY DATABASES, INCLUDING ORACLE, DB2, AND SQL SERVER, TO OPEN-SOURCE PLATFORMS SUCH AS POSTGRESQL AND MYSQL HOSTED IN AMAZON WEB SERVICES",
+   "End Date": "2027-01-15",
+   "Last Modified Date": "2026-10-30 08:25:58",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R499",
+    "description": "SUPPORT- PROFESSIONAL: OTHER"
+   },
+   "Recipient Name": "LITHE SOLUTIONS INC.",
+   "Start Date": "2026-08-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0011_1323_47QTCA25D003A_4732",
+   "internal_id": 361090961
+  },
+  {
+   "Award Amount": 92063.5,
+   "Award ID": "1331L525F13230174",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Department of Commerce",
+   "Contract Award Type": "BPA CALL",
+   "Description": "DATA HOSTING",
+   "End Date": "2026-09-21",
+   "Last Modified Date": "2026-09-25 10:37:10",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BLOCS LLC",
+   "Start Date": "2025-09-22",
+   "Total Outlays": 79826.4,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L525F13230174_1301_1331L525A13OS0013_1301",
+   "internal_id": 362776680
+  },
+  {
+   "Award Amount": 88254.63,
+   "Award ID": "1331L526F0226",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "DELL SERVERS AND STORAGE SUPPORT",
+   "End Date": "2027-08-13",
+   "Last Modified Date": "2026-06-30 13:49:06",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7G21",
+    "description": "IT AND TELECOM - NETWORK: DIGITAL NETWORK PRODUCTS (HARDWARE AND PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "IMPRES TECHNOLOGY SOLUTIONS, INC",
+   "Start Date": "2026-07-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0226_1301_1331L525A13OS0016_1301",
+   "internal_id": 359810123
+  },
+  {
+   "Award Amount": 86528.46,
+   "Award ID": "1333LB23F00000119",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "PHIRE CODE MIGRATION AND CHANGE MANAGEMENT SOFTWARE",
+   "End Date": "2028-07-31",
+   "Last Modified Date": "2026-04-28 08:49:03",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "SOFTWARE INFORMATION RESOURCE CORP.",
+   "Start Date": "2023-08-01",
+   "Total Outlays": 65805.99,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23F00000119_1323_NNG15SD74B_8000",
+   "internal_id": 277633089
+  },
+  {
+   "Award Amount": 82856.97,
+   "Award ID": "13ADEP26F0004",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "THE UNITED STATES CENSUS BUREAU (USCB), ECONOMIC APPLICATIONS DIVISION (EAD) IS SEEKING TO PROCURE MYQSL ENTERPRISE SOFTWARE LICENSE AND MAINTENANCE SUPPORT RENEWAL.",
+   "End Date": "2027-03-20",
+   "Last Modified Date": "2026-03-17 16:15:54",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "STRATEGIC COMMUNICATIONS LLC",
+   "Start Date": "2026-03-21",
+   "Total Outlays": 82856.97,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0004_1323_NNG15SC90B_8000",
+   "internal_id": 356366884
+  },
+  {
+   "Award Amount": 76600.34,
+   "Award ID": "13TECH26F0039",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "JIRA ENTERPRISE SOFTWARE LICENSES FOR PROJECTS",
+   "End Date": "2027-09-04",
+   "Last Modified Date": "2026-07-01 11:15:27",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BAHFED CORP",
+   "Start Date": "2026-09-05",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0039_1323_NNG15SD09B_8000",
+   "internal_id": 359935133
+  },
+  {
+   "Award Amount": 73316.47,
+   "Award ID": "13ADDC26F0011",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "GEO CODE-1 PLUS ANNUAL SOFTWARE SUPPORT RENEWAL",
+   "End Date": "2027-09-19",
+   "Last Modified Date": "2026-08-12 13:16:55",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BAHFED CORP",
+   "Start Date": "2026-09-20",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0011_1323_NNG15SD09B_8000",
+   "internal_id": 361285410
+  },
+  {
+   "Award Amount": 66840.0,
+   "Award ID": "13ADDC26C0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "HOTEL/MOTEL DATA",
+   "End Date": "2027-08-02",
+   "Last Modified Date": "2026-08-17 11:22:48",
+   "NAICS": {
+    "code": "519290",
+    "description": "WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "COSTAR REALTY INFORMATION, INC.",
+   "Start Date": "2026-08-03",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26C0001_1323_-NONE-_-NONE-",
+   "internal_id": 359765451
+  },
+  {
+   "Award Amount": 65939.49,
+   "Award ID": "13ADDC26F0003",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "THE GEO DOCUMENT E-ARCHIVE SYSTEM (GEODES) SYSTEM MAINTENANCE AND SUPPORT",
+   "End Date": "2027-03-31",
+   "Last Modified Date": "2026-04-01 11:00:16",
+   "NAICS": {
+    "code": "541512",
+    "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "AMAR HEALTH IT, LLC",
+   "Start Date": "2026-04-01",
+   "Total Outlays": 59345.54,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0003_1323_HHSN316201200115W_7529",
+   "internal_id": 356756866
+  },
+  {
+   "Award Amount": 65753.65,
+   "Award ID": "1331L526F0281",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "DBIT # 125424  THIS CONTRACT SUPPORTS THE DECENNIAL CENSUS PARTNERSHIP PROGRAM FOR THE 2026 CENSUS TEST BY PROVIDING 28 SALESFORCE CRM LICENSES THAT WILL ENABLE THE STAFF TO EFFECTIVELY MANAGE OUTREACH AND ENGAGEMENT ACTIVITIES RELATED TO COMMUNICAT",
+   "End Date": "2027-08-31",
+   "Last Modified Date": "2026-08-13 11:37:30",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "COUNTERTRADE PRODUCTS, INC.",
+   "Start Date": "2026-09-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0281_1301_NNG15SC65B_8000",
+   "internal_id": 360777463
+  },
+  {
+   "Award Amount": 60714.29,
+   "Award ID": "13TECH26F0034",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "SONARQUBE SOFTWARE LICENSES - DBIT #125444/117847 / IT PACT #26-57",
+   "End Date": "2027-09-27",
+   "Last Modified Date": "2026-06-23 11:46:54",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "BAHFED CORP",
+   "Start Date": "2026-09-28",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0034_1323_NNG15SD09B_8000",
+   "internal_id": 359651496
+  },
+  {
+   "Award Amount": 56580.0,
+   "Award ID": "13TECH26F0036",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "12-MONTH BASE PERIOD FOR RENEWAL OF CONNECTALL FOR JIRA ATLASSIAN SOFTWARE LICENSES AND ASSOCIATED COMPONENTS",
+   "End Date": "2027-08-20",
+   "Last Modified Date": "2026-07-08 13:09:50",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "FCN, INC.",
+   "Start Date": "2026-08-21",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0036_1323_NNG15SC71B_8000",
+   "internal_id": 360101915
+  },
+  {
+   "Award Amount": 52109.62,
+   "Award ID": "13ADDC26F0013",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "GEO ORACLE GOLDENGATE ANNUAL SOFTWARE SUPPORT RENEWAL / DBIT# 117781 / IT PACT #26-120",
+   "End Date": "2027-09-13",
+   "Last Modified Date": "2026-08-26 16:48:57",
+   "NAICS": {
+    "code": "334111",
+    "description": "ELECTRONIC COMPUTER MANUFACTURING"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "DYNAMIC SYSTEMS INC",
+   "Start Date": "2026-09-14",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0013_1323_NNG15SC09B_8000",
+   "internal_id": 361794588
+  },
+  {
+   "Award Amount": 45896.65,
+   "Award ID": "13ADEP26F0009",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "PGP COMMAND LINE RENEWAL",
+   "End Date": "2027-07-31",
+   "Last Modified Date": "2026-07-31 12:03:49",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "SOFTWARE INFORMATION RESOURCE CORP.",
+   "Start Date": "2026-08-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0009_1323_NNG15SD74B_8000",
+   "internal_id": 360984126
+  },
+  {
+   "Award Amount": 41846.5,
+   "Award ID": "13TECH26F0019",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "THIS REQUIREMENT IS TO PROVIDE FULL-SERVICE HARDWARE AND SOFTWARE SUPPORT AND MAINTENANCE IMAGETRAC 6400 SCANNER 85880 LOCATED AT SUITLAND MD, HEADQUARTERS   IT PACT 26-37  DBIT 117809",
+   "End Date": "2027-06-09",
+   "Last Modified Date": "2026-06-15 10:05:52",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "BETTER DIRECT, LLC",
+   "Start Date": "2026-06-10",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0019_1323_NNG15SD10B_8000",
+   "internal_id": 359171415
+  },
+  {
+   "Award Amount": 37111.09,
+   "Award ID": "13ADRM26F0004",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "PURCHASE OF TERMINAL LICENSES, WHICH ARE ESSENTIAL FOR SECURE USER ACCESS AND DAY-TO-DAY OPERATION WITHIN THE IRE. IT PACT 26-176 DBIT:",
+   "End Date": "2027-02-28",
+   "Last Modified Date": "2026-11-04 16:17:05",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "SOFTWARE INFORMATION RESOURCE CORP.",
+   "Start Date": "2026-04-15",
+   "Total Outlays": 37111.09,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADRM26F0004_1323_NNG15SD74B_8000",
+   "internal_id": 357144039
+  },
+  {
+   "Award Amount": 35795.47,
+   "Award ID": "13ADDC26F0006",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "HARDWARE CABLE SUPPLIES  IT PACT 26-467 DBIT: 128113",
+   "End Date": "2026-09-30",
+   "Last Modified Date": "2026-06-24 17:09:44",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7C20",
+    "description": "IT AND TELECOM - DATA CENTER PRODUCTS (HARDWARE AND PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "AMERICAN WORDATA, INC",
+   "Start Date": "2026-06-26",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0006_1323_NNG15SC62B_8000",
+   "internal_id": 359675901
+  },
+  {
+   "Award Amount": 35703.84,
+   "Award ID": "13TECH26F0029",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "HID ARCID SOFTWARE MAINTENANCE SUPPORT - DBIT 127687 IT PACT 26-39",
+   "End Date": "2027-07-31",
+   "Last Modified Date": "2026-06-11 11:04:22",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "REDHAWK IT SOLUTIONS, LLC",
+   "Start Date": "2026-06-11",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0029_1323_NNG15SD38B_8000",
+   "internal_id": 359148987
+  },
+  {
+   "Award Amount": 34572.26,
+   "Award ID": "13ADDC26F0010",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "EA SPARX LICENSES: PROLABORATE LARGE TEAMS, ENHANCED SUPPORT AND MAINT AGREEMENT, ASSISTED SETUP OF SPARX ARCHITECTURE PLATFORM, PCS TEAMS SERVER LICENSES IT PACT 26-215 DBIT 125419 125425/125431",
+   "End Date": "2027-07-31",
+   "Last Modified Date": "2026-07-31 14:52:39",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "SOFTWARE INFORMATION RESOURCE CORP.",
+   "Start Date": "2026-08-01",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0010_1323_NNG15SD74B_8000",
+   "internal_id": 360984124
+  },
+  {
+   "Award Amount": 31900.0,
+   "Award ID": "13ADDP26P0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "LODGING FOR FSCPE ATTENDEES SEPTEMBER 2026",
+   "End Date": "2026-09-19",
+   "Last Modified Date": "2026-07-24 09:42:15",
+   "NAICS": {
+    "code": "721110",
+    "description": "HOTELS (EXCEPT CASINO HOTELS) AND MOTELS"
+   },
+   "PSC": {
+    "code": "V231",
+    "description": "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: LODGING, HOTEL/MOTEL"
+   },
+   "Recipient Name": "SHANO INC.",
+   "Start Date": "2026-09-14",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDP26P0001_1323_-NONE-_-NONE-",
+   "internal_id": 360815118
+  },
+  {
+   "Award Amount": 28550.03,
+   "Award ID": "13ADFL26C0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DEFINITIVE CONTRACT",
+   "Description": "DT CAPTURE RECOGNITION ENGINE STANDARD INTERFACE MAINTENANCE. CAPTURE CENTER EXTENDED SUPPORT/LIMITED EXTENDED SUPPORT.",
+   "End Date": "2027-01-31",
+   "Last Modified Date": "2026-04-01 08:18:55",
+   "NAICS": {
+    "code": "423430",
+    "description": "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS"
+   },
+   "PSC": {
+    "code": "H270",
+    "description": "EQUIPMENT AND MATERIALS TESTING- ADP EQUIPMENT/SOFTWARE/SUPPLIES/SUPPORT EQUIPMENT"
+   },
+   "Recipient Name": "OPEN TEXT INC.",
+   "Start Date": "2026-02-01",
+   "Total Outlays": 28550.03,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADFL26C0001_1323_-NONE-_-NONE-",
+   "internal_id": 356756868
+  },
+  {
+   "Award Amount": 23487.3,
+   "Award ID": "13ADEP26F0005",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "MYSQL SOFTWARE 12 MONTH RENEWAL",
+   "End Date": "2027-03-20",
+   "Last Modified Date": "2026-04-01 11:35:03",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "BLUE TECH INC.",
+   "Start Date": "2026-04-01",
+   "Total Outlays": 23487.3,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0005_1323_NNG15SD00B_8000",
+   "internal_id": 356756867
+  },
+  {
+   "Award Amount": 23464.0,
+   "Award ID": "13ADDC26P0001",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "AUDIO/VIDEO FOR POP FSCPE 2026 MEETING",
+   "End Date": "2026-08-30",
+   "Last Modified Date": "2026-07-28 10:21:23",
+   "NAICS": {
+    "code": "561920",
+    "description": "CONVENTION AND TRADE SHOW ORGANIZERS"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "INSPIRE EVENTS LLC",
+   "Start Date": "2026-04-30",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26P0001_1323_-NONE-_-NONE-",
+   "internal_id": 357609862
+  },
+  {
+   "Award Amount": 22736.36,
+   "Award ID": "13ADDC26F0012",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "AWARD A DELIVERY TASK ORDER WITH ONE BASE YEAR AND FOUR OPTION YEARS FOR TRADOS STUDIO/TRADOS GROUPSHARE SOFTWARE LICENSE MAINTENANCE RENEWAL",
+   "End Date": "2027-09-29",
+   "Last Modified Date": "2026-08-27 11:48:36",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "SOFTWARE INFORMATION RESOURCE CORP.",
+   "Start Date": "2026-09-30",
+   "Total Outlays": null,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADDC26F0012_1323_NNG15SD74B_8000",
+   "internal_id": 361825575
+  },
+  {
+   "Award Amount": 22304.48,
+   "Award ID": "13ADRM26F0008",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "PURCHASE OF 44 ENTERPRISE TRAINING SUBSCRIPTION LICENSES OFFERED BY PLURALSIGHT. IT PACT 26-321",
+   "End Date": "2027-06-10",
+   "Last Modified Date": "2026-06-09 17:27:14",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "R799",
+    "description": "SUPPORT- MANAGEMENT: OTHER"
+   },
+   "Recipient Name": "ADVANCED COMPUTER CONCEPTS, INC.",
+   "Start Date": "2026-06-11",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADRM26F0008_1323_NNG15SD60B_8000",
+   "internal_id": 359095340
+  },
+  {
+   "Award Amount": 20976.93,
+   "Award ID": "13ADEP26F0002",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "RENEWAL ATLASSIAN JIRA DATA CENTER SOFTWARE LICENSE",
+   "End Date": "2027-02-18",
+   "Last Modified Date": "2026-02-12 15:41:53",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DA10",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SOFTWARE AS A SERVICE"
+   },
+   "Recipient Name": "DH TECHNOLOGIES, INC.",
+   "Start Date": "2026-02-19",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADEP26F0002_1323_NNG15SC70B_8000",
+   "internal_id": 355243656
+  },
+  {
+   "Award Amount": 19897.96,
+   "Award ID": "1331L526F0164",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "MICROSOFT ANNUAL RENEWAL FOR DCEO - IT PACT 26-332",
+   "End Date": "2027-05-31",
+   "Last Modified Date": "2026-09-23 13:21:34",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "DELL FEDERAL SYSTEMS L.P",
+   "Start Date": "2026-06-01",
+   "Total Outlays": 19339.56,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0164_1301_1331L524A13ES0005_1301",
+   "internal_id": 358834700
+  },
+  {
+   "Award Amount": 19405.0,
+   "Award ID": "1331L526F0134",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "Office of the Secretary",
+   "Contract Award Type": "BPA CALL",
+   "Description": "NVIDIA -NETS SSI",
+   "End Date": "2027-04-03",
+   "Last Modified Date": "2026-05-14 10:37:26",
+   "NAICS": {
+    "code": "511210",
+    "description": "SOFTWARE PUBLISHERS"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "LYME COMPUTER SYSTEMS, INC.",
+   "Start Date": "2026-05-14",
+   "Total Outlays": 19405.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1331L526F0134_1301_1331L525A13OS0017_1301",
+   "internal_id": 357864866
+  },
+  {
+   "Award Amount": 18816.32,
+   "Award ID": "13TECH26F0020",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "PRECISELY CODE 1 PLUS SOFTWARE RENEWAL",
+   "End Date": "2027-07-23",
+   "Last Modified Date": "2026-05-08 11:42:24",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "J049",
+    "description": "MAINT/REPAIR/REBUILD OF EQUIPMENT- MAINTENANCE AND REPAIR SHOP EQUIPMENT"
+   },
+   "Recipient Name": "COUNTERTRADE PRODUCTS, INC.",
+   "Start Date": "2026-07-24",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13TECH26F0020_1323_NNG15SC65B_8000",
+   "internal_id": 357735702
+  },
+  {
+   "Award Amount": 15408.9,
+   "Award ID": "13ADRM26F0006",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "DELIVERY ORDER",
+   "Description": "FIGMA FOR GOVERNMENT LICENSES FOR CED AND DITD / DBIT #127655 / IT PACT #26-265",
+   "End Date": "2027-05-18",
+   "Last Modified Date": "2026-05-19 12:18:52",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "7A21",
+    "description": "IT AND TELECOM - BUSINESS APPLICATION SOFTWARE (PERPETUAL LICENSE SOFTWARE)"
+   },
+   "Recipient Name": "COUNTERTRADE PRODUCTS, INC.",
+   "Start Date": "2026-05-19",
+   "Total Outlays": 0.0,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_13ADRM26F0006_1323_NNG15SC65B_8000",
+   "internal_id": 358466285
+  },
+  {
+   "Award Amount": 9928.56,
+   "Award ID": "1333LB24P00000012",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "HANDSONCODE SOFTWARE BASE TERM 12/22/2023 - 12/21/2024",
+   "End Date": "2026-12-21",
+   "Last Modified Date": "2025-12-11 09:08:05",
+   "NAICS": {
+    "code": "541519",
+    "description": "OTHER COMPUTER RELATED SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "SHI INTERNATIONAL CORP",
+   "Start Date": "2023-12-22",
+   "Total Outlays": 6619.04,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB24P00000012_1323_-NONE-_-NONE-",
+   "internal_id": 277633291
+  },
+  {
+   "Award Amount": 2803.6,
+   "Award ID": "1333LB23P00000085",
+   "Awarding Agency": "Department of Commerce",
+   "Awarding Sub Agency": "U.S. Census Bureau",
+   "Contract Award Type": "PURCHASE ORDER",
+   "Description": "GENERALIZED INSTRUMENT DESIGN SYSTEM (GIDS) MAINTENANCE SUPPORT",
+   "End Date": "2025-09-27",
+   "Last Modified Date": "2026-10-21 12:24:49",
+   "NAICS": {
+    "code": "541511",
+    "description": "CUSTOM COMPUTER PROGRAMMING SERVICES"
+   },
+   "PSC": {
+    "code": "DD01",
+    "description": "IT AND TELECOM - SERVICE DELIVERY SUPPORT SERVICES: ITSM, OPERATIONS CENTER, PROJECT/PM (LABOR)"
+   },
+   "Recipient Name": "WESTAT, INC.",
+   "Start Date": "2023-09-28",
+   "Total Outlays": 2803.6,
+   "agency_slug": "department-of-commerce",
+   "awarding_agency_id": 183,
+   "generated_internal_id": "CONT_AWD_1333LB23P00000085_1323_-NONE-_-NONE-",
+   "internal_id": 277633170
+  }
+ ],
+ "content_hash": "557dae4531064dde715b6a5530543ccd417e2d7bb5a4832369878ed74a42c151",
+ "fetched": "2026-11-09",
+ "fiscal_year": 2026,
+ "tas_codes": [
+  {
+   "aid": "013",
+   "main": "0450"
+  },
+  {
+   "aid": "013",
+   "main": "0401"
+  }
+ ],
+ "window": [
+  "2025-10-01",
+  "2026-09-30"
+ ]
+}

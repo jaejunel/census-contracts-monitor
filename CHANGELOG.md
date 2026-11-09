@@ -6,6 +6,21 @@ and Programs), newest first. Awards flagged **[DATA]** matched the
 data-acquisition classifier -- see README for what that does and does
 not mean.
 
+## 2026-11-09
+
+Fiscal year FY2026: 215 → 216 awards.
+
+**1 added, 0 removed, 1 modified.**
+
+### Other awards added (1)
+
+- CATHEXIS, LLC — TOOLS APPLICATION/ADMINISTRATION SUPPORT SERVICES CALL ORDER 0003. ($3,982,420)
+
+### Modified (1)
+
+- I TECH AG LLC — DEC AUTOMATED TRAINING SUPPORT
+  - `total_outlays`: $4,361,870 → $4,752,872
+
 ## 2026-11-02
 
 Fiscal year FY2026: 215 → 215 awards.
