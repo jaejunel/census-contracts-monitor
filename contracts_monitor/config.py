@@ -171,4 +171,12 @@ NAICS_INFORMATION_PREFIX = "51"  # corroborating signal only
 # If added+removed exceeds this fraction of the larger snapshot, refuse to
 # write a changelog entry.
 MAX_CHURN_FRACTION = 0.25
+# A percentage is meaningless on a tiny base: one new award is 11-20% churn on
+# 5-9 rows. Below this many rows the churn guard looks only at removals, and
+# needs several of them (see guards.check_churn).
+MIN_ROWS_FOR_CHURN_PCT = 50
+MIN_REMOVALS_SMALL = 3
+# A fiscal year younger than this is still filling up, so additions are
+# expected and only removals are suspicious.
+YOUNG_FY_DAYS = 90
 MIN_EXPECTED_AWARDS = 10  # a full-year fetch below this is implausible

@@ -67,7 +67,7 @@ def check_result_count(n: int, context: str, prior_count: int | None = None,
             )
         return
 
-    if fy_days_elapsed is not None and fy_days_elapsed < 90:
+    if fy_days_elapsed is not None and fy_days_elapsed < config.YOUNG_FY_DAYS:
         return  # young fiscal year: a small count is expected
 
     if n < config.MIN_EXPECTED_AWARDS:
@@ -79,7 +79,37 @@ def check_result_count(n: int, context: str, prior_count: int | None = None,
         )
 
 
-def check_churn(n_added: int, n_removed: int, old_count: int, new_count: int) -> None:
+def check_churn(n_added: int, n_removed: int, old_count: int, new_count: int,
+                fy_days_elapsed: int | None = None) -> None:
+    """Refuse a diff that looks more like a source break than real change.
+
+    The first version flagged any added+removed above 25% of rows. A live run
+    caught the flaw: FY2027, six weeks old, grew from 6 to 9 awards, and three
+    new awards read as 33% "churn". What this guard exists to catch is awards
+    *disappearing* (a changed query or a source fault); a filling fiscal year
+    adding awards is normal. A scope that silently widened is caught
+    separately by check_filters_applied.
+
+    * Young fiscal year (< YOUNG_FY_DAYS) or a small base
+      (< MIN_ROWS_FOR_CHURN_PCT rows): only removals count, and at least
+      MIN_REMOVALS_SMALL of them, so one withdrawn award cannot trip it.
+    * Otherwise: added + removed above MAX_CHURN_FRACTION of the larger
+      snapshot, as before.
+    """
+    young = fy_days_elapsed is not None and fy_days_elapsed < config.YOUNG_FY_DAYS
+    small = max(old_count, new_count) < config.MIN_ROWS_FOR_CHURN_PCT
+    if young or small:
+        frac = n_removed / max(old_count, 1)
+        if n_removed >= config.MIN_REMOVALS_SMALL and frac > config.MAX_CHURN_FRACTION:
+            raise ChurnGuardError(
+                f"{n_removed} of {old_count} awards ({frac:.0%}) disappeared between "
+                f"snapshots in a young or small fiscal year -- above the "
+                f"{config.MAX_CHURN_FRACTION:.0%} threshold. Awards do not vanish "
+                f"like this. Refusing to write a changelog entry; the extracted CSV "
+                f"is saved with a .suspect.csv suffix for inspection."
+            )
+        return
+
     total = max(old_count, new_count, 1)
     churn = n_added + n_removed
     frac = churn / total

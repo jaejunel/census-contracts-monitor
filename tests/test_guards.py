@@ -72,3 +72,29 @@ def test_young_fy_with_prior_snapshot_uses_drop_rule_not_floor():
     """Once a young FY has a prior snapshot, growth is normal and only a
     collapse should alarm."""
     check_result_count(9, "FY2027", prior_count=5, fy_days_elapsed=40)
+
+
+def test_young_fiscal_year_growth_is_not_churn():
+    """Regression (2026-11-09): FY2027, six weeks old, grew from 6 to 9
+    awards. Three additions read as 33% churn and failed the run."""
+    check_churn(3, 0, 6, 9, fy_days_elapsed=40)
+
+
+def test_small_base_additions_never_trip_even_in_a_mature_year():
+    check_churn(3, 0, 6, 9, fy_days_elapsed=300)
+
+
+def test_small_base_removals_still_trip():
+    with pytest.raises(ChurnGuardError):
+        check_churn(0, 3, 6, 3, fy_days_elapsed=40)
+    with pytest.raises(ChurnGuardError):
+        check_churn(0, 3, 6, 3)
+
+
+def test_a_single_removal_cannot_trip_a_small_year():
+    check_churn(0, 1, 3, 2, fy_days_elapsed=40)   # 33%, but only one award
+
+
+def test_mature_large_year_still_checks_additions():
+    with pytest.raises(ChurnGuardError):
+        check_churn(80, 0, 100, 180, fy_days_elapsed=300)

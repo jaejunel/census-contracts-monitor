@@ -85,18 +85,28 @@ def process_fy(fy: int, today: str | None = None) -> Outcome:
 
     new_hash = canonical_hash(awards)
     prev_snap = latest_snapshot(fy)
+    prev_ext_now = latest_extracted(fy)
+    # A guard trip saves the snapshot BEFORE refusing the diff. So "same hash
+    # as the latest snapshot" only means "nothing to do" if that snapshot was
+    # actually diffed, i.e. an extraction at least as new exists. Otherwise
+    # the next run would exit quietly and the change would never reach the
+    # changelog.
+    unresolved = prev_snap is not None and (prev_ext_now is None or prev_ext_now[0] < prev_snap[0])
+    same_as_snapshot = False
     if prev_snap:
         prev = json.load(open(prev_snap[1], encoding="utf-8"))
-        if prev.get("content_hash") == new_hash:
+        same_as_snapshot = prev.get("content_hash") == new_hash
+        if same_as_snapshot and not unresolved:
             return Outcome(fy, d, "unchanged", f"hash {new_hash[:12]}... matches {prev_snap[1]}", len(awards))
 
-    snap = snapshot_path(fy, d)
-    json.dump(
-        {"fetched": d, "fiscal_year": fy, "tas_codes": config.TAS_CODES,
-         "window": [start, end], "content_hash": new_hash,
-         "award_count": len(awards), "awards": awards},
-        open(snap, "w", encoding="utf-8"), indent=1, sort_keys=True,
-    )
+    if not same_as_snapshot:
+        snap = snapshot_path(fy, d)
+        json.dump(
+            {"fetched": d, "fiscal_year": fy, "tas_codes": config.TAS_CODES,
+             "window": [start, end], "content_hash": new_hash,
+             "award_count": len(awards), "awards": awards},
+            open(snap, "w", encoding="utf-8"), indent=1, sort_keys=True,
+        )
 
     rows = to_rows(awards)
     prev_ext = latest_extracted(fy)
@@ -111,7 +121,8 @@ def process_fy(fy: int, today: str | None = None) -> Outcome:
     old_rows = csvio.read_csv(prev_ext[1])
     res = diff_awards(old_rows, rows)
     try:
-        guards.check_churn(len(res.added), len(res.removed), len(old_rows), len(rows))
+        guards.check_churn(len(res.added), len(res.removed), len(old_rows), len(rows),
+                           fy_days_elapsed=elapsed)
     except guards.ChurnGuardError as e:
         csvio.write_csv(rows, suspect_path(fy, d))
         return Outcome(fy, d, "guard_tripped", str(e), len(rows))
