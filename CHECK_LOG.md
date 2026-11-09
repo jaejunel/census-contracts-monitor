@@ -27,3 +27,5 @@ Every run of the monitor, whether or not awards changed.
 - 2026-11-02 FY2026: diffed (0 added, 0 removed, 1 modified)
 - 2026-11-09 FY2027: CHURN GUARD TRIPPED — 3 of 9 awards (33%) added or removed between snapshots -- above the 25% threshold. Contract records do change retroactively, but not like this. Refusing to write a changelog entry; the extracted CSV is saved with a .suspect.csv suffix for inspection.
 - 2026-11-09 FY2026: diffed (1 added, 0 removed, 1 modified)
+- 2026-11-09 FY2027: diffed (3 added, 0 removed, 0 modified)
+- 2026-11-09 FY2026: unchanged (216 awards)
