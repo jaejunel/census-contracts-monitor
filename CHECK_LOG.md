@@ -29,3 +29,5 @@ Every run of the monitor, whether or not awards changed.
 - 2026-11-09 FY2026: diffed (1 added, 0 removed, 1 modified)
 - 2026-11-09 FY2027: diffed (3 added, 0 removed, 0 modified)
 - 2026-11-09 FY2026: unchanged (216 awards)
+- 2026-11-16 FY2027: diffed (7 added, 0 removed, 0 modified)
+- 2026-11-16 FY2026: diffed (5 added, 0 removed, 2 modified)
